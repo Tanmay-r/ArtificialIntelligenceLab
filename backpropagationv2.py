@@ -3,7 +3,6 @@ import math
 
 def computeError(Y, Ypredicted):
 	error = 0
-	print Ypredicted
 	for i in range(Ypredicted.shape[0]):
 		error += 0.5*(Y[i] - Ypredicted[i])*(Y[i] - Ypredicted[i])
 	return error
@@ -43,20 +42,21 @@ def feedForward(w, x, layer):
 		x.append(-1)
 		for j in range(1, layerW.shape[0]):
 			x.append(outputsNew[l][j-1])
-	print outputsNew
 	return outputsNew
 
 
 def deltaOutermost(layer, t, outputs):
 	deltaOutermost = []
-	print layer.shape[0] - 1
-	for i in range(layer[layer.shape[0] - 1]):
+	for i in range(layer[layer.shape[0] - 1]-1):
 		oj = outputs[layer.shape[0] - 2][i]
 		deltaOutermost.append((t[i] - oj)*oj*(1 - oj))
 	return np.array(deltaOutermost)
 
 def modifyDelta(t, w, outputs, layer):
 	delta = initializeDelta(layer)
+	print delta
+	print layer.shape[0] - 1 
+	#error
 	delta[layer.shape[0] - 1] = deltaOutermost(layer, t, outputs) 
 	for l in range(layer.shape[0] - 1):
 		for j in range(1, layer[l]):
@@ -97,7 +97,7 @@ def backpropagation(layer, X, Y):
 
 	w = initializeW(layer, 1)
 	delta = initializeDelta(layer)
-	print delta
+
 	outputs = initializeDelta(layer)
 
 	errorThresh = 0.05
