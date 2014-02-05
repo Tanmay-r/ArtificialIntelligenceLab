@@ -1,0 +1,8553 @@
+Epoch Number : 1
+Error = 0.26655420066
+Epoch Number : 2
+Error = 0.265161431157
+Epoch Number : 3
+Error = 0.263872997561
+Epoch Number : 4
+Error = 0.262683509485
+Epoch Number : 5
+Error = 0.261587453814
+Epoch Number : 6
+Error = 0.260579276034
+Epoch Number : 7
+Error = 0.259653450513
+Epoch Number : 8
+Error = 0.258804539794
+Epoch Number : 9
+Error = 0.258027243346
+Epoch Number : 10
+Error = 0.257316436449
+Epoch Number : 11
+Error = 0.256667200086
+Epoch Number : 12
+Error = 0.256074842792
+Epoch Number : 13
+Error = 0.255534915462
+Epoch Number : 14
+Error = 0.255043220129
+Epoch Number : 15
+Error = 0.254595813644
+Epoch Number : 16
+Error = 0.254189007158
+Epoch Number : 17
+Error = 0.253819362221
+Epoch Number : 18
+Error = 0.253483684206
+Epoch Number : 19
+Error = 0.253179013702
+Epoch Number : 20
+Error = 0.252902616413
+Epoch Number : 21
+Error = 0.252651972025
+Epoch Number : 22
+Error = 0.252424762429
+Epoch Number : 23
+Error = 0.252218859609
+Epoch Number : 24
+Error = 0.252032313455
+Epoch Number : 25
+Error = 0.251863339701
+Epoch Number : 26
+Error = 0.251710308132
+Epoch Number : 27
+Error = 0.251571731201
+Epoch Number : 28
+Error = 0.251446253115
+Epoch Number : 29
+Error = 0.251332639458
+Epoch Number : 30
+Error = 0.251229767391
+Epoch Number : 31
+Error = 0.251136616446
+Epoch Number : 32
+Error = 0.251052259907
+Epoch Number : 33
+Error = 0.25097585679
+Epoch Number : 34
+Error = 0.250906644396
+Epoch Number : 35
+Error = 0.250843931423
+Epoch Number : 36
+Error = 0.250787091604
+Epoch Number : 37
+Error = 0.250735557862
+Epoch Number : 38
+Error = 0.250688816933
+Epoch Number : 39
+Error = 0.250646404435
+Epoch Number : 40
+Error = 0.250607900367
+Epoch Number : 41
+Error = 0.250572924982
+Epoch Number : 42
+Error = 0.250541135031
+Epoch Number : 43
+Error = 0.250512220333
+Epoch Number : 44
+Error = 0.250485900661
+Epoch Number : 45
+Error = 0.250461922897
+Epoch Number : 46
+Error = 0.250440058456
+Epoch Number : 47
+Error = 0.250420100948
+Epoch Number : 48
+Error = 0.250401864047
+Epoch Number : 49
+Error = 0.250385179568
+Epoch Number : 50
+Error = 0.25036989572
+Epoch Number : 51
+Error = 0.250355875524
+Epoch Number : 52
+Error = 0.250342995379
+Epoch Number : 53
+Error = 0.250331143771
+Epoch Number : 54
+Error = 0.250320220093
+Epoch Number : 55
+Error = 0.250310133591
+Epoch Number : 56
+Error = 0.250300802401
+Epoch Number : 57
+Error = 0.250292152685
+Epoch Number : 58
+Error = 0.250284117847
+Epoch Number : 59
+Error = 0.250276637825
+Epoch Number : 60
+Error = 0.250269658455
+Epoch Number : 61
+Error = 0.25026313089
+Epoch Number : 62
+Error = 0.250257011082
+Epoch Number : 63
+Error = 0.250251259311
+Epoch Number : 64
+Error = 0.250245839759
+Epoch Number : 65
+Error = 0.250240720131
+Epoch Number : 66
+Error = 0.250235871306
+Epoch Number : 67
+Error = 0.250231267026
+Epoch Number : 68
+Error = 0.250226883615
+Epoch Number : 69
+Error = 0.250222699725
+Epoch Number : 70
+Error = 0.250218696107
+Epoch Number : 71
+Error = 0.250214855406
+Epoch Number : 72
+Error = 0.250211161971
+Epoch Number : 73
+Error = 0.250207601692
+Epoch Number : 74
+Error = 0.250204161844
+Epoch Number : 75
+Error = 0.250200830955
+Epoch Number : 76
+Error = 0.250197598677
+Epoch Number : 77
+Error = 0.250194455682
+Epoch Number : 78
+Error = 0.250191393555
+Epoch Number : 79
+Error = 0.250188404709
+Epoch Number : 80
+Error = 0.250185482301
+Epoch Number : 81
+Error = 0.25018262016
+Epoch Number : 82
+Error = 0.250179812717
+Epoch Number : 83
+Error = 0.250177054953
+Epoch Number : 84
+Error = 0.250174342336
+Epoch Number : 85
+Error = 0.250171670781
+Epoch Number : 86
+Error = 0.250169036601
+Epoch Number : 87
+Error = 0.250166436469
+Epoch Number : 88
+Error = 0.250163867382
+Epoch Number : 89
+Error = 0.25016132663
+Epoch Number : 90
+Error = 0.250158811769
+Epoch Number : 91
+Error = 0.25015632059
+Epoch Number : 92
+Error = 0.250153851099
+Epoch Number : 93
+Error = 0.250151401496
+Epoch Number : 94
+Error = 0.250148970154
+Epoch Number : 95
+Error = 0.250146555604
+Epoch Number : 96
+Error = 0.250144156519
+Epoch Number : 97
+Error = 0.250141771698
+Epoch Number : 98
+Error = 0.250139400056
+Epoch Number : 99
+Error = 0.250137040612
+Epoch Number : 100
+Error = 0.250134692477
+Epoch Number : 101
+Error = 0.250132354848
+Epoch Number : 102
+Error = 0.250130026998
+Epoch Number : 103
+Error = 0.250127708266
+Epoch Number : 104
+Error = 0.250125398056
+Epoch Number : 105
+Error = 0.250123095825
+Epoch Number : 106
+Error = 0.250120801082
+Epoch Number : 107
+Error = 0.250118513381
+Epoch Number : 108
+Error = 0.250116232316
+Epoch Number : 109
+Error = 0.250113957517
+Epoch Number : 110
+Error = 0.250111688651
+Epoch Number : 111
+Error = 0.25010942541
+Epoch Number : 112
+Error = 0.250107167516
+Epoch Number : 113
+Error = 0.250104914714
+Epoch Number : 114
+Error = 0.250102666773
+Epoch Number : 115
+Error = 0.250100423479
+Epoch Number : 116
+Error = 0.250098184638
+Epoch Number : 117
+Error = 0.250095950071
+Epoch Number : 118
+Error = 0.250093719614
+Epoch Number : 119
+Error = 0.250091493115
+Epoch Number : 120
+Error = 0.250089270435
+Epoch Number : 121
+Error = 0.250087051446
+Epoch Number : 122
+Error = 0.250084836028
+Epoch Number : 123
+Error = 0.250082624072
+Epoch Number : 124
+Error = 0.250080415475
+Epoch Number : 125
+Error = 0.250078210141
+Epoch Number : 126
+Error = 0.250076007981
+Epoch Number : 127
+Error = 0.250073808913
+Epoch Number : 128
+Error = 0.250071612857
+Epoch Number : 129
+Error = 0.250069419742
+Epoch Number : 130
+Error = 0.250067229497
+Epoch Number : 131
+Error = 0.250065042057
+Epoch Number : 132
+Error = 0.250062857362
+Epoch Number : 133
+Error = 0.250060675351
+Epoch Number : 134
+Error = 0.250058495969
+Epoch Number : 135
+Error = 0.250056319163
+Epoch Number : 136
+Error = 0.250054144883
+Epoch Number : 137
+Error = 0.250051973079
+Epoch Number : 138
+Error = 0.250049803704
+Epoch Number : 139
+Error = 0.250047636713
+Epoch Number : 140
+Error = 0.250045472062
+Epoch Number : 141
+Error = 0.250043309711
+Epoch Number : 142
+Error = 0.250041149616
+Epoch Number : 143
+Error = 0.250038991739
+Epoch Number : 144
+Error = 0.250036836041
+Epoch Number : 145
+Error = 0.250034682485
+Epoch Number : 146
+Error = 0.250032531032
+Epoch Number : 147
+Error = 0.250030381648
+Epoch Number : 148
+Error = 0.250028234298
+Epoch Number : 149
+Error = 0.250026088945
+Epoch Number : 150
+Error = 0.250023945556
+Epoch Number : 151
+Error = 0.250021804099
+Epoch Number : 152
+Error = 0.250019664539
+Epoch Number : 153
+Error = 0.250017526844
+Epoch Number : 154
+Error = 0.250015390982
+Epoch Number : 155
+Error = 0.250013256922
+Epoch Number : 156
+Error = 0.250011124631
+Epoch Number : 157
+Error = 0.250008994079
+Epoch Number : 158
+Error = 0.250006865235
+Epoch Number : 159
+Error = 0.250004738069
+Epoch Number : 160
+Error = 0.25000261255
+Epoch Number : 161
+Error = 0.250000488648
+Epoch Number : 162
+Error = 0.249998366335
+Epoch Number : 163
+Error = 0.249996245579
+Epoch Number : 164
+Error = 0.249994126351
+Epoch Number : 165
+Error = 0.249992008623
+Epoch Number : 166
+Error = 0.249989892366
+Epoch Number : 167
+Error = 0.24998777755
+Epoch Number : 168
+Error = 0.249985664147
+Epoch Number : 169
+Error = 0.249983552128
+Epoch Number : 170
+Error = 0.249981441466
+Epoch Number : 171
+Error = 0.24997933213
+Epoch Number : 172
+Error = 0.249977224094
+Epoch Number : 173
+Error = 0.249975117329
+Epoch Number : 174
+Error = 0.249973011807
+Epoch Number : 175
+Error = 0.249970907501
+Epoch Number : 176
+Error = 0.249968804382
+Epoch Number : 177
+Error = 0.249966702422
+Epoch Number : 178
+Error = 0.249964601595
+Epoch Number : 179
+Error = 0.249962501872
+Epoch Number : 180
+Error = 0.249960403227
+Epoch Number : 181
+Error = 0.249958305631
+Epoch Number : 182
+Error = 0.249956209057
+Epoch Number : 183
+Error = 0.249954113479
+Epoch Number : 184
+Error = 0.249952018868
+Epoch Number : 185
+Error = 0.249949925199
+Epoch Number : 186
+Error = 0.249947832443
+Epoch Number : 187
+Error = 0.249945740574
+Epoch Number : 188
+Error = 0.249943649565
+Epoch Number : 189
+Error = 0.249941559389
+Epoch Number : 190
+Error = 0.249939470019
+Epoch Number : 191
+Error = 0.249937381429
+Epoch Number : 192
+Error = 0.249935293592
+Epoch Number : 193
+Error = 0.249933206481
+Epoch Number : 194
+Error = 0.249931120069
+Epoch Number : 195
+Error = 0.249929034331
+Epoch Number : 196
+Error = 0.249926949239
+Epoch Number : 197
+Error = 0.249924864767
+Epoch Number : 198
+Error = 0.249922780889
+Epoch Number : 199
+Error = 0.249920697579
+Epoch Number : 200
+Error = 0.249918614809
+Epoch Number : 201
+Error = 0.249916532555
+Epoch Number : 202
+Error = 0.249914450789
+Epoch Number : 203
+Error = 0.249912369485
+Epoch Number : 204
+Error = 0.249910288618
+Epoch Number : 205
+Error = 0.249908208162
+Epoch Number : 206
+Error = 0.249906128089
+Epoch Number : 207
+Error = 0.249904048375
+Epoch Number : 208
+Error = 0.249901968994
+Epoch Number : 209
+Error = 0.249899889918
+Epoch Number : 210
+Error = 0.249897811123
+Epoch Number : 211
+Error = 0.249895732583
+Epoch Number : 212
+Error = 0.249893654272
+Epoch Number : 213
+Error = 0.249891576164
+Epoch Number : 214
+Error = 0.249889498234
+Epoch Number : 215
+Error = 0.249887420455
+Epoch Number : 216
+Error = 0.249885342802
+Epoch Number : 217
+Error = 0.249883265249
+Epoch Number : 218
+Error = 0.249881187771
+Epoch Number : 219
+Error = 0.249879110343
+Epoch Number : 220
+Error = 0.249877032938
+Epoch Number : 221
+Error = 0.249874955532
+Epoch Number : 222
+Error = 0.249872878098
+Epoch Number : 223
+Error = 0.249870800611
+Epoch Number : 224
+Error = 0.249868723046
+Epoch Number : 225
+Error = 0.249866645378
+Epoch Number : 226
+Error = 0.249864567581
+Epoch Number : 227
+Error = 0.249862489629
+Epoch Number : 228
+Error = 0.249860411499
+Epoch Number : 229
+Error = 0.249858333163
+Epoch Number : 230
+Error = 0.249856254597
+Epoch Number : 231
+Error = 0.249854175776
+Epoch Number : 232
+Error = 0.249852096674
+Epoch Number : 233
+Error = 0.249850017267
+Epoch Number : 234
+Error = 0.249847937529
+Epoch Number : 235
+Error = 0.249845857435
+Epoch Number : 236
+Error = 0.24984377696
+Epoch Number : 237
+Error = 0.249841696079
+Epoch Number : 238
+Error = 0.249839614767
+Epoch Number : 239
+Error = 0.249837532998
+Epoch Number : 240
+Error = 0.249835450748
+Epoch Number : 241
+Error = 0.249833367992
+Epoch Number : 242
+Error = 0.249831284704
+Epoch Number : 243
+Error = 0.24982920086
+Epoch Number : 244
+Error = 0.249827116435
+Epoch Number : 245
+Error = 0.249825031404
+Epoch Number : 246
+Error = 0.249822945742
+Epoch Number : 247
+Error = 0.249820859424
+Epoch Number : 248
+Error = 0.249818772425
+Epoch Number : 249
+Error = 0.24981668472
+Epoch Number : 250
+Error = 0.249814596285
+Epoch Number : 251
+Error = 0.249812507095
+Epoch Number : 252
+Error = 0.249810417124
+Epoch Number : 253
+Error = 0.249808326348
+Epoch Number : 254
+Error = 0.249806234742
+Epoch Number : 255
+Error = 0.249804142282
+Epoch Number : 256
+Error = 0.249802048942
+Epoch Number : 257
+Error = 0.249799954699
+Epoch Number : 258
+Error = 0.249797859526
+Epoch Number : 259
+Error = 0.2497957634
+Epoch Number : 260
+Error = 0.249793666295
+Epoch Number : 261
+Error = 0.249791568187
+Epoch Number : 262
+Error = 0.249789469052
+Epoch Number : 263
+Error = 0.249787368864
+Epoch Number : 264
+Error = 0.249785267599
+Epoch Number : 265
+Error = 0.249783165232
+Epoch Number : 266
+Error = 0.249781061738
+Epoch Number : 267
+Error = 0.249778957093
+Epoch Number : 268
+Error = 0.249776851272
+Epoch Number : 269
+Error = 0.249774744251
+Epoch Number : 270
+Error = 0.249772636005
+Epoch Number : 271
+Error = 0.249770526508
+Epoch Number : 272
+Error = 0.249768415737
+Epoch Number : 273
+Error = 0.249766303667
+Epoch Number : 274
+Error = 0.249764190274
+Epoch Number : 275
+Error = 0.249762075531
+Epoch Number : 276
+Error = 0.249759959416
+Epoch Number : 277
+Error = 0.249757841903
+Epoch Number : 278
+Error = 0.249755722968
+Epoch Number : 279
+Error = 0.249753602585
+Epoch Number : 280
+Error = 0.249751480731
+Epoch Number : 281
+Error = 0.249749357381
+Epoch Number : 282
+Error = 0.24974723251
+Epoch Number : 283
+Error = 0.249745106093
+Epoch Number : 284
+Error = 0.249742978107
+Epoch Number : 285
+Error = 0.249740848525
+Epoch Number : 286
+Error = 0.249738717324
+Epoch Number : 287
+Error = 0.249736584479
+Epoch Number : 288
+Error = 0.249734449966
+Epoch Number : 289
+Error = 0.249732313759
+Epoch Number : 290
+Error = 0.249730175834
+Epoch Number : 291
+Error = 0.249728036166
+Epoch Number : 292
+Error = 0.249725894731
+Epoch Number : 293
+Error = 0.249723751504
+Epoch Number : 294
+Error = 0.24972160646
+Epoch Number : 295
+Error = 0.249719459575
+Epoch Number : 296
+Error = 0.249717310824
+Epoch Number : 297
+Error = 0.249715160182
+Epoch Number : 298
+Error = 0.249713007624
+Epoch Number : 299
+Error = 0.249710853127
+Epoch Number : 300
+Error = 0.249708696664
+Epoch Number : 301
+Error = 0.249706538212
+Epoch Number : 302
+Error = 0.249704377746
+Epoch Number : 303
+Error = 0.24970221524
+Epoch Number : 304
+Error = 0.249700050671
+Epoch Number : 305
+Error = 0.249697884012
+Epoch Number : 306
+Error = 0.249695715241
+Epoch Number : 307
+Error = 0.249693544331
+Epoch Number : 308
+Error = 0.249691371258
+Epoch Number : 309
+Error = 0.249689195997
+Epoch Number : 310
+Error = 0.249687018523
+Epoch Number : 311
+Error = 0.249684838812
+Epoch Number : 312
+Error = 0.249682656838
+Epoch Number : 313
+Error = 0.249680472577
+Epoch Number : 314
+Error = 0.249678286004
+Epoch Number : 315
+Error = 0.249676097094
+Epoch Number : 316
+Error = 0.249673905821
+Epoch Number : 317
+Error = 0.249671712162
+Epoch Number : 318
+Error = 0.24966951609
+Epoch Number : 319
+Error = 0.249667317582
+Epoch Number : 320
+Error = 0.249665116611
+Epoch Number : 321
+Error = 0.249662913154
+Epoch Number : 322
+Error = 0.249660707184
+Epoch Number : 323
+Error = 0.249658498678
+Epoch Number : 324
+Error = 0.249656287609
+Epoch Number : 325
+Error = 0.249654073953
+Epoch Number : 326
+Error = 0.249651857685
+Epoch Number : 327
+Error = 0.249649638779
+Epoch Number : 328
+Error = 0.24964741721
+Epoch Number : 329
+Error = 0.249645192954
+Epoch Number : 330
+Error = 0.249642965984
+Epoch Number : 331
+Error = 0.249640736277
+Epoch Number : 332
+Error = 0.249638503806
+Epoch Number : 333
+Error = 0.249636268546
+Epoch Number : 334
+Error = 0.249634030471
+Epoch Number : 335
+Error = 0.249631789558
+Epoch Number : 336
+Error = 0.24962954578
+Epoch Number : 337
+Error = 0.249627299111
+Epoch Number : 338
+Error = 0.249625049527
+Epoch Number : 339
+Error = 0.249622797002
+Epoch Number : 340
+Error = 0.249620541511
+Epoch Number : 341
+Error = 0.249618283027
+Epoch Number : 342
+Error = 0.249616021527
+Epoch Number : 343
+Error = 0.249613756983
+Epoch Number : 344
+Error = 0.249611489371
+Epoch Number : 345
+Error = 0.249609218665
+Epoch Number : 346
+Error = 0.249606944839
+Epoch Number : 347
+Error = 0.249604667867
+Epoch Number : 348
+Error = 0.249602387725
+Epoch Number : 349
+Error = 0.249600104385
+Epoch Number : 350
+Error = 0.249597817824
+Epoch Number : 351
+Error = 0.249595528014
+Epoch Number : 352
+Error = 0.249593234929
+Epoch Number : 353
+Error = 0.249590938545
+Epoch Number : 354
+Error = 0.249588638835
+Epoch Number : 355
+Error = 0.249586335773
+Epoch Number : 356
+Error = 0.249584029334
+Epoch Number : 357
+Error = 0.249581719491
+Epoch Number : 358
+Error = 0.249579406218
+Epoch Number : 359
+Error = 0.249577089489
+Epoch Number : 360
+Error = 0.249574769279
+Epoch Number : 361
+Error = 0.24957244556
+Epoch Number : 362
+Error = 0.249570118308
+Epoch Number : 363
+Error = 0.249567787495
+Epoch Number : 364
+Error = 0.249565453096
+Epoch Number : 365
+Error = 0.249563115084
+Epoch Number : 366
+Error = 0.249560773432
+Epoch Number : 367
+Error = 0.249558428116
+Epoch Number : 368
+Error = 0.249556079107
+Epoch Number : 369
+Error = 0.24955372638
+Epoch Number : 370
+Error = 0.249551369909
+Epoch Number : 371
+Error = 0.249549009666
+Epoch Number : 372
+Error = 0.249546645625
+Epoch Number : 373
+Error = 0.249544277761
+Epoch Number : 374
+Error = 0.249541906045
+Epoch Number : 375
+Error = 0.249539530451
+Epoch Number : 376
+Error = 0.249537150953
+Epoch Number : 377
+Error = 0.249534767524
+Epoch Number : 378
+Error = 0.249532380136
+Epoch Number : 379
+Error = 0.249529988764
+Epoch Number : 380
+Error = 0.249527593381
+Epoch Number : 381
+Error = 0.249525193958
+Epoch Number : 382
+Error = 0.24952279047
+Epoch Number : 383
+Error = 0.249520382889
+Epoch Number : 384
+Error = 0.249517971189
+Epoch Number : 385
+Error = 0.249515555341
+Epoch Number : 386
+Error = 0.24951313532
+Epoch Number : 387
+Error = 0.249510711097
+Epoch Number : 388
+Error = 0.249508282646
+Epoch Number : 389
+Error = 0.249505849939
+Epoch Number : 390
+Error = 0.249503412949
+Epoch Number : 391
+Error = 0.249500971648
+Epoch Number : 392
+Error = 0.249498526009
+Epoch Number : 393
+Error = 0.249496076004
+Epoch Number : 394
+Error = 0.249493621607
+Epoch Number : 395
+Error = 0.249491162788
+Epoch Number : 396
+Error = 0.249488699521
+Epoch Number : 397
+Error = 0.249486231778
+Epoch Number : 398
+Error = 0.249483759531
+Epoch Number : 399
+Error = 0.249481282752
+Epoch Number : 400
+Error = 0.249478801413
+Epoch Number : 401
+Error = 0.249476315487
+Epoch Number : 402
+Error = 0.249473824945
+Epoch Number : 403
+Error = 0.24947132976
+Epoch Number : 404
+Error = 0.249468829903
+Epoch Number : 405
+Error = 0.249466325345
+Epoch Number : 406
+Error = 0.24946381606
+Epoch Number : 407
+Error = 0.249461302019
+Epoch Number : 408
+Error = 0.249458783192
+Epoch Number : 409
+Error = 0.249456259553
+Epoch Number : 410
+Error = 0.249453731072
+Epoch Number : 411
+Error = 0.249451197721
+Epoch Number : 412
+Error = 0.249448659471
+Epoch Number : 413
+Error = 0.249446116295
+Epoch Number : 414
+Error = 0.249443568162
+Epoch Number : 415
+Error = 0.249441015044
+Epoch Number : 416
+Error = 0.249438456914
+Epoch Number : 417
+Error = 0.24943589374
+Epoch Number : 418
+Error = 0.249433325496
+Epoch Number : 419
+Error = 0.249430752151
+Epoch Number : 420
+Error = 0.249428173677
+Epoch Number : 421
+Error = 0.249425590045
+Epoch Number : 422
+Error = 0.249423001225
+Epoch Number : 423
+Error = 0.249420407188
+Epoch Number : 424
+Error = 0.249417807905
+Epoch Number : 425
+Error = 0.249415203347
+Epoch Number : 426
+Error = 0.249412593483
+Epoch Number : 427
+Error = 0.249409978286
+Epoch Number : 428
+Error = 0.249407357724
+Epoch Number : 429
+Error = 0.249404731768
+Epoch Number : 430
+Error = 0.249402100389
+Epoch Number : 431
+Error = 0.249399463557
+Epoch Number : 432
+Error = 0.249396821242
+Epoch Number : 433
+Error = 0.249394173414
+Epoch Number : 434
+Error = 0.249391520043
+Epoch Number : 435
+Error = 0.249388861099
+Epoch Number : 436
+Error = 0.249386196552
+Epoch Number : 437
+Error = 0.249383526372
+Epoch Number : 438
+Error = 0.249380850528
+Epoch Number : 439
+Error = 0.24937816899
+Epoch Number : 440
+Error = 0.249375481728
+Epoch Number : 441
+Error = 0.249372788711
+Epoch Number : 442
+Error = 0.249370089909
+Epoch Number : 443
+Error = 0.249367385291
+Epoch Number : 444
+Error = 0.249364674826
+Epoch Number : 445
+Error = 0.249361958484
+Epoch Number : 446
+Error = 0.249359236233
+Epoch Number : 447
+Error = 0.249356508044
+Epoch Number : 448
+Error = 0.249353773883
+Epoch Number : 449
+Error = 0.249351033722
+Epoch Number : 450
+Error = 0.249348287528
+Epoch Number : 451
+Error = 0.249345535271
+Epoch Number : 452
+Error = 0.249342776918
+Epoch Number : 453
+Error = 0.249340012439
+Epoch Number : 454
+Error = 0.249337241802
+Epoch Number : 455
+Error = 0.249334464975
+Epoch Number : 456
+Error = 0.249331681927
+Epoch Number : 457
+Error = 0.249328892627
+Epoch Number : 458
+Error = 0.249326097042
+Epoch Number : 459
+Error = 0.24932329514
+Epoch Number : 460
+Error = 0.24932048689
+Epoch Number : 461
+Error = 0.249317672259
+Epoch Number : 462
+Error = 0.249314851216
+Epoch Number : 463
+Error = 0.249312023727
+Epoch Number : 464
+Error = 0.249309189762
+Epoch Number : 465
+Error = 0.249306349287
+Epoch Number : 466
+Error = 0.24930350227
+Epoch Number : 467
+Error = 0.249300648678
+Epoch Number : 468
+Error = 0.249297788479
+Epoch Number : 469
+Error = 0.249294921641
+Epoch Number : 470
+Error = 0.249292048129
+Epoch Number : 471
+Error = 0.249289167912
+Epoch Number : 472
+Error = 0.249286280956
+Epoch Number : 473
+Error = 0.249283387228
+Epoch Number : 474
+Error = 0.249280486696
+Epoch Number : 475
+Error = 0.249277579325
+Epoch Number : 476
+Error = 0.249274665083
+Epoch Number : 477
+Error = 0.249271743935
+Epoch Number : 478
+Error = 0.24926881585
+Epoch Number : 479
+Error = 0.249265880792
+Epoch Number : 480
+Error = 0.249262938728
+Epoch Number : 481
+Error = 0.249259989625
+Epoch Number : 482
+Error = 0.249257033448
+Epoch Number : 483
+Error = 0.249254070164
+Epoch Number : 484
+Error = 0.249251099738
+Epoch Number : 485
+Error = 0.249248122136
+Epoch Number : 486
+Error = 0.249245137324
+Epoch Number : 487
+Error = 0.249242145267
+Epoch Number : 488
+Error = 0.249239145932
+Epoch Number : 489
+Error = 0.249236139283
+Epoch Number : 490
+Error = 0.249233125285
+Epoch Number : 491
+Error = 0.249230103905
+Epoch Number : 492
+Error = 0.249227075107
+Epoch Number : 493
+Error = 0.249224038856
+Epoch Number : 494
+Error = 0.249220995117
+Epoch Number : 495
+Error = 0.249217943855
+Epoch Number : 496
+Error = 0.249214885035
+Epoch Number : 497
+Error = 0.249211818621
+Epoch Number : 498
+Error = 0.249208744578
+Epoch Number : 499
+Error = 0.24920566287
+Epoch Number : 500
+Error = 0.249202573461
+Epoch Number : 501
+Error = 0.249199476316
+Epoch Number : 502
+Error = 0.249196371399
+Epoch Number : 503
+Error = 0.249193258674
+Epoch Number : 504
+Error = 0.249190138105
+Epoch Number : 505
+Error = 0.249187009655
+Epoch Number : 506
+Error = 0.249183873289
+Epoch Number : 507
+Error = 0.249180728969
+Epoch Number : 508
+Error = 0.24917757666
+Epoch Number : 509
+Error = 0.249174416324
+Epoch Number : 510
+Error = 0.249171247926
+Epoch Number : 511
+Error = 0.249168071427
+Epoch Number : 512
+Error = 0.249164886791
+Epoch Number : 513
+Error = 0.249161693981
+Epoch Number : 514
+Error = 0.249158492961
+Epoch Number : 515
+Error = 0.249155283691
+Epoch Number : 516
+Error = 0.249152066136
+Epoch Number : 517
+Error = 0.249148840257
+Epoch Number : 518
+Error = 0.249145606017
+Epoch Number : 519
+Error = 0.249142363379
+Epoch Number : 520
+Error = 0.249139112304
+Epoch Number : 521
+Error = 0.249135852754
+Epoch Number : 522
+Error = 0.249132584691
+Epoch Number : 523
+Error = 0.249129308077
+Epoch Number : 524
+Error = 0.249126022874
+Epoch Number : 525
+Error = 0.249122729043
+Epoch Number : 526
+Error = 0.249119426546
+Epoch Number : 527
+Error = 0.249116115344
+Epoch Number : 528
+Error = 0.249112795398
+Epoch Number : 529
+Error = 0.249109466669
+Epoch Number : 530
+Error = 0.249106129118
+Epoch Number : 531
+Error = 0.249102782707
+Epoch Number : 532
+Error = 0.249099427395
+Epoch Number : 533
+Error = 0.249096063143
+Epoch Number : 534
+Error = 0.249092689913
+Epoch Number : 535
+Error = 0.249089307663
+Epoch Number : 536
+Error = 0.249085916355
+Epoch Number : 537
+Error = 0.249082515948
+Epoch Number : 538
+Error = 0.249079106402
+Epoch Number : 539
+Error = 0.249075687678
+Epoch Number : 540
+Error = 0.249072259734
+Epoch Number : 541
+Error = 0.249068822532
+Epoch Number : 542
+Error = 0.249065376029
+Epoch Number : 543
+Error = 0.249061920185
+Epoch Number : 544
+Error = 0.24905845496
+Epoch Number : 545
+Error = 0.249054980313
+Epoch Number : 546
+Error = 0.249051496202
+Epoch Number : 547
+Error = 0.249048002586
+Epoch Number : 548
+Error = 0.249044499424
+Epoch Number : 549
+Error = 0.249040986675
+Epoch Number : 550
+Error = 0.249037464297
+Epoch Number : 551
+Error = 0.249033932248
+Epoch Number : 552
+Error = 0.249030390487
+Epoch Number : 553
+Error = 0.249026838971
+Epoch Number : 554
+Error = 0.249023277658
+Epoch Number : 555
+Error = 0.249019706506
+Epoch Number : 556
+Error = 0.249016125473
+Epoch Number : 557
+Error = 0.249012534516
+Epoch Number : 558
+Error = 0.249008933592
+Epoch Number : 559
+Error = 0.249005322659
+Epoch Number : 560
+Error = 0.249001701674
+Epoch Number : 561
+Error = 0.248998070593
+Epoch Number : 562
+Error = 0.248994429373
+Epoch Number : 563
+Error = 0.248990777972
+Epoch Number : 564
+Error = 0.248987116344
+Epoch Number : 565
+Error = 0.248983444448
+Epoch Number : 566
+Error = 0.248979762238
+Epoch Number : 567
+Error = 0.248976069672
+Epoch Number : 568
+Error = 0.248972366705
+Epoch Number : 569
+Error = 0.248968653292
+Epoch Number : 570
+Error = 0.248964929389
+Epoch Number : 571
+Error = 0.248961194953
+Epoch Number : 572
+Error = 0.248957449937
+Epoch Number : 573
+Error = 0.248953694298
+Epoch Number : 574
+Error = 0.24894992799
+Epoch Number : 575
+Error = 0.248946150968
+Epoch Number : 576
+Error = 0.248942363188
+Epoch Number : 577
+Error = 0.248938564603
+Epoch Number : 578
+Error = 0.248934755167
+Epoch Number : 579
+Error = 0.248930934836
+Epoch Number : 580
+Error = 0.248927103564
+Epoch Number : 581
+Error = 0.248923261304
+Epoch Number : 582
+Error = 0.24891940801
+Epoch Number : 583
+Error = 0.248915543635
+Epoch Number : 584
+Error = 0.248911668134
+Epoch Number : 585
+Error = 0.24890778146
+Epoch Number : 586
+Error = 0.248903883566
+Epoch Number : 587
+Error = 0.248899974404
+Epoch Number : 588
+Error = 0.248896053929
+Epoch Number : 589
+Error = 0.248892122092
+Epoch Number : 590
+Error = 0.248888178846
+Epoch Number : 591
+Error = 0.248884224143
+Epoch Number : 592
+Error = 0.248880257936
+Epoch Number : 593
+Error = 0.248876280177
+Epoch Number : 594
+Error = 0.248872290818
+Epoch Number : 595
+Error = 0.24886828981
+Epoch Number : 596
+Error = 0.248864277106
+Epoch Number : 597
+Error = 0.248860252655
+Epoch Number : 598
+Error = 0.248856216411
+Epoch Number : 599
+Error = 0.248852168323
+Epoch Number : 600
+Error = 0.248848108344
+Epoch Number : 601
+Error = 0.248844036422
+Epoch Number : 602
+Error = 0.24883995251
+Epoch Number : 603
+Error = 0.248835856558
+Epoch Number : 604
+Error = 0.248831748515
+Epoch Number : 605
+Error = 0.248827628332
+Epoch Number : 606
+Error = 0.248823495959
+Epoch Number : 607
+Error = 0.248819351346
+Epoch Number : 608
+Error = 0.248815194441
+Epoch Number : 609
+Error = 0.248811025196
+Epoch Number : 610
+Error = 0.248806843558
+Epoch Number : 611
+Error = 0.248802649476
+Epoch Number : 612
+Error = 0.248798442901
+Epoch Number : 613
+Error = 0.24879422378
+Epoch Number : 614
+Error = 0.248789992061
+Epoch Number : 615
+Error = 0.248785747694
+Epoch Number : 616
+Error = 0.248781490627
+Epoch Number : 617
+Error = 0.248777220806
+Epoch Number : 618
+Error = 0.248772938181
+Epoch Number : 619
+Error = 0.248768642699
+Epoch Number : 620
+Error = 0.248764334307
+Epoch Number : 621
+Error = 0.248760012952
+Epoch Number : 622
+Error = 0.248755678582
+Epoch Number : 623
+Error = 0.248751331144
+Epoch Number : 624
+Error = 0.248746970583
+Epoch Number : 625
+Error = 0.248742596848
+Epoch Number : 626
+Error = 0.248738209883
+Epoch Number : 627
+Error = 0.248733809636
+Epoch Number : 628
+Error = 0.248729396051
+Epoch Number : 629
+Error = 0.248724969076
+Epoch Number : 630
+Error = 0.248720528655
+Epoch Number : 631
+Error = 0.248716074734
+Epoch Number : 632
+Error = 0.248711607259
+Epoch Number : 633
+Error = 0.248707126173
+Epoch Number : 634
+Error = 0.248702631422
+Epoch Number : 635
+Error = 0.248698122951
+Epoch Number : 636
+Error = 0.248693600704
+Epoch Number : 637
+Error = 0.248689064625
+Epoch Number : 638
+Error = 0.248684514659
+Epoch Number : 639
+Error = 0.248679950748
+Epoch Number : 640
+Error = 0.248675372838
+Epoch Number : 641
+Error = 0.24867078087
+Epoch Number : 642
+Error = 0.248666174789
+Epoch Number : 643
+Error = 0.248661554538
+Epoch Number : 644
+Error = 0.248656920059
+Epoch Number : 645
+Error = 0.248652271295
+Epoch Number : 646
+Error = 0.248647608188
+Epoch Number : 647
+Error = 0.248642930682
+Epoch Number : 648
+Error = 0.248638238717
+Epoch Number : 649
+Error = 0.248633532235
+Epoch Number : 650
+Error = 0.248628811179
+Epoch Number : 651
+Error = 0.24862407549
+Epoch Number : 652
+Error = 0.248619325108
+Epoch Number : 653
+Error = 0.248614559975
+Epoch Number : 654
+Error = 0.248609780033
+Epoch Number : 655
+Error = 0.24860498522
+Epoch Number : 656
+Error = 0.248600175478
+Epoch Number : 657
+Error = 0.248595350747
+Epoch Number : 658
+Error = 0.248590510966
+Epoch Number : 659
+Error = 0.248585656076
+Epoch Number : 660
+Error = 0.248580786017
+Epoch Number : 661
+Error = 0.248575900726
+Epoch Number : 662
+Error = 0.248571000145
+Epoch Number : 663
+Error = 0.24856608421
+Epoch Number : 664
+Error = 0.248561152862
+Epoch Number : 665
+Error = 0.248556206038
+Epoch Number : 666
+Error = 0.248551243677
+Epoch Number : 667
+Error = 0.248546265716
+Epoch Number : 668
+Error = 0.248541272094
+Epoch Number : 669
+Error = 0.248536262748
+Epoch Number : 670
+Error = 0.248531237616
+Epoch Number : 671
+Error = 0.248526196634
+Epoch Number : 672
+Error = 0.24852113974
+Epoch Number : 673
+Error = 0.24851606687
+Epoch Number : 674
+Error = 0.24851097796
+Epoch Number : 675
+Error = 0.248505872947
+Epoch Number : 676
+Error = 0.248500751767
+Epoch Number : 677
+Error = 0.248495614355
+Epoch Number : 678
+Error = 0.248490460648
+Epoch Number : 679
+Error = 0.24848529058
+Epoch Number : 680
+Error = 0.248480104086
+Epoch Number : 681
+Error = 0.248474901102
+Epoch Number : 682
+Error = 0.248469681562
+Epoch Number : 683
+Error = 0.248464445399
+Epoch Number : 684
+Error = 0.24845919255
+Epoch Number : 685
+Error = 0.248453922946
+Epoch Number : 686
+Error = 0.248448636523
+Epoch Number : 687
+Error = 0.248443333213
+Epoch Number : 688
+Error = 0.248438012949
+Epoch Number : 689
+Error = 0.248432675666
+Epoch Number : 690
+Error = 0.248427321294
+Epoch Number : 691
+Error = 0.248421949767
+Epoch Number : 692
+Error = 0.248416561017
+Epoch Number : 693
+Error = 0.248411154976
+Epoch Number : 694
+Error = 0.248405731575
+Epoch Number : 695
+Error = 0.248400290747
+Epoch Number : 696
+Error = 0.248394832422
+Epoch Number : 697
+Error = 0.248389356532
+Epoch Number : 698
+Error = 0.248383863006
+Epoch Number : 699
+Error = 0.248378351776
+Epoch Number : 700
+Error = 0.248372822772
+Epoch Number : 701
+Error = 0.248367275924
+Epoch Number : 702
+Error = 0.248361711162
+Epoch Number : 703
+Error = 0.248356128414
+Epoch Number : 704
+Error = 0.248350527611
+Epoch Number : 705
+Error = 0.248344908682
+Epoch Number : 706
+Error = 0.248339271554
+Epoch Number : 707
+Error = 0.248333616157
+Epoch Number : 708
+Error = 0.248327942419
+Epoch Number : 709
+Error = 0.248322250267
+Epoch Number : 710
+Error = 0.24831653963
+Epoch Number : 711
+Error = 0.248310810434
+Epoch Number : 712
+Error = 0.248305062608
+Epoch Number : 713
+Error = 0.248299296078
+Epoch Number : 714
+Error = 0.24829351077
+Epoch Number : 715
+Error = 0.248287706611
+Epoch Number : 716
+Error = 0.248281883527
+Epoch Number : 717
+Error = 0.248276041444
+Epoch Number : 718
+Error = 0.248270180288
+Epoch Number : 719
+Error = 0.248264299983
+Epoch Number : 720
+Error = 0.248258400456
+Epoch Number : 721
+Error = 0.24825248163
+Epoch Number : 722
+Error = 0.24824654343
+Epoch Number : 723
+Error = 0.24824058578
+Epoch Number : 724
+Error = 0.248234608605
+Epoch Number : 725
+Error = 0.248228611828
+Epoch Number : 726
+Error = 0.248222595372
+Epoch Number : 727
+Error = 0.248216559161
+Epoch Number : 728
+Error = 0.248210503118
+Epoch Number : 729
+Error = 0.248204427164
+Epoch Number : 730
+Error = 0.248198331222
+Epoch Number : 731
+Error = 0.248192215215
+Epoch Number : 732
+Error = 0.248186079064
+Epoch Number : 733
+Error = 0.248179922691
+Epoch Number : 734
+Error = 0.248173746016
+Epoch Number : 735
+Error = 0.24816754896
+Epoch Number : 736
+Error = 0.248161331445
+Epoch Number : 737
+Error = 0.24815509339
+Epoch Number : 738
+Error = 0.248148834716
+Epoch Number : 739
+Error = 0.248142555342
+Epoch Number : 740
+Error = 0.248136255187
+Epoch Number : 741
+Error = 0.248129934171
+Epoch Number : 742
+Error = 0.248123592213
+Epoch Number : 743
+Error = 0.248117229231
+Epoch Number : 744
+Error = 0.248110845144
+Epoch Number : 745
+Error = 0.248104439869
+Epoch Number : 746
+Error = 0.248098013324
+Epoch Number : 747
+Error = 0.248091565426
+Epoch Number : 748
+Error = 0.248085096093
+Epoch Number : 749
+Error = 0.248078605242
+Epoch Number : 750
+Error = 0.248072092788
+Epoch Number : 751
+Error = 0.248065558649
+Epoch Number : 752
+Error = 0.248059002739
+Epoch Number : 753
+Error = 0.248052424975
+Epoch Number : 754
+Error = 0.248045825271
+Epoch Number : 755
+Error = 0.248039203543
+Epoch Number : 756
+Error = 0.248032559706
+Epoch Number : 757
+Error = 0.248025893673
+Epoch Number : 758
+Error = 0.248019205359
+Epoch Number : 759
+Error = 0.248012494678
+Epoch Number : 760
+Error = 0.248005761542
+Epoch Number : 761
+Error = 0.247999005865
+Epoch Number : 762
+Error = 0.24799222756
+Epoch Number : 763
+Error = 0.24798542654
+Epoch Number : 764
+Error = 0.247978602715
+Epoch Number : 765
+Error = 0.247971755999
+Epoch Number : 766
+Error = 0.247964886303
+Epoch Number : 767
+Error = 0.247957993537
+Epoch Number : 768
+Error = 0.247951077614
+Epoch Number : 769
+Error = 0.247944138442
+Epoch Number : 770
+Error = 0.247937175934
+Epoch Number : 771
+Error = 0.247930189998
+Epoch Number : 772
+Error = 0.247923180544
+Epoch Number : 773
+Error = 0.247916147481
+Epoch Number : 774
+Error = 0.247909090719
+Epoch Number : 775
+Error = 0.247902010166
+Epoch Number : 776
+Error = 0.247894905729
+Epoch Number : 777
+Error = 0.247887777318
+Epoch Number : 778
+Error = 0.24788062484
+Epoch Number : 779
+Error = 0.247873448202
+Epoch Number : 780
+Error = 0.24786624731
+Epoch Number : 781
+Error = 0.247859022072
+Epoch Number : 782
+Error = 0.247851772394
+Epoch Number : 783
+Error = 0.247844498182
+Epoch Number : 784
+Error = 0.247837199341
+Epoch Number : 785
+Error = 0.247829875777
+Epoch Number : 786
+Error = 0.247822527394
+Epoch Number : 787
+Error = 0.247815154097
+Epoch Number : 788
+Error = 0.247807755791
+Epoch Number : 789
+Error = 0.247800332379
+Epoch Number : 790
+Error = 0.247792883764
+Epoch Number : 791
+Error = 0.247785409851
+Epoch Number : 792
+Error = 0.247777910541
+Epoch Number : 793
+Error = 0.247770385737
+Epoch Number : 794
+Error = 0.247762835342
+Epoch Number : 795
+Error = 0.247755259257
+Epoch Number : 796
+Error = 0.247747657383
+Epoch Number : 797
+Error = 0.247740029622
+Epoch Number : 798
+Error = 0.247732375875
+Epoch Number : 799
+Error = 0.247724696041
+Epoch Number : 800
+Error = 0.247716990021
+Epoch Number : 801
+Error = 0.247709257715
+Epoch Number : 802
+Error = 0.247701499021
+Epoch Number : 803
+Error = 0.247693713839
+Epoch Number : 804
+Error = 0.247685902067
+Epoch Number : 805
+Error = 0.247678063603
+Epoch Number : 806
+Error = 0.247670198346
+Epoch Number : 807
+Error = 0.247662306192
+Epoch Number : 808
+Error = 0.247654387039
+Epoch Number : 809
+Error = 0.247646440784
+Epoch Number : 810
+Error = 0.247638467322
+Epoch Number : 811
+Error = 0.247630466551
+Epoch Number : 812
+Error = 0.247622438364
+Epoch Number : 813
+Error = 0.247614382659
+Epoch Number : 814
+Error = 0.247606299329
+Epoch Number : 815
+Error = 0.247598188269
+Epoch Number : 816
+Error = 0.247590049373
+Epoch Number : 817
+Error = 0.247581882536
+Epoch Number : 818
+Error = 0.247573687649
+Epoch Number : 819
+Error = 0.247565464607
+Epoch Number : 820
+Error = 0.247557213301
+Epoch Number : 821
+Error = 0.247548933625
+Epoch Number : 822
+Error = 0.247540625469
+Epoch Number : 823
+Error = 0.247532288726
+Epoch Number : 824
+Error = 0.247523923286
+Epoch Number : 825
+Error = 0.24751552904
+Epoch Number : 826
+Error = 0.247507105878
+Epoch Number : 827
+Error = 0.24749865369
+Epoch Number : 828
+Error = 0.247490172366
+Epoch Number : 829
+Error = 0.247481661795
+Epoch Number : 830
+Error = 0.247473121865
+Epoch Number : 831
+Error = 0.247464552464
+Epoch Number : 832
+Error = 0.247455953481
+Epoch Number : 833
+Error = 0.247447324803
+Epoch Number : 834
+Error = 0.247438666318
+Epoch Number : 835
+Error = 0.247429977911
+Epoch Number : 836
+Error = 0.247421259469
+Epoch Number : 837
+Error = 0.247412510878
+Epoch Number : 838
+Error = 0.247403732023
+Epoch Number : 839
+Error = 0.247394922791
+Epoch Number : 840
+Error = 0.247386083064
+Epoch Number : 841
+Error = 0.247377212728
+Epoch Number : 842
+Error = 0.247368311666
+Epoch Number : 843
+Error = 0.247359379762
+Epoch Number : 844
+Error = 0.247350416898
+Epoch Number : 845
+Error = 0.247341422958
+Epoch Number : 846
+Error = 0.247332397823
+Epoch Number : 847
+Error = 0.247323341376
+Epoch Number : 848
+Error = 0.247314253497
+Epoch Number : 849
+Error = 0.247305134068
+Epoch Number : 850
+Error = 0.247295982969
+Epoch Number : 851
+Error = 0.24728680008
+Epoch Number : 852
+Error = 0.247277585281
+Epoch Number : 853
+Error = 0.247268338451
+Epoch Number : 854
+Error = 0.247259059469
+Epoch Number : 855
+Error = 0.247249748213
+Epoch Number : 856
+Error = 0.247240404561
+Epoch Number : 857
+Error = 0.247231028391
+Epoch Number : 858
+Error = 0.247221619579
+Epoch Number : 859
+Error = 0.247212178003
+Epoch Number : 860
+Error = 0.247202703539
+Epoch Number : 861
+Error = 0.247193196061
+Epoch Number : 862
+Error = 0.247183655447
+Epoch Number : 863
+Error = 0.24717408157
+Epoch Number : 864
+Error = 0.247164474306
+Epoch Number : 865
+Error = 0.247154833527
+Epoch Number : 866
+Error = 0.247145159109
+Epoch Number : 867
+Error = 0.247135450923
+Epoch Number : 868
+Error = 0.247125708842
+Epoch Number : 869
+Error = 0.247115932739
+Epoch Number : 870
+Error = 0.247106122486
+Epoch Number : 871
+Error = 0.247096277953
+Epoch Number : 872
+Error = 0.247086399013
+Epoch Number : 873
+Error = 0.247076485534
+Epoch Number : 874
+Error = 0.247066537388
+Epoch Number : 875
+Error = 0.247056554443
+Epoch Number : 876
+Error = 0.247046536569
+Epoch Number : 877
+Error = 0.247036483635
+Epoch Number : 878
+Error = 0.247026395508
+Epoch Number : 879
+Error = 0.247016272056
+Epoch Number : 880
+Error = 0.247006113146
+Epoch Number : 881
+Error = 0.246995918646
+Epoch Number : 882
+Error = 0.246985688421
+Epoch Number : 883
+Error = 0.246975422337
+Epoch Number : 884
+Error = 0.24696512026
+Epoch Number : 885
+Error = 0.246954782055
+Epoch Number : 886
+Error = 0.246944407585
+Epoch Number : 887
+Error = 0.246933996716
+Epoch Number : 888
+Error = 0.246923549309
+Epoch Number : 889
+Error = 0.24691306523
+Epoch Number : 890
+Error = 0.246902544339
+Epoch Number : 891
+Error = 0.246891986499
+Epoch Number : 892
+Error = 0.246881391571
+Epoch Number : 893
+Error = 0.246870759417
+Epoch Number : 894
+Error = 0.246860089897
+Epoch Number : 895
+Error = 0.246849382872
+Epoch Number : 896
+Error = 0.246838638201
+Epoch Number : 897
+Error = 0.246827855742
+Epoch Number : 898
+Error = 0.246817035356
+Epoch Number : 899
+Error = 0.246806176899
+Epoch Number : 900
+Error = 0.24679528023
+Epoch Number : 901
+Error = 0.246784345205
+Epoch Number : 902
+Error = 0.246773371682
+Epoch Number : 903
+Error = 0.246762359517
+Epoch Number : 904
+Error = 0.246751308565
+Epoch Number : 905
+Error = 0.246740218682
+Epoch Number : 906
+Error = 0.246729089722
+Epoch Number : 907
+Error = 0.24671792154
+Epoch Number : 908
+Error = 0.246706713989
+Epoch Number : 909
+Error = 0.246695466922
+Epoch Number : 910
+Error = 0.246684180192
+Epoch Number : 911
+Error = 0.246672853652
+Epoch Number : 912
+Error = 0.246661487152
+Epoch Number : 913
+Error = 0.246650080545
+Epoch Number : 914
+Error = 0.24663863368
+Epoch Number : 915
+Error = 0.246627146409
+Epoch Number : 916
+Error = 0.24661561858
+Epoch Number : 917
+Error = 0.246604050043
+Epoch Number : 918
+Error = 0.246592440646
+Epoch Number : 919
+Error = 0.246580790238
+Epoch Number : 920
+Error = 0.246569098665
+Epoch Number : 921
+Error = 0.246557365776
+Epoch Number : 922
+Error = 0.246545591416
+Epoch Number : 923
+Error = 0.246533775432
+Epoch Number : 924
+Error = 0.246521917668
+Epoch Number : 925
+Error = 0.246510017971
+Epoch Number : 926
+Error = 0.246498076185
+Epoch Number : 927
+Error = 0.246486092152
+Epoch Number : 928
+Error = 0.246474065717
+Epoch Number : 929
+Error = 0.246461996723
+Epoch Number : 930
+Error = 0.246449885012
+Epoch Number : 931
+Error = 0.246437730425
+Epoch Number : 932
+Error = 0.246425532805
+Epoch Number : 933
+Error = 0.24641329199
+Epoch Number : 934
+Error = 0.246401007823
+Epoch Number : 935
+Error = 0.246388680142
+Epoch Number : 936
+Error = 0.246376308786
+Epoch Number : 937
+Error = 0.246363893594
+Epoch Number : 938
+Error = 0.246351434404
+Epoch Number : 939
+Error = 0.246338931053
+Epoch Number : 940
+Error = 0.246326383379
+Epoch Number : 941
+Error = 0.246313791217
+Epoch Number : 942
+Error = 0.246301154404
+Epoch Number : 943
+Error = 0.246288472774
+Epoch Number : 944
+Error = 0.246275746163
+Epoch Number : 945
+Error = 0.246262974404
+Epoch Number : 946
+Error = 0.246250157331
+Epoch Number : 947
+Error = 0.246237294778
+Epoch Number : 948
+Error = 0.246224386575
+Epoch Number : 949
+Error = 0.246211432557
+Epoch Number : 950
+Error = 0.246198432553
+Epoch Number : 951
+Error = 0.246185386395
+Epoch Number : 952
+Error = 0.246172293912
+Epoch Number : 953
+Error = 0.246159154935
+Epoch Number : 954
+Error = 0.246145969292
+Epoch Number : 955
+Error = 0.246132736813
+Epoch Number : 956
+Error = 0.246119457325
+Epoch Number : 957
+Error = 0.246106130655
+Epoch Number : 958
+Error = 0.24609275663
+Epoch Number : 959
+Error = 0.246079335076
+Epoch Number : 960
+Error = 0.24606586582
+Epoch Number : 961
+Error = 0.246052348686
+Epoch Number : 962
+Error = 0.246038783498
+Epoch Number : 963
+Error = 0.246025170081
+Epoch Number : 964
+Error = 0.246011508258
+Epoch Number : 965
+Error = 0.245997797852
+Epoch Number : 966
+Error = 0.245984038685
+Epoch Number : 967
+Error = 0.245970230578
+Epoch Number : 968
+Error = 0.245956373352
+Epoch Number : 969
+Error = 0.245942466829
+Epoch Number : 970
+Error = 0.245928510827
+Epoch Number : 971
+Error = 0.245914505166
+Epoch Number : 972
+Error = 0.245900449665
+Epoch Number : 973
+Error = 0.245886344142
+Epoch Number : 974
+Error = 0.245872188413
+Epoch Number : 975
+Error = 0.245857982297
+Epoch Number : 976
+Error = 0.245843725609
+Epoch Number : 977
+Error = 0.245829418165
+Epoch Number : 978
+Error = 0.24581505978
+Epoch Number : 979
+Error = 0.245800650269
+Epoch Number : 980
+Error = 0.245786189445
+Epoch Number : 981
+Error = 0.245771677121
+Epoch Number : 982
+Error = 0.245757113111
+Epoch Number : 983
+Error = 0.245742497227
+Epoch Number : 984
+Error = 0.245727829279
+Epoch Number : 985
+Error = 0.245713109079
+Epoch Number : 986
+Error = 0.245698336437
+Epoch Number : 987
+Error = 0.245683511163
+Epoch Number : 988
+Error = 0.245668633065
+Epoch Number : 989
+Error = 0.245653701953
+Epoch Number : 990
+Error = 0.245638717633
+Epoch Number : 991
+Error = 0.245623679913
+Epoch Number : 992
+Error = 0.2456085886
+Epoch Number : 993
+Error = 0.245593443499
+Epoch Number : 994
+Error = 0.245578244416
+Epoch Number : 995
+Error = 0.245562991155
+Epoch Number : 996
+Error = 0.245547683522
+Epoch Number : 997
+Error = 0.245532321318
+Epoch Number : 998
+Error = 0.245516904347
+Epoch Number : 999
+Error = 0.245501432412
+Epoch Number : 1000
+Error = 0.245485905313
+Epoch Number : 1001
+Error = 0.245470322852
+Epoch Number : 1002
+Error = 0.245454684828
+Epoch Number : 1003
+Error = 0.245438991043
+Epoch Number : 1004
+Error = 0.245423241294
+Epoch Number : 1005
+Error = 0.245407435381
+Epoch Number : 1006
+Error = 0.245391573101
+Epoch Number : 1007
+Error = 0.245375654251
+Epoch Number : 1008
+Error = 0.245359678628
+Epoch Number : 1009
+Error = 0.245343646027
+Epoch Number : 1010
+Error = 0.245327556245
+Epoch Number : 1011
+Error = 0.245311409075
+Epoch Number : 1012
+Error = 0.245295204312
+Epoch Number : 1013
+Error = 0.245278941748
+Epoch Number : 1014
+Error = 0.245262621178
+Epoch Number : 1015
+Error = 0.245246242392
+Epoch Number : 1016
+Error = 0.245229805182
+Epoch Number : 1017
+Error = 0.24521330934
+Epoch Number : 1018
+Error = 0.245196754654
+Epoch Number : 1019
+Error = 0.245180140916
+Epoch Number : 1020
+Error = 0.245163467912
+Epoch Number : 1021
+Error = 0.245146735433
+Epoch Number : 1022
+Error = 0.245129943264
+Epoch Number : 1023
+Error = 0.245113091194
+Epoch Number : 1024
+Error = 0.245096179009
+Epoch Number : 1025
+Error = 0.245079206493
+Epoch Number : 1026
+Error = 0.245062173432
+Epoch Number : 1027
+Error = 0.245045079611
+Epoch Number : 1028
+Error = 0.245027924813
+Epoch Number : 1029
+Error = 0.245010708821
+Epoch Number : 1030
+Error = 0.244993431417
+Epoch Number : 1031
+Error = 0.244976092383
+Epoch Number : 1032
+Error = 0.2449586915
+Epoch Number : 1033
+Error = 0.244941228549
+Epoch Number : 1034
+Error = 0.244923703309
+Epoch Number : 1035
+Error = 0.244906115559
+Epoch Number : 1036
+Error = 0.244888465078
+Epoch Number : 1037
+Error = 0.244870751644
+Epoch Number : 1038
+Error = 0.244852975033
+Epoch Number : 1039
+Error = 0.244835135021
+Epoch Number : 1040
+Error = 0.244817231386
+Epoch Number : 1041
+Error = 0.244799263901
+Epoch Number : 1042
+Error = 0.244781232342
+Epoch Number : 1043
+Error = 0.244763136481
+Epoch Number : 1044
+Error = 0.244744976093
+Epoch Number : 1045
+Error = 0.24472675095
+Epoch Number : 1046
+Error = 0.244708460823
+Epoch Number : 1047
+Error = 0.244690105483
+Epoch Number : 1048
+Error = 0.244671684702
+Epoch Number : 1049
+Error = 0.244653198248
+Epoch Number : 1050
+Error = 0.244634645891
+Epoch Number : 1051
+Error = 0.2446160274
+Epoch Number : 1052
+Error = 0.244597342542
+Epoch Number : 1053
+Error = 0.244578591084
+Epoch Number : 1054
+Error = 0.244559772793
+Epoch Number : 1055
+Error = 0.244540887435
+Epoch Number : 1056
+Error = 0.244521934774
+Epoch Number : 1057
+Error = 0.244502914576
+Epoch Number : 1058
+Error = 0.244483826604
+Epoch Number : 1059
+Error = 0.244464670621
+Epoch Number : 1060
+Error = 0.244445446389
+Epoch Number : 1061
+Error = 0.244426153671
+Epoch Number : 1062
+Error = 0.244406792228
+Epoch Number : 1063
+Error = 0.244387361819
+Epoch Number : 1064
+Error = 0.244367862206
+Epoch Number : 1065
+Error = 0.244348293146
+Epoch Number : 1066
+Error = 0.244328654399
+Epoch Number : 1067
+Error = 0.244308945721
+Epoch Number : 1068
+Error = 0.244289166872
+Epoch Number : 1069
+Error = 0.244269317605
+Epoch Number : 1070
+Error = 0.244249397679
+Epoch Number : 1071
+Error = 0.244229406847
+Epoch Number : 1072
+Error = 0.244209344864
+Epoch Number : 1073
+Error = 0.244189211484
+Epoch Number : 1074
+Error = 0.24416900646
+Epoch Number : 1075
+Error = 0.244148729544
+Epoch Number : 1076
+Error = 0.244128380489
+Epoch Number : 1077
+Error = 0.244107959045
+Epoch Number : 1078
+Error = 0.244087464963
+Epoch Number : 1079
+Error = 0.244066897992
+Epoch Number : 1080
+Error = 0.244046257882
+Epoch Number : 1081
+Error = 0.244025544381
+Epoch Number : 1082
+Error = 0.244004757238
+Epoch Number : 1083
+Error = 0.243983896198
+Epoch Number : 1084
+Error = 0.243962961009
+Epoch Number : 1085
+Error = 0.243941951417
+Epoch Number : 1086
+Error = 0.243920867166
+Epoch Number : 1087
+Error = 0.243899708001
+Epoch Number : 1088
+Error = 0.243878473666
+Epoch Number : 1089
+Error = 0.243857163904
+Epoch Number : 1090
+Error = 0.243835778457
+Epoch Number : 1091
+Error = 0.243814317069
+Epoch Number : 1092
+Error = 0.243792779479
+Epoch Number : 1093
+Error = 0.243771165428
+Epoch Number : 1094
+Error = 0.243749474656
+Epoch Number : 1095
+Error = 0.243727706903
+Epoch Number : 1096
+Error = 0.243705861906
+Epoch Number : 1097
+Error = 0.243683939405
+Epoch Number : 1098
+Error = 0.243661939136
+Epoch Number : 1099
+Error = 0.243639860836
+Epoch Number : 1100
+Error = 0.243617704241
+Epoch Number : 1101
+Error = 0.243595469086
+Epoch Number : 1102
+Error = 0.243573155107
+Epoch Number : 1103
+Error = 0.243550762036
+Epoch Number : 1104
+Error = 0.243528289608
+Epoch Number : 1105
+Error = 0.243505737556
+Epoch Number : 1106
+Error = 0.243483105611
+Epoch Number : 1107
+Error = 0.243460393505
+Epoch Number : 1108
+Error = 0.243437600969
+Epoch Number : 1109
+Error = 0.243414727734
+Epoch Number : 1110
+Error = 0.243391773529
+Epoch Number : 1111
+Error = 0.243368738082
+Epoch Number : 1112
+Error = 0.243345621123
+Epoch Number : 1113
+Error = 0.243322422379
+Epoch Number : 1114
+Error = 0.243299141578
+Epoch Number : 1115
+Error = 0.243275778445
+Epoch Number : 1116
+Error = 0.243252332707
+Epoch Number : 1117
+Error = 0.243228804089
+Epoch Number : 1118
+Error = 0.243205192316
+Epoch Number : 1119
+Error = 0.243181497112
+Epoch Number : 1120
+Error = 0.2431577182
+Epoch Number : 1121
+Error = 0.243133855303
+Epoch Number : 1122
+Error = 0.243109908144
+Epoch Number : 1123
+Error = 0.243085876443
+Epoch Number : 1124
+Error = 0.243061759923
+Epoch Number : 1125
+Error = 0.243037558304
+Epoch Number : 1126
+Error = 0.243013271305
+Epoch Number : 1127
+Error = 0.242988898646
+Epoch Number : 1128
+Error = 0.242964440046
+Epoch Number : 1129
+Error = 0.242939895222
+Epoch Number : 1130
+Error = 0.242915263892
+Epoch Number : 1131
+Error = 0.242890545774
+Epoch Number : 1132
+Error = 0.242865740583
+Epoch Number : 1133
+Error = 0.242840848036
+Epoch Number : 1134
+Error = 0.242815867847
+Epoch Number : 1135
+Error = 0.242790799732
+Epoch Number : 1136
+Error = 0.242765643405
+Epoch Number : 1137
+Error = 0.242740398578
+Epoch Number : 1138
+Error = 0.242715064966
+Epoch Number : 1139
+Error = 0.24268964228
+Epoch Number : 1140
+Error = 0.242664130234
+Epoch Number : 1141
+Error = 0.242638528537
+Epoch Number : 1142
+Error = 0.242612836901
+Epoch Number : 1143
+Error = 0.242587055036
+Epoch Number : 1144
+Error = 0.242561182652
+Epoch Number : 1145
+Error = 0.242535219459
+Epoch Number : 1146
+Error = 0.242509165164
+Epoch Number : 1147
+Error = 0.242483019477
+Epoch Number : 1148
+Error = 0.242456782105
+Epoch Number : 1149
+Error = 0.242430452756
+Epoch Number : 1150
+Error = 0.242404031135
+Epoch Number : 1151
+Error = 0.24237751695
+Epoch Number : 1152
+Error = 0.242350909905
+Epoch Number : 1153
+Error = 0.242324209707
+Epoch Number : 1154
+Error = 0.24229741606
+Epoch Number : 1155
+Error = 0.242270528669
+Epoch Number : 1156
+Error = 0.242243547236
+Epoch Number : 1157
+Error = 0.242216471467
+Epoch Number : 1158
+Error = 0.242189301062
+Epoch Number : 1159
+Error = 0.242162035726
+Epoch Number : 1160
+Error = 0.242134675159
+Epoch Number : 1161
+Error = 0.242107219064
+Epoch Number : 1162
+Error = 0.242079667141
+Epoch Number : 1163
+Error = 0.242052019092
+Epoch Number : 1164
+Error = 0.242024274616
+Epoch Number : 1165
+Error = 0.241996433414
+Epoch Number : 1166
+Error = 0.241968495184
+Epoch Number : 1167
+Error = 0.241940459626
+Epoch Number : 1168
+Error = 0.241912326439
+Epoch Number : 1169
+Error = 0.24188409532
+Epoch Number : 1170
+Error = 0.241855765967
+Epoch Number : 1171
+Error = 0.241827338079
+Epoch Number : 1172
+Error = 0.241798811351
+Epoch Number : 1173
+Error = 0.241770185481
+Epoch Number : 1174
+Error = 0.241741460166
+Epoch Number : 1175
+Error = 0.2417126351
+Epoch Number : 1176
+Error = 0.24168370998
+Epoch Number : 1177
+Error = 0.241654684501
+Epoch Number : 1178
+Error = 0.241625558358
+Epoch Number : 1179
+Error = 0.241596331245
+Epoch Number : 1180
+Error = 0.241567002858
+Epoch Number : 1181
+Error = 0.241537572889
+Epoch Number : 1182
+Error = 0.241508041033
+Epoch Number : 1183
+Error = 0.241478406984
+Epoch Number : 1184
+Error = 0.241448670433
+Epoch Number : 1185
+Error = 0.241418831075
+Epoch Number : 1186
+Error = 0.241388888602
+Epoch Number : 1187
+Error = 0.241358842706
+Epoch Number : 1188
+Error = 0.241328693079
+Epoch Number : 1189
+Error = 0.241298439414
+Epoch Number : 1190
+Error = 0.241268081401
+Epoch Number : 1191
+Error = 0.241237618732
+Epoch Number : 1192
+Error = 0.241207051099
+Epoch Number : 1193
+Error = 0.241176378192
+Epoch Number : 1194
+Error = 0.241145599702
+Epoch Number : 1195
+Error = 0.24111471532
+Epoch Number : 1196
+Error = 0.241083724736
+Epoch Number : 1197
+Error = 0.241052627641
+Epoch Number : 1198
+Error = 0.241021423725
+Epoch Number : 1199
+Error = 0.240990112677
+Epoch Number : 1200
+Error = 0.240958694187
+Epoch Number : 1201
+Error = 0.240927167945
+Epoch Number : 1202
+Error = 0.240895533642
+Epoch Number : 1203
+Error = 0.240863790965
+Epoch Number : 1204
+Error = 0.240831939605
+Epoch Number : 1205
+Error = 0.240799979251
+Epoch Number : 1206
+Error = 0.240767909592
+Epoch Number : 1207
+Error = 0.240735730318
+Epoch Number : 1208
+Error = 0.240703441117
+Epoch Number : 1209
+Error = 0.240671041678
+Epoch Number : 1210
+Error = 0.240638531692
+Epoch Number : 1211
+Error = 0.240605910846
+Epoch Number : 1212
+Error = 0.24057317883
+Epoch Number : 1213
+Error = 0.240540335332
+Epoch Number : 1214
+Error = 0.240507380043
+Epoch Number : 1215
+Error = 0.240474312651
+Epoch Number : 1216
+Error = 0.240441132845
+Epoch Number : 1217
+Error = 0.240407840315
+Epoch Number : 1218
+Error = 0.240374434749
+Epoch Number : 1219
+Error = 0.240340915838
+Epoch Number : 1220
+Error = 0.240307283271
+Epoch Number : 1221
+Error = 0.240273536737
+Epoch Number : 1222
+Error = 0.240239675927
+Epoch Number : 1223
+Error = 0.240205700529
+Epoch Number : 1224
+Error = 0.240171610235
+Epoch Number : 1225
+Error = 0.240137404733
+Epoch Number : 1226
+Error = 0.240103083716
+Epoch Number : 1227
+Error = 0.240068646873
+Epoch Number : 1228
+Error = 0.240034093895
+Epoch Number : 1229
+Error = 0.239999424473
+Epoch Number : 1230
+Error = 0.239964638299
+Epoch Number : 1231
+Error = 0.239929735064
+Epoch Number : 1232
+Error = 0.239894714459
+Epoch Number : 1233
+Error = 0.239859576178
+Epoch Number : 1234
+Error = 0.239824319911
+Epoch Number : 1235
+Error = 0.239788945353
+Epoch Number : 1236
+Error = 0.239753452196
+Epoch Number : 1237
+Error = 0.239717840133
+Epoch Number : 1238
+Error = 0.239682108859
+Epoch Number : 1239
+Error = 0.239646258067
+Epoch Number : 1240
+Error = 0.239610287452
+Epoch Number : 1241
+Error = 0.239574196709
+Epoch Number : 1242
+Error = 0.239537985533
+Epoch Number : 1243
+Error = 0.23950165362
+Epoch Number : 1244
+Error = 0.239465200667
+Epoch Number : 1245
+Error = 0.239428626371
+Epoch Number : 1246
+Error = 0.239391930427
+Epoch Number : 1247
+Error = 0.239355112536
+Epoch Number : 1248
+Error = 0.239318172394
+Epoch Number : 1249
+Error = 0.239281109701
+Epoch Number : 1250
+Error = 0.239243924156
+Epoch Number : 1251
+Error = 0.239206615459
+Epoch Number : 1252
+Error = 0.239169183312
+Epoch Number : 1253
+Error = 0.239131627415
+Epoch Number : 1254
+Error = 0.23909394747
+Epoch Number : 1255
+Error = 0.23905614318
+Epoch Number : 1256
+Error = 0.239018214249
+Epoch Number : 1257
+Error = 0.23898016038
+Epoch Number : 1258
+Error = 0.238941981278
+Epoch Number : 1259
+Error = 0.238903676649
+Epoch Number : 1260
+Error = 0.238865246199
+Epoch Number : 1261
+Error = 0.238826689635
+Epoch Number : 1262
+Error = 0.238788006665
+Epoch Number : 1263
+Error = 0.238749196998
+Epoch Number : 1264
+Error = 0.238710260343
+Epoch Number : 1265
+Error = 0.238671196411
+Epoch Number : 1266
+Error = 0.238632004913
+Epoch Number : 1267
+Error = 0.238592685562
+Epoch Number : 1268
+Error = 0.238553238069
+Epoch Number : 1269
+Error = 0.238513662151
+Epoch Number : 1270
+Error = 0.238473957521
+Epoch Number : 1271
+Error = 0.238434123897
+Epoch Number : 1272
+Error = 0.238394160994
+Epoch Number : 1273
+Error = 0.238354068532
+Epoch Number : 1274
+Error = 0.238313846229
+Epoch Number : 1275
+Error = 0.238273493806
+Epoch Number : 1276
+Error = 0.238233010984
+Epoch Number : 1277
+Error = 0.238192397487
+Epoch Number : 1278
+Error = 0.238151653037
+Epoch Number : 1279
+Error = 0.23811077736
+Epoch Number : 1280
+Error = 0.238069770182
+Epoch Number : 1281
+Error = 0.23802863123
+Epoch Number : 1282
+Error = 0.237987360233
+Epoch Number : 1283
+Error = 0.237945956921
+Epoch Number : 1284
+Error = 0.237904421025
+Epoch Number : 1285
+Error = 0.237862752278
+Epoch Number : 1286
+Error = 0.237820950414
+Epoch Number : 1287
+Error = 0.237779015167
+Epoch Number : 1288
+Error = 0.237736946276
+Epoch Number : 1289
+Error = 0.237694743477
+Epoch Number : 1290
+Error = 0.237652406511
+Epoch Number : 1291
+Error = 0.237609935118
+Epoch Number : 1292
+Error = 0.237567329042
+Epoch Number : 1293
+Error = 0.237524588026
+Epoch Number : 1294
+Error = 0.237481711816
+Epoch Number : 1295
+Error = 0.237438700159
+Epoch Number : 1296
+Error = 0.237395552804
+Epoch Number : 1297
+Error = 0.237352269503
+Epoch Number : 1298
+Error = 0.237308850006
+Epoch Number : 1299
+Error = 0.237265294068
+Epoch Number : 1300
+Error = 0.237221601445
+Epoch Number : 1301
+Error = 0.237177771894
+Epoch Number : 1302
+Error = 0.237133805174
+Epoch Number : 1303
+Error = 0.237089701046
+Epoch Number : 1304
+Error = 0.237045459273
+Epoch Number : 1305
+Error = 0.23700107962
+Epoch Number : 1306
+Error = 0.236956561852
+Epoch Number : 1307
+Error = 0.23691190574
+Epoch Number : 1308
+Error = 0.236867111052
+Epoch Number : 1309
+Error = 0.236822177562
+Epoch Number : 1310
+Error = 0.236777105043
+Epoch Number : 1311
+Error = 0.236731893273
+Epoch Number : 1312
+Error = 0.23668654203
+Epoch Number : 1313
+Error = 0.236641051094
+Epoch Number : 1314
+Error = 0.236595420248
+Epoch Number : 1315
+Error = 0.236549649277
+Epoch Number : 1316
+Error = 0.236503737969
+Epoch Number : 1317
+Error = 0.236457686111
+Epoch Number : 1318
+Error = 0.236411493496
+Epoch Number : 1319
+Error = 0.236365159918
+Epoch Number : 1320
+Error = 0.236318685173
+Epoch Number : 1321
+Error = 0.236272069058
+Epoch Number : 1322
+Error = 0.236225311376
+Epoch Number : 1323
+Error = 0.236178411928
+Epoch Number : 1324
+Error = 0.236131370522
+Epoch Number : 1325
+Error = 0.236084186963
+Epoch Number : 1326
+Error = 0.236036861064
+Epoch Number : 1327
+Error = 0.235989392638
+Epoch Number : 1328
+Error = 0.235941781499
+Epoch Number : 1329
+Error = 0.235894027466
+Epoch Number : 1330
+Error = 0.23584613036
+Epoch Number : 1331
+Error = 0.235798090005
+Epoch Number : 1332
+Error = 0.235749906226
+Epoch Number : 1333
+Error = 0.235701578852
+Epoch Number : 1334
+Error = 0.235653107715
+Epoch Number : 1335
+Error = 0.235604492649
+Epoch Number : 1336
+Error = 0.235555733492
+Epoch Number : 1337
+Error = 0.235506830082
+Epoch Number : 1338
+Error = 0.235457782264
+Epoch Number : 1339
+Error = 0.235408589883
+Epoch Number : 1340
+Error = 0.235359252788
+Epoch Number : 1341
+Error = 0.235309770829
+Epoch Number : 1342
+Error = 0.235260143863
+Epoch Number : 1343
+Error = 0.235210371745
+Epoch Number : 1344
+Error = 0.235160454339
+Epoch Number : 1345
+Error = 0.235110391506
+Epoch Number : 1346
+Error = 0.235060183114
+Epoch Number : 1347
+Error = 0.235009829034
+Epoch Number : 1348
+Error = 0.234959329138
+Epoch Number : 1349
+Error = 0.234908683303
+Epoch Number : 1350
+Error = 0.234857891408
+Epoch Number : 1351
+Error = 0.234806953338
+Epoch Number : 1352
+Error = 0.234755868978
+Epoch Number : 1353
+Error = 0.234704638218
+Epoch Number : 1354
+Error = 0.234653260951
+Epoch Number : 1355
+Error = 0.234601737075
+Epoch Number : 1356
+Error = 0.234550066488
+Epoch Number : 1357
+Error = 0.234498249094
+Epoch Number : 1358
+Error = 0.234446284801
+Epoch Number : 1359
+Error = 0.234394173519
+Epoch Number : 1360
+Error = 0.234341915163
+Epoch Number : 1361
+Error = 0.23428950965
+Epoch Number : 1362
+Error = 0.234236956901
+Epoch Number : 1363
+Error = 0.234184256842
+Epoch Number : 1364
+Error = 0.234131409402
+Epoch Number : 1365
+Error = 0.234078414514
+Epoch Number : 1366
+Error = 0.234025272113
+Epoch Number : 1367
+Error = 0.233971982141
+Epoch Number : 1368
+Error = 0.23391854454
+Epoch Number : 1369
+Error = 0.23386495926
+Epoch Number : 1370
+Error = 0.233811226253
+Epoch Number : 1371
+Error = 0.233757345473
+Epoch Number : 1372
+Error = 0.233703316881
+Epoch Number : 1373
+Error = 0.233649140441
+Epoch Number : 1374
+Error = 0.233594816121
+Epoch Number : 1375
+Error = 0.233540343893
+Epoch Number : 1376
+Error = 0.233485723732
+Epoch Number : 1377
+Error = 0.23343095562
+Epoch Number : 1378
+Error = 0.23337603954
+Epoch Number : 1379
+Error = 0.233320975481
+Epoch Number : 1380
+Error = 0.233265763437
+Epoch Number : 1381
+Error = 0.233210403404
+Epoch Number : 1382
+Error = 0.233154895383
+Epoch Number : 1383
+Error = 0.233099239382
+Epoch Number : 1384
+Error = 0.233043435409
+Epoch Number : 1385
+Error = 0.232987483479
+Epoch Number : 1386
+Error = 0.232931383612
+Epoch Number : 1387
+Error = 0.232875135831
+Epoch Number : 1388
+Error = 0.232818740163
+Epoch Number : 1389
+Error = 0.232762196642
+Epoch Number : 1390
+Error = 0.232705505304
+Epoch Number : 1391
+Error = 0.232648666191
+Epoch Number : 1392
+Error = 0.232591679349
+Epoch Number : 1393
+Error = 0.232534544829
+Epoch Number : 1394
+Error = 0.232477262686
+Epoch Number : 1395
+Error = 0.232419832982
+Epoch Number : 1396
+Error = 0.23236225578
+Epoch Number : 1397
+Error = 0.232304531151
+Epoch Number : 1398
+Error = 0.232246659168
+Epoch Number : 1399
+Error = 0.232188639912
+Epoch Number : 1400
+Error = 0.232130473466
+Epoch Number : 1401
+Error = 0.23207215992
+Epoch Number : 1402
+Error = 0.232013699367
+Epoch Number : 1403
+Error = 0.231955091907
+Epoch Number : 1404
+Error = 0.231896337643
+Epoch Number : 1405
+Error = 0.231837436684
+Epoch Number : 1406
+Error = 0.231778389143
+Epoch Number : 1407
+Error = 0.23171919514
+Epoch Number : 1408
+Error = 0.231659854799
+Epoch Number : 1409
+Error = 0.231600368248
+Epoch Number : 1410
+Error = 0.231540735621
+Epoch Number : 1411
+Error = 0.231480957059
+Epoch Number : 1412
+Error = 0.231421032705
+Epoch Number : 1413
+Error = 0.231360962708
+Epoch Number : 1414
+Error = 0.231300747224
+Epoch Number : 1415
+Error = 0.231240386413
+Epoch Number : 1416
+Error = 0.23117988044
+Epoch Number : 1417
+Error = 0.231119229475
+Epoch Number : 1418
+Error = 0.231058433694
+Epoch Number : 1419
+Error = 0.230997493279
+Epoch Number : 1420
+Error = 0.230936408416
+Epoch Number : 1421
+Error = 0.230875179297
+Epoch Number : 1422
+Error = 0.23081380612
+Epoch Number : 1423
+Error = 0.230752289086
+Epoch Number : 1424
+Error = 0.230690628404
+Epoch Number : 1425
+Error = 0.230628824288
+Epoch Number : 1426
+Error = 0.230566876957
+Epoch Number : 1427
+Error = 0.230504786635
+Epoch Number : 1428
+Error = 0.230442553552
+Epoch Number : 1429
+Error = 0.230380177945
+Epoch Number : 1430
+Error = 0.230317660053
+Epoch Number : 1431
+Error = 0.230255000124
+Epoch Number : 1432
+Error = 0.23019219841
+Epoch Number : 1433
+Error = 0.230129255169
+Epoch Number : 1434
+Error = 0.230066170665
+Epoch Number : 1435
+Error = 0.230002945165
+Epoch Number : 1436
+Error = 0.229939578946
+Epoch Number : 1437
+Error = 0.229876072288
+Epoch Number : 1438
+Error = 0.229812425476
+Epoch Number : 1439
+Error = 0.229748638803
+Epoch Number : 1440
+Error = 0.229684712566
+Epoch Number : 1441
+Error = 0.229620647068
+Epoch Number : 1442
+Error = 0.229556442618
+Epoch Number : 1443
+Error = 0.22949209953
+Epoch Number : 1444
+Error = 0.229427618126
+Epoch Number : 1445
+Error = 0.229362998731
+Epoch Number : 1446
+Error = 0.229298241676
+Epoch Number : 1447
+Error = 0.229233347301
+Epoch Number : 1448
+Error = 0.229168315948
+Epoch Number : 1449
+Error = 0.229103147966
+Epoch Number : 1450
+Error = 0.22903784371
+Epoch Number : 1451
+Error = 0.228972403543
+Epoch Number : 1452
+Error = 0.228906827829
+Epoch Number : 1453
+Error = 0.228841116941
+Epoch Number : 1454
+Error = 0.228775271259
+Epoch Number : 1455
+Error = 0.228709291166
+Epoch Number : 1456
+Error = 0.228643177051
+Epoch Number : 1457
+Error = 0.228576929312
+Epoch Number : 1458
+Error = 0.228510548349
+Epoch Number : 1459
+Error = 0.228444034571
+Epoch Number : 1460
+Error = 0.22837738839
+Epoch Number : 1461
+Error = 0.228310610226
+Epoch Number : 1462
+Error = 0.228243700503
+Epoch Number : 1463
+Error = 0.228176659654
+Epoch Number : 1464
+Error = 0.228109488113
+Epoch Number : 1465
+Error = 0.228042186326
+Epoch Number : 1466
+Error = 0.227974754738
+Epoch Number : 1467
+Error = 0.227907193806
+Epoch Number : 1468
+Error = 0.227839503989
+Epoch Number : 1469
+Error = 0.227771685754
+Epoch Number : 1470
+Error = 0.227703739571
+Epoch Number : 1471
+Error = 0.227635665919
+Epoch Number : 1472
+Error = 0.227567465281
+Epoch Number : 1473
+Error = 0.227499138147
+Epoch Number : 1474
+Error = 0.227430685011
+Epoch Number : 1475
+Error = 0.227362106375
+Epoch Number : 1476
+Error = 0.227293402745
+Epoch Number : 1477
+Error = 0.227224574634
+Epoch Number : 1478
+Error = 0.22715562256
+Epoch Number : 1479
+Error = 0.227086547048
+Epoch Number : 1480
+Error = 0.227017348626
+Epoch Number : 1481
+Error = 0.226948027831
+Epoch Number : 1482
+Error = 0.226878585204
+Epoch Number : 1483
+Error = 0.226809021291
+Epoch Number : 1484
+Error = 0.226739336647
+Epoch Number : 1485
+Error = 0.226669531828
+Epoch Number : 1486
+Error = 0.226599607399
+Epoch Number : 1487
+Error = 0.22652956393
+Epoch Number : 1488
+Error = 0.226459401997
+Epoch Number : 1489
+Error = 0.226389122179
+Epoch Number : 1490
+Error = 0.226318725065
+Epoch Number : 1491
+Error = 0.226248211245
+Epoch Number : 1492
+Error = 0.226177581319
+Epoch Number : 1493
+Error = 0.226106835888
+Epoch Number : 1494
+Error = 0.226035975563
+Epoch Number : 1495
+Error = 0.225965000958
+Epoch Number : 1496
+Error = 0.225893912692
+Epoch Number : 1497
+Error = 0.225822711391
+Epoch Number : 1498
+Error = 0.225751397685
+Epoch Number : 1499
+Error = 0.225679972211
+Epoch Number : 1500
+Error = 0.225608435611
+Epoch Number : 1501
+Error = 0.225536788531
+Epoch Number : 1502
+Error = 0.225465031624
+Epoch Number : 1503
+Error = 0.225393165548
+Epoch Number : 1504
+Error = 0.225321190965
+Epoch Number : 1505
+Error = 0.225249108544
+Epoch Number : 1506
+Error = 0.225176918958
+Epoch Number : 1507
+Error = 0.225104622886
+Epoch Number : 1508
+Error = 0.225032221011
+Epoch Number : 1509
+Error = 0.224959714023
+Epoch Number : 1510
+Error = 0.224887102616
+Epoch Number : 1511
+Error = 0.224814387489
+Epoch Number : 1512
+Error = 0.224741569347
+Epoch Number : 1513
+Error = 0.224668648898
+Epoch Number : 1514
+Error = 0.224595626856
+Epoch Number : 1515
+Error = 0.224522503942
+Epoch Number : 1516
+Error = 0.224449280879
+Epoch Number : 1517
+Error = 0.224375958396
+Epoch Number : 1518
+Error = 0.224302537227
+Epoch Number : 1519
+Error = 0.22422901811
+Epoch Number : 1520
+Error = 0.22415540179
+Epoch Number : 1521
+Error = 0.224081689014
+Epoch Number : 1522
+Error = 0.224007880535
+Epoch Number : 1523
+Error = 0.223933977111
+Epoch Number : 1524
+Error = 0.223859979503
+Epoch Number : 1525
+Error = 0.223785888479
+Epoch Number : 1526
+Error = 0.22371170481
+Epoch Number : 1527
+Error = 0.223637429271
+Epoch Number : 1528
+Error = 0.223563062642
+Epoch Number : 1529
+Error = 0.223488605709
+Epoch Number : 1530
+Error = 0.22341405926
+Epoch Number : 1531
+Error = 0.223339424088
+Epoch Number : 1532
+Error = 0.223264700991
+Epoch Number : 1533
+Error = 0.22318989077
+Epoch Number : 1534
+Error = 0.223114994232
+Epoch Number : 1535
+Error = 0.223040012187
+Epoch Number : 1536
+Error = 0.222964945449
+Epoch Number : 1537
+Error = 0.222889794835
+Epoch Number : 1538
+Error = 0.222814561168
+Epoch Number : 1539
+Error = 0.222739245275
+Epoch Number : 1540
+Error = 0.222663847985
+Epoch Number : 1541
+Error = 0.222588370133
+Epoch Number : 1542
+Error = 0.222512812555
+Epoch Number : 1543
+Error = 0.222437176093
+Epoch Number : 1544
+Error = 0.222361461593
+Epoch Number : 1545
+Error = 0.222285669903
+Epoch Number : 1546
+Error = 0.222209801875
+Epoch Number : 1547
+Error = 0.222133858366
+Epoch Number : 1548
+Error = 0.222057840235
+Epoch Number : 1549
+Error = 0.221981748344
+Epoch Number : 1550
+Error = 0.22190558356
+Epoch Number : 1551
+Error = 0.221829346752
+Epoch Number : 1552
+Error = 0.221753038793
+Epoch Number : 1553
+Error = 0.221676660559
+Epoch Number : 1554
+Error = 0.221600212929
+Epoch Number : 1555
+Error = 0.221523696786
+Epoch Number : 1556
+Error = 0.221447113014
+Epoch Number : 1557
+Error = 0.221370462503
+Epoch Number : 1558
+Error = 0.221293746142
+Epoch Number : 1559
+Error = 0.221216964827
+Epoch Number : 1560
+Error = 0.221140119455
+Epoch Number : 1561
+Error = 0.221063210924
+Epoch Number : 1562
+Error = 0.220986240138
+Epoch Number : 1563
+Error = 0.220909208001
+Epoch Number : 1564
+Error = 0.22083211542
+Epoch Number : 1565
+Error = 0.220754963308
+Epoch Number : 1566
+Error = 0.220677752574
+Epoch Number : 1567
+Error = 0.220600484136
+Epoch Number : 1568
+Error = 0.22052315891
+Epoch Number : 1569
+Error = 0.220445777816
+Epoch Number : 1570
+Error = 0.220368341775
+Epoch Number : 1571
+Error = 0.220290851712
+Epoch Number : 1572
+Error = 0.220213308553
+Epoch Number : 1573
+Error = 0.220135713225
+Epoch Number : 1574
+Error = 0.22005806666
+Epoch Number : 1575
+Error = 0.21998036979
+Epoch Number : 1576
+Error = 0.219902623547
+Epoch Number : 1577
+Error = 0.219824828869
+Epoch Number : 1578
+Error = 0.219746986691
+Epoch Number : 1579
+Error = 0.219669097955
+Epoch Number : 1580
+Error = 0.219591163599
+Epoch Number : 1581
+Error = 0.219513184568
+Epoch Number : 1582
+Error = 0.219435161803
+Epoch Number : 1583
+Error = 0.219357096251
+Epoch Number : 1584
+Error = 0.219278988858
+Epoch Number : 1585
+Error = 0.219200840572
+Epoch Number : 1586
+Error = 0.219122652342
+Epoch Number : 1587
+Error = 0.219044425118
+Epoch Number : 1588
+Error = 0.218966159851
+Epoch Number : 1589
+Error = 0.218887857494
+Epoch Number : 1590
+Error = 0.218809519001
+Epoch Number : 1591
+Error = 0.218731145324
+Epoch Number : 1592
+Error = 0.21865273742
+Epoch Number : 1593
+Error = 0.218574296244
+Epoch Number : 1594
+Error = 0.218495822753
+Epoch Number : 1595
+Error = 0.218417317904
+Epoch Number : 1596
+Error = 0.218338782655
+Epoch Number : 1597
+Error = 0.218260217964
+Epoch Number : 1598
+Error = 0.218181624791
+Epoch Number : 1599
+Error = 0.218103004093
+Epoch Number : 1600
+Error = 0.218024356831
+Epoch Number : 1601
+Error = 0.217945683964
+Epoch Number : 1602
+Error = 0.217866986453
+Epoch Number : 1603
+Error = 0.217788265258
+Epoch Number : 1604
+Error = 0.217709521338
+Epoch Number : 1605
+Error = 0.217630755655
+Epoch Number : 1606
+Error = 0.217551969168
+Epoch Number : 1607
+Error = 0.217473162837
+Epoch Number : 1608
+Error = 0.217394337623
+Epoch Number : 1609
+Error = 0.217315494484
+Epoch Number : 1610
+Error = 0.217236634381
+Epoch Number : 1611
+Error = 0.217157758272
+Epoch Number : 1612
+Error = 0.217078867116
+Epoch Number : 1613
+Error = 0.216999961871
+Epoch Number : 1614
+Error = 0.216921043495
+Epoch Number : 1615
+Error = 0.216842112943
+Epoch Number : 1616
+Error = 0.216763171174
+Epoch Number : 1617
+Error = 0.216684219142
+Epoch Number : 1618
+Error = 0.216605257801
+Epoch Number : 1619
+Error = 0.216526288107
+Epoch Number : 1620
+Error = 0.216447311011
+Epoch Number : 1621
+Error = 0.216368327465
+Epoch Number : 1622
+Error = 0.216289338422
+Epoch Number : 1623
+Error = 0.216210344829
+Epoch Number : 1624
+Error = 0.216131347637
+Epoch Number : 1625
+Error = 0.216052347792
+Epoch Number : 1626
+Error = 0.21597334624
+Epoch Number : 1627
+Error = 0.215894343927
+Epoch Number : 1628
+Error = 0.215815341796
+Epoch Number : 1629
+Error = 0.215736340789
+Epoch Number : 1630
+Error = 0.215657341845
+Epoch Number : 1631
+Error = 0.215578345905
+Epoch Number : 1632
+Error = 0.215499353905
+Epoch Number : 1633
+Error = 0.215420366781
+Epoch Number : 1634
+Error = 0.215341385467
+Epoch Number : 1635
+Error = 0.215262410894
+Epoch Number : 1636
+Error = 0.215183443993
+Epoch Number : 1637
+Error = 0.215104485692
+Epoch Number : 1638
+Error = 0.215025536918
+Epoch Number : 1639
+Error = 0.214946598594
+Epoch Number : 1640
+Error = 0.214867671642
+Epoch Number : 1641
+Error = 0.214788756983
+Epoch Number : 1642
+Error = 0.214709855535
+Epoch Number : 1643
+Error = 0.214630968213
+Epoch Number : 1644
+Error = 0.21455209593
+Epoch Number : 1645
+Error = 0.214473239598
+Epoch Number : 1646
+Error = 0.214394400125
+Epoch Number : 1647
+Error = 0.214315578417
+Epoch Number : 1648
+Error = 0.214236775377
+Epoch Number : 1649
+Error = 0.214157991908
+Epoch Number : 1650
+Error = 0.214079228906
+Epoch Number : 1651
+Error = 0.214000487268
+Epoch Number : 1652
+Error = 0.213921767888
+Epoch Number : 1653
+Error = 0.213843071655
+Epoch Number : 1654
+Error = 0.213764399457
+Epoch Number : 1655
+Error = 0.213685752179
+Epoch Number : 1656
+Error = 0.213607130702
+Epoch Number : 1657
+Error = 0.213528535906
+Epoch Number : 1658
+Error = 0.213449968666
+Epoch Number : 1659
+Error = 0.213371429855
+Epoch Number : 1660
+Error = 0.213292920342
+Epoch Number : 1661
+Error = 0.213214440996
+Epoch Number : 1662
+Error = 0.213135992678
+Epoch Number : 1663
+Error = 0.213057576249
+Epoch Number : 1664
+Error = 0.212979192567
+Epoch Number : 1665
+Error = 0.212900842484
+Epoch Number : 1666
+Error = 0.212822526851
+Epoch Number : 1667
+Error = 0.212744246516
+Epoch Number : 1668
+Error = 0.212666002321
+Epoch Number : 1669
+Error = 0.212587795107
+Epoch Number : 1670
+Error = 0.21250962571
+Epoch Number : 1671
+Error = 0.212431494963
+Epoch Number : 1672
+Error = 0.212353403696
+Epoch Number : 1673
+Error = 0.212275352735
+Epoch Number : 1674
+Error = 0.2121973429
+Epoch Number : 1675
+Error = 0.212119375012
+Epoch Number : 1676
+Error = 0.212041449884
+Epoch Number : 1677
+Error = 0.211963568328
+Epoch Number : 1678
+Error = 0.21188573115
+Epoch Number : 1679
+Error = 0.211807939153
+Epoch Number : 1680
+Error = 0.211730193138
+Epoch Number : 1681
+Error = 0.211652493899
+Epoch Number : 1682
+Error = 0.211574842228
+Epoch Number : 1683
+Error = 0.211497238912
+Epoch Number : 1684
+Error = 0.211419684735
+Epoch Number : 1685
+Error = 0.211342180476
+Epoch Number : 1686
+Error = 0.21126472691
+Epoch Number : 1687
+Error = 0.211187324809
+Epoch Number : 1688
+Error = 0.21110997494
+Epoch Number : 1689
+Error = 0.211032678065
+Epoch Number : 1690
+Error = 0.210955434944
+Epoch Number : 1691
+Error = 0.21087824633
+Epoch Number : 1692
+Error = 0.210801112974
+Epoch Number : 1693
+Error = 0.210724035621
+Epoch Number : 1694
+Error = 0.210647015014
+Epoch Number : 1695
+Error = 0.210570051889
+Epoch Number : 1696
+Error = 0.21049314698
+Epoch Number : 1697
+Error = 0.210416301014
+Epoch Number : 1698
+Error = 0.210339514716
+Epoch Number : 1699
+Error = 0.210262788806
+Epoch Number : 1700
+Error = 0.210186123998
+Epoch Number : 1701
+Error = 0.210109521003
+Epoch Number : 1702
+Error = 0.210032980527
+Epoch Number : 1703
+Error = 0.209956503272
+Epoch Number : 1704
+Error = 0.209880089935
+Epoch Number : 1705
+Error = 0.209803741208
+Epoch Number : 1706
+Error = 0.20972745778
+Epoch Number : 1707
+Error = 0.209651240333
+Epoch Number : 1708
+Error = 0.209575089545
+Epoch Number : 1709
+Error = 0.209499006092
+Epoch Number : 1710
+Error = 0.209422990642
+Epoch Number : 1711
+Error = 0.209347043859
+Epoch Number : 1712
+Error = 0.209271166404
+Epoch Number : 1713
+Error = 0.209195358932
+Epoch Number : 1714
+Error = 0.209119622093
+Epoch Number : 1715
+Error = 0.209043956533
+Epoch Number : 1716
+Error = 0.208968362893
+Epoch Number : 1717
+Error = 0.208892841808
+Epoch Number : 1718
+Error = 0.208817393911
+Epoch Number : 1719
+Error = 0.208742019827
+Epoch Number : 1720
+Error = 0.208666720178
+Epoch Number : 1721
+Error = 0.208591495581
+Epoch Number : 1722
+Error = 0.208516346649
+Epoch Number : 1723
+Error = 0.208441273987
+Epoch Number : 1724
+Error = 0.208366278199
+Epoch Number : 1725
+Error = 0.208291359882
+Epoch Number : 1726
+Error = 0.208216519628
+Epoch Number : 1727
+Error = 0.208141758025
+Epoch Number : 1728
+Error = 0.208067075655
+Epoch Number : 1729
+Error = 0.207992473097
+Epoch Number : 1730
+Error = 0.207917950923
+Epoch Number : 1731
+Error = 0.207843509701
+Epoch Number : 1732
+Error = 0.207769149995
+Epoch Number : 1733
+Error = 0.207694872361
+Epoch Number : 1734
+Error = 0.207620677354
+Epoch Number : 1735
+Error = 0.207546565521
+Epoch Number : 1736
+Error = 0.207472537406
+Epoch Number : 1737
+Error = 0.207398593547
+Epoch Number : 1738
+Error = 0.207324734478
+Epoch Number : 1739
+Error = 0.207250960726
+Epoch Number : 1740
+Error = 0.207177272814
+Epoch Number : 1741
+Error = 0.207103671263
+Epoch Number : 1742
+Error = 0.207030156584
+Epoch Number : 1743
+Error = 0.206956729286
+Epoch Number : 1744
+Error = 0.206883389873
+Epoch Number : 1745
+Error = 0.206810138844
+Epoch Number : 1746
+Error = 0.206736976691
+Epoch Number : 1747
+Error = 0.206663903904
+Epoch Number : 1748
+Error = 0.206590920966
+Epoch Number : 1749
+Error = 0.206518028355
+Epoch Number : 1750
+Error = 0.206445226546
+Epoch Number : 1751
+Error = 0.206372516008
+Epoch Number : 1752
+Error = 0.206299897203
+Epoch Number : 1753
+Error = 0.206227370591
+Epoch Number : 1754
+Error = 0.206154936626
+Epoch Number : 1755
+Error = 0.206082595756
+Epoch Number : 1756
+Error = 0.206010348426
+Epoch Number : 1757
+Error = 0.205938195074
+Epoch Number : 1758
+Error = 0.205866136135
+Epoch Number : 1759
+Error = 0.205794172039
+Epoch Number : 1760
+Error = 0.205722303208
+Epoch Number : 1761
+Error = 0.205650530063
+Epoch Number : 1762
+Error = 0.205578853018
+Epoch Number : 1763
+Error = 0.205507272483
+Epoch Number : 1764
+Error = 0.205435788862
+Epoch Number : 1765
+Error = 0.205364402555
+Epoch Number : 1766
+Error = 0.205293113957
+Epoch Number : 1767
+Error = 0.205221923458
+Epoch Number : 1768
+Error = 0.205150831444
+Epoch Number : 1769
+Error = 0.205079838294
+Epoch Number : 1770
+Error = 0.205008944385
+Epoch Number : 1771
+Error = 0.204938150086
+Epoch Number : 1772
+Error = 0.204867455765
+Epoch Number : 1773
+Error = 0.204796861781
+Epoch Number : 1774
+Error = 0.204726368491
+Epoch Number : 1775
+Error = 0.204655976248
+Epoch Number : 1776
+Error = 0.204585685397
+Epoch Number : 1777
+Error = 0.20451549628
+Epoch Number : 1778
+Error = 0.204445409236
+Epoch Number : 1779
+Error = 0.204375424595
+Epoch Number : 1780
+Error = 0.204305542687
+Epoch Number : 1781
+Error = 0.204235763835
+Epoch Number : 1782
+Error = 0.204166088356
+Epoch Number : 1783
+Error = 0.204096516564
+Epoch Number : 1784
+Error = 0.20402704877
+Epoch Number : 1785
+Error = 0.203957685276
+Epoch Number : 1786
+Error = 0.203888426384
+Epoch Number : 1787
+Error = 0.203819272388
+Epoch Number : 1788
+Error = 0.203750223578
+Epoch Number : 1789
+Error = 0.203681280242
+Epoch Number : 1790
+Error = 0.20361244266
+Epoch Number : 1791
+Error = 0.203543711109
+Epoch Number : 1792
+Error = 0.203475085862
+Epoch Number : 1793
+Error = 0.203406567186
+Epoch Number : 1794
+Error = 0.203338155346
+Epoch Number : 1795
+Error = 0.203269850599
+Epoch Number : 1796
+Error = 0.203201653201
+Epoch Number : 1797
+Error = 0.203133563401
+Epoch Number : 1798
+Error = 0.203065581445
+Epoch Number : 1799
+Error = 0.202997707574
+Epoch Number : 1800
+Error = 0.202929942025
+Epoch Number : 1801
+Error = 0.20286228503
+Epoch Number : 1802
+Error = 0.202794736818
+Epoch Number : 1803
+Error = 0.202727297611
+Epoch Number : 1804
+Error = 0.20265996763
+Epoch Number : 1805
+Error = 0.202592747089
+Epoch Number : 1806
+Error = 0.202525636199
+Epoch Number : 1807
+Error = 0.202458635167
+Epoch Number : 1808
+Error = 0.202391744195
+Epoch Number : 1809
+Error = 0.202324963482
+Epoch Number : 1810
+Error = 0.20225829322
+Epoch Number : 1811
+Error = 0.202191733601
+Epoch Number : 1812
+Error = 0.202125284809
+Epoch Number : 1813
+Error = 0.202058947026
+Epoch Number : 1814
+Error = 0.201992720429
+Epoch Number : 1815
+Error = 0.201926605191
+Epoch Number : 1816
+Error = 0.201860601482
+Epoch Number : 1817
+Error = 0.201794709467
+Epoch Number : 1818
+Error = 0.201728929307
+Epoch Number : 1819
+Error = 0.201663261158
+Epoch Number : 1820
+Error = 0.201597705175
+Epoch Number : 1821
+Error = 0.201532261505
+Epoch Number : 1822
+Error = 0.201466930295
+Epoch Number : 1823
+Error = 0.201401711686
+Epoch Number : 1824
+Error = 0.201336605814
+Epoch Number : 1825
+Error = 0.201271612814
+Epoch Number : 1826
+Error = 0.201206732815
+Epoch Number : 1827
+Error = 0.201141965942
+Epoch Number : 1828
+Error = 0.201077312319
+Epoch Number : 1829
+Error = 0.201012772063
+Epoch Number : 1830
+Error = 0.200948345288
+Epoch Number : 1831
+Error = 0.200884032106
+Epoch Number : 1832
+Error = 0.200819832622
+Epoch Number : 1833
+Error = 0.200755746942
+Epoch Number : 1834
+Error = 0.200691775163
+Epoch Number : 1835
+Error = 0.200627917383
+Epoch Number : 1836
+Error = 0.200564173694
+Epoch Number : 1837
+Error = 0.200500544184
+Epoch Number : 1838
+Error = 0.200437028938
+Epoch Number : 1839
+Error = 0.200373628039
+Epoch Number : 1840
+Error = 0.200310341564
+Epoch Number : 1841
+Error = 0.200247169588
+Epoch Number : 1842
+Error = 0.200184112182
+Epoch Number : 1843
+Error = 0.200121169413
+Epoch Number : 1844
+Error = 0.200058341347
+Epoch Number : 1845
+Error = 0.199995628043
+Epoch Number : 1846
+Error = 0.19993302956
+Epoch Number : 1847
+Error = 0.199870545951
+Epoch Number : 1848
+Error = 0.199808177267
+Epoch Number : 1849
+Error = 0.199745923555
+Epoch Number : 1850
+Error = 0.19968378486
+Epoch Number : 1851
+Error = 0.199621761222
+Epoch Number : 1852
+Error = 0.199559852679
+Epoch Number : 1853
+Error = 0.199498059265
+Epoch Number : 1854
+Error = 0.199436381012
+Epoch Number : 1855
+Error = 0.199374817948
+Epoch Number : 1856
+Error = 0.199313370097
+Epoch Number : 1857
+Error = 0.199252037481
+Epoch Number : 1858
+Error = 0.199190820119
+Epoch Number : 1859
+Error = 0.199129718027
+Epoch Number : 1860
+Error = 0.199068731216
+Epoch Number : 1861
+Error = 0.199007859696
+Epoch Number : 1862
+Error = 0.198947103475
+Epoch Number : 1863
+Error = 0.198886462554
+Epoch Number : 1864
+Error = 0.198825936936
+Epoch Number : 1865
+Error = 0.198765526617
+Epoch Number : 1866
+Error = 0.198705231592
+Epoch Number : 1867
+Error = 0.198645051853
+Epoch Number : 1868
+Error = 0.198584987389
+Epoch Number : 1869
+Error = 0.198525038186
+Epoch Number : 1870
+Error = 0.198465204227
+Epoch Number : 1871
+Error = 0.198405485493
+Epoch Number : 1872
+Error = 0.198345881962
+Epoch Number : 1873
+Error = 0.198286393608
+Epoch Number : 1874
+Error = 0.198227020403
+Epoch Number : 1875
+Error = 0.198167762318
+Epoch Number : 1876
+Error = 0.19810861932
+Epoch Number : 1877
+Error = 0.198049591371
+Epoch Number : 1878
+Error = 0.197990678435
+Epoch Number : 1879
+Error = 0.19793188047
+Epoch Number : 1880
+Error = 0.197873197432
+Epoch Number : 1881
+Error = 0.197814629276
+Epoch Number : 1882
+Error = 0.197756175952
+Epoch Number : 1883
+Error = 0.19769783741
+Epoch Number : 1884
+Error = 0.197639613596
+Epoch Number : 1885
+Error = 0.197581504454
+Epoch Number : 1886
+Error = 0.197523509925
+Epoch Number : 1887
+Error = 0.197465629948
+Epoch Number : 1888
+Error = 0.19740786446
+Epoch Number : 1889
+Error = 0.197350213395
+Epoch Number : 1890
+Error = 0.197292676685
+Epoch Number : 1891
+Error = 0.19723525426
+Epoch Number : 1892
+Error = 0.197177946047
+Epoch Number : 1893
+Error = 0.19712075197
+Epoch Number : 1894
+Error = 0.197063671954
+Epoch Number : 1895
+Error = 0.197006705917
+Epoch Number : 1896
+Error = 0.196949853778
+Epoch Number : 1897
+Error = 0.196893115454
+Epoch Number : 1898
+Error = 0.196836490859
+Epoch Number : 1899
+Error = 0.196779979903
+Epoch Number : 1900
+Error = 0.196723582498
+Epoch Number : 1901
+Error = 0.196667298549
+Epoch Number : 1902
+Error = 0.196611127963
+Epoch Number : 1903
+Error = 0.196555070644
+Epoch Number : 1904
+Error = 0.196499126492
+Epoch Number : 1905
+Error = 0.196443295406
+Epoch Number : 1906
+Error = 0.196387577285
+Epoch Number : 1907
+Error = 0.196331972023
+Epoch Number : 1908
+Error = 0.196276479514
+Epoch Number : 1909
+Error = 0.196221099649
+Epoch Number : 1910
+Error = 0.196165832318
+Epoch Number : 1911
+Error = 0.196110677409
+Epoch Number : 1912
+Error = 0.196055634807
+Epoch Number : 1913
+Error = 0.196000704396
+Epoch Number : 1914
+Error = 0.195945886059
+Epoch Number : 1915
+Error = 0.195891179675
+Epoch Number : 1916
+Error = 0.195836585123
+Epoch Number : 1917
+Error = 0.19578210228
+Epoch Number : 1918
+Error = 0.195727731021
+Epoch Number : 1919
+Error = 0.195673471219
+Epoch Number : 1920
+Error = 0.195619322746
+Epoch Number : 1921
+Error = 0.195565285471
+Epoch Number : 1922
+Error = 0.195511359264
+Epoch Number : 1923
+Error = 0.195457543989
+Epoch Number : 1924
+Error = 0.195403839513
+Epoch Number : 1925
+Error = 0.195350245698
+Epoch Number : 1926
+Error = 0.195296762407
+Epoch Number : 1927
+Error = 0.195243389499
+Epoch Number : 1928
+Error = 0.195190126833
+Epoch Number : 1929
+Error = 0.195136974266
+Epoch Number : 1930
+Error = 0.195083931654
+Epoch Number : 1931
+Error = 0.19503099885
+Epoch Number : 1932
+Error = 0.194978175708
+Epoch Number : 1933
+Error = 0.194925462078
+Epoch Number : 1934
+Error = 0.194872857811
+Epoch Number : 1935
+Error = 0.194820362754
+Epoch Number : 1936
+Error = 0.194767976754
+Epoch Number : 1937
+Error = 0.194715699657
+Epoch Number : 1938
+Error = 0.194663531307
+Epoch Number : 1939
+Error = 0.194611471546
+Epoch Number : 1940
+Error = 0.194559520217
+Epoch Number : 1941
+Error = 0.194507677159
+Epoch Number : 1942
+Error = 0.194455942212
+Epoch Number : 1943
+Error = 0.194404315211
+Epoch Number : 1944
+Error = 0.194352795995
+Epoch Number : 1945
+Error = 0.194301384398
+Epoch Number : 1946
+Error = 0.194250080254
+Epoch Number : 1947
+Error = 0.194198883396
+Epoch Number : 1948
+Error = 0.194147793654
+Epoch Number : 1949
+Error = 0.19409681086
+Epoch Number : 1950
+Error = 0.194045934842
+Epoch Number : 1951
+Error = 0.193995165429
+Epoch Number : 1952
+Error = 0.193944502447
+Epoch Number : 1953
+Error = 0.193893945722
+Epoch Number : 1954
+Error = 0.193843495078
+Epoch Number : 1955
+Error = 0.19379315034
+Epoch Number : 1956
+Error = 0.193742911329
+Epoch Number : 1957
+Error = 0.193692777868
+Epoch Number : 1958
+Error = 0.193642749776
+Epoch Number : 1959
+Error = 0.193592826874
+Epoch Number : 1960
+Error = 0.193543008979
+Epoch Number : 1961
+Error = 0.193493295909
+Epoch Number : 1962
+Error = 0.193443687481
+Epoch Number : 1963
+Error = 0.19339418351
+Epoch Number : 1964
+Error = 0.19334478381
+Epoch Number : 1965
+Error = 0.193295488196
+Epoch Number : 1966
+Error = 0.193246296481
+Epoch Number : 1967
+Error = 0.193197208475
+Epoch Number : 1968
+Error = 0.193148223991
+Epoch Number : 1969
+Error = 0.193099342838
+Epoch Number : 1970
+Error = 0.193050564826
+Epoch Number : 1971
+Error = 0.193001889763
+Epoch Number : 1972
+Error = 0.192953317456
+Epoch Number : 1973
+Error = 0.192904847714
+Epoch Number : 1974
+Error = 0.192856480341
+Epoch Number : 1975
+Error = 0.192808215144
+Epoch Number : 1976
+Error = 0.192760051926
+Epoch Number : 1977
+Error = 0.192711990492
+Epoch Number : 1978
+Error = 0.192664030645
+Epoch Number : 1979
+Error = 0.192616172186
+Epoch Number : 1980
+Error = 0.192568414918
+Epoch Number : 1981
+Error = 0.192520758642
+Epoch Number : 1982
+Error = 0.192473203158
+Epoch Number : 1983
+Error = 0.192425748265
+Epoch Number : 1984
+Error = 0.192378393762
+Epoch Number : 1985
+Error = 0.192331139448
+Epoch Number : 1986
+Error = 0.192283985121
+Epoch Number : 1987
+Error = 0.192236930577
+Epoch Number : 1988
+Error = 0.192189975613
+Epoch Number : 1989
+Error = 0.192143120025
+Epoch Number : 1990
+Error = 0.192096363607
+Epoch Number : 1991
+Error = 0.192049706156
+Epoch Number : 1992
+Error = 0.192003147465
+Epoch Number : 1993
+Error = 0.191956687327
+Epoch Number : 1994
+Error = 0.191910325536
+Epoch Number : 1995
+Error = 0.191864061884
+Epoch Number : 1996
+Error = 0.191817896163
+Epoch Number : 1997
+Error = 0.191771828166
+Epoch Number : 1998
+Error = 0.191725857682
+Epoch Number : 1999
+Error = 0.191679984503
+Epoch Number : 2000
+Error = 0.191634208418
+Epoch Number : 2001
+Error = 0.191588529218
+Epoch Number : 2002
+Error = 0.191542946692
+Epoch Number : 2003
+Error = 0.191497460628
+Epoch Number : 2004
+Error = 0.191452070815
+Epoch Number : 2005
+Error = 0.191406777041
+Epoch Number : 2006
+Error = 0.191361579093
+Epoch Number : 2007
+Error = 0.191316476759
+Epoch Number : 2008
+Error = 0.191271469826
+Epoch Number : 2009
+Error = 0.191226558079
+Epoch Number : 2010
+Error = 0.191181741306
+Epoch Number : 2011
+Error = 0.191137019291
+Epoch Number : 2012
+Error = 0.191092391821
+Epoch Number : 2013
+Error = 0.191047858679
+Epoch Number : 2014
+Error = 0.191003419653
+Epoch Number : 2015
+Error = 0.190959074524
+Epoch Number : 2016
+Error = 0.190914823079
+Epoch Number : 2017
+Error = 0.1908706651
+Epoch Number : 2018
+Error = 0.190826600371
+Epoch Number : 2019
+Error = 0.190782628676
+Epoch Number : 2020
+Error = 0.190738749798
+Epoch Number : 2021
+Error = 0.190694963519
+Epoch Number : 2022
+Error = 0.190651269623
+Epoch Number : 2023
+Error = 0.190607667891
+Epoch Number : 2024
+Error = 0.190564158105
+Epoch Number : 2025
+Error = 0.190520740048
+Epoch Number : 2026
+Error = 0.190477413501
+Epoch Number : 2027
+Error = 0.190434178246
+Epoch Number : 2028
+Error = 0.190391034063
+Epoch Number : 2029
+Error = 0.190347980735
+Epoch Number : 2030
+Error = 0.190305018042
+Epoch Number : 2031
+Error = 0.190262145765
+Epoch Number : 2032
+Error = 0.190219363685
+Epoch Number : 2033
+Error = 0.190176671581
+Epoch Number : 2034
+Error = 0.190134069235
+Epoch Number : 2035
+Error = 0.190091556426
+Epoch Number : 2036
+Error = 0.190049132935
+Epoch Number : 2037
+Error = 0.190006798542
+Epoch Number : 2038
+Error = 0.189964553026
+Epoch Number : 2039
+Error = 0.189922396168
+Epoch Number : 2040
+Error = 0.189880327746
+Epoch Number : 2041
+Error = 0.189838347541
+Epoch Number : 2042
+Error = 0.189796455332
+Epoch Number : 2043
+Error = 0.189754650898
+Epoch Number : 2044
+Error = 0.189712934019
+Epoch Number : 2045
+Error = 0.189671304474
+Epoch Number : 2046
+Error = 0.189629762042
+Epoch Number : 2047
+Error = 0.189588306503
+Epoch Number : 2048
+Error = 0.189546937635
+Epoch Number : 2049
+Error = 0.189505655218
+Epoch Number : 2050
+Error = 0.189464459031
+Epoch Number : 2051
+Error = 0.189423348853
+Epoch Number : 2052
+Error = 0.189382324463
+Epoch Number : 2053
+Error = 0.18934138564
+Epoch Number : 2054
+Error = 0.189300532163
+Epoch Number : 2055
+Error = 0.189259763811
+Epoch Number : 2056
+Error = 0.189219080363
+Epoch Number : 2057
+Error = 0.189178481598
+Epoch Number : 2058
+Error = 0.189137967296
+Epoch Number : 2059
+Error = 0.189097537236
+Epoch Number : 2060
+Error = 0.189057191196
+Epoch Number : 2061
+Error = 0.189016928956
+Epoch Number : 2062
+Error = 0.188976750296
+Epoch Number : 2063
+Error = 0.188936654994
+Epoch Number : 2064
+Error = 0.18889664283
+Epoch Number : 2065
+Error = 0.188856713583
+Epoch Number : 2066
+Error = 0.188816867033
+Epoch Number : 2067
+Error = 0.18877710296
+Epoch Number : 2068
+Error = 0.188737421143
+Epoch Number : 2069
+Error = 0.188697821361
+Epoch Number : 2070
+Error = 0.188658303396
+Epoch Number : 2071
+Error = 0.188618867026
+Epoch Number : 2072
+Error = 0.188579512032
+Epoch Number : 2073
+Error = 0.188540238193
+Epoch Number : 2074
+Error = 0.188501045291
+Epoch Number : 2075
+Error = 0.188461933106
+Epoch Number : 2076
+Error = 0.188422901417
+Epoch Number : 2077
+Error = 0.188383950006
+Epoch Number : 2078
+Error = 0.188345078653
+Epoch Number : 2079
+Error = 0.18830628714
+Epoch Number : 2080
+Error = 0.188267575246
+Epoch Number : 2081
+Error = 0.188228942754
+Epoch Number : 2082
+Error = 0.188190389445
+Epoch Number : 2083
+Error = 0.1881519151
+Epoch Number : 2084
+Error = 0.188113519501
+Epoch Number : 2085
+Error = 0.188075202429
+Epoch Number : 2086
+Error = 0.188036963666
+Epoch Number : 2087
+Error = 0.187998802995
+Epoch Number : 2088
+Error = 0.187960720198
+Epoch Number : 2089
+Error = 0.187922715057
+Epoch Number : 2090
+Error = 0.187884787355
+Epoch Number : 2091
+Error = 0.187846936875
+Epoch Number : 2092
+Error = 0.187809163399
+Epoch Number : 2093
+Error = 0.187771466711
+Epoch Number : 2094
+Error = 0.187733846595
+Epoch Number : 2095
+Error = 0.187696302833
+Epoch Number : 2096
+Error = 0.18765883521
+Epoch Number : 2097
+Error = 0.187621443509
+Epoch Number : 2098
+Error = 0.187584127515
+Epoch Number : 2099
+Error = 0.187546887013
+Epoch Number : 2100
+Error = 0.187509721786
+Epoch Number : 2101
+Error = 0.18747263162
+Epoch Number : 2102
+Error = 0.187435616299
+Epoch Number : 2103
+Error = 0.187398675609
+Epoch Number : 2104
+Error = 0.187361809336
+Epoch Number : 2105
+Error = 0.187325017265
+Epoch Number : 2106
+Error = 0.187288299182
+Epoch Number : 2107
+Error = 0.187251654874
+Epoch Number : 2108
+Error = 0.187215084126
+Epoch Number : 2109
+Error = 0.187178586726
+Epoch Number : 2110
+Error = 0.187142162461
+Epoch Number : 2111
+Error = 0.187105811117
+Epoch Number : 2112
+Error = 0.187069532482
+Epoch Number : 2113
+Error = 0.187033326344
+Epoch Number : 2114
+Error = 0.18699719249
+Epoch Number : 2115
+Error = 0.18696113071
+Epoch Number : 2116
+Error = 0.186925140791
+Epoch Number : 2117
+Error = 0.186889222522
+Epoch Number : 2118
+Error = 0.186853375692
+Epoch Number : 2119
+Error = 0.186817600091
+Epoch Number : 2120
+Error = 0.186781895507
+Epoch Number : 2121
+Error = 0.186746261731
+Epoch Number : 2122
+Error = 0.186710698553
+Epoch Number : 2123
+Error = 0.186675205763
+Epoch Number : 2124
+Error = 0.186639783152
+Epoch Number : 2125
+Error = 0.18660443051
+Epoch Number : 2126
+Error = 0.18656914763
+Epoch Number : 2127
+Error = 0.186533934302
+Epoch Number : 2128
+Error = 0.186498790318
+Epoch Number : 2129
+Error = 0.18646371547
+Epoch Number : 2130
+Error = 0.186428709551
+Epoch Number : 2131
+Error = 0.186393772353
+Epoch Number : 2132
+Error = 0.186358903669
+Epoch Number : 2133
+Error = 0.186324103293
+Epoch Number : 2134
+Error = 0.186289371018
+Epoch Number : 2135
+Error = 0.186254706637
+Epoch Number : 2136
+Error = 0.186220109946
+Epoch Number : 2137
+Error = 0.186185580738
+Epoch Number : 2138
+Error = 0.186151118808
+Epoch Number : 2139
+Error = 0.186116723952
+Epoch Number : 2140
+Error = 0.186082395964
+Epoch Number : 2141
+Error = 0.18604813464
+Epoch Number : 2142
+Error = 0.186013939777
+Epoch Number : 2143
+Error = 0.18597981117
+Epoch Number : 2144
+Error = 0.185945748617
+Epoch Number : 2145
+Error = 0.185911751914
+Epoch Number : 2146
+Error = 0.185877820858
+Epoch Number : 2147
+Error = 0.185843955248
+Epoch Number : 2148
+Error = 0.18581015488
+Epoch Number : 2149
+Error = 0.185776419554
+Epoch Number : 2150
+Error = 0.185742749067
+Epoch Number : 2151
+Error = 0.185709143219
+Epoch Number : 2152
+Error = 0.185675601808
+Epoch Number : 2153
+Error = 0.185642124635
+Epoch Number : 2154
+Error = 0.185608711499
+Epoch Number : 2155
+Error = 0.1855753622
+Epoch Number : 2156
+Error = 0.185542076539
+Epoch Number : 2157
+Error = 0.185508854317
+Epoch Number : 2158
+Error = 0.185475695334
+Epoch Number : 2159
+Error = 0.185442599392
+Epoch Number : 2160
+Error = 0.185409566294
+Epoch Number : 2161
+Error = 0.185376595841
+Epoch Number : 2162
+Error = 0.185343687836
+Epoch Number : 2163
+Error = 0.185310842081
+Epoch Number : 2164
+Error = 0.18527805838
+Epoch Number : 2165
+Error = 0.185245336536
+Epoch Number : 2166
+Error = 0.185212676353
+Epoch Number : 2167
+Error = 0.185180077635
+Epoch Number : 2168
+Error = 0.185147540187
+Epoch Number : 2169
+Error = 0.185115063814
+Epoch Number : 2170
+Error = 0.18508264832
+Epoch Number : 2171
+Error = 0.185050293512
+Epoch Number : 2172
+Error = 0.185017999195
+Epoch Number : 2173
+Error = 0.184985765175
+Epoch Number : 2174
+Error = 0.184953591259
+Epoch Number : 2175
+Error = 0.184921477255
+Epoch Number : 2176
+Error = 0.184889422968
+Epoch Number : 2177
+Error = 0.184857428207
+Epoch Number : 2178
+Error = 0.184825492779
+Epoch Number : 2179
+Error = 0.184793616493
+Epoch Number : 2180
+Error = 0.184761799158
+Epoch Number : 2181
+Error = 0.184730040582
+Epoch Number : 2182
+Error = 0.184698340575
+Epoch Number : 2183
+Error = 0.184666698947
+Epoch Number : 2184
+Error = 0.184635115507
+Epoch Number : 2185
+Error = 0.184603590065
+Epoch Number : 2186
+Error = 0.184572122433
+Epoch Number : 2187
+Error = 0.184540712422
+Epoch Number : 2188
+Error = 0.184509359842
+Epoch Number : 2189
+Error = 0.184478064506
+Epoch Number : 2190
+Error = 0.184446826226
+Epoch Number : 2191
+Error = 0.184415644813
+Epoch Number : 2192
+Error = 0.184384520082
+Epoch Number : 2193
+Error = 0.184353451844
+Epoch Number : 2194
+Error = 0.184322439914
+Epoch Number : 2195
+Error = 0.184291484105
+Epoch Number : 2196
+Error = 0.184260584232
+Epoch Number : 2197
+Error = 0.184229740108
+Epoch Number : 2198
+Error = 0.184198951549
+Epoch Number : 2199
+Error = 0.18416821837
+Epoch Number : 2200
+Error = 0.184137540387
+Epoch Number : 2201
+Error = 0.184106917415
+Epoch Number : 2202
+Error = 0.18407634927
+Epoch Number : 2203
+Error = 0.18404583577
+Epoch Number : 2204
+Error = 0.184015376731
+Epoch Number : 2205
+Error = 0.18398497197
+Epoch Number : 2206
+Error = 0.183954621305
+Epoch Number : 2207
+Error = 0.183924324554
+Epoch Number : 2208
+Error = 0.183894081536
+Epoch Number : 2209
+Error = 0.183863892068
+Epoch Number : 2210
+Error = 0.18383375597
+Epoch Number : 2211
+Error = 0.183803673062
+Epoch Number : 2212
+Error = 0.183773643162
+Epoch Number : 2213
+Error = 0.183743666092
+Epoch Number : 2214
+Error = 0.183713741671
+Epoch Number : 2215
+Error = 0.18368386972
+Epoch Number : 2216
+Error = 0.18365405006
+Epoch Number : 2217
+Error = 0.183624282513
+Epoch Number : 2218
+Error = 0.1835945669
+Epoch Number : 2219
+Error = 0.183564903044
+Epoch Number : 2220
+Error = 0.183535290766
+Epoch Number : 2221
+Error = 0.18350572989
+Epoch Number : 2222
+Error = 0.183476220239
+Epoch Number : 2223
+Error = 0.183446761636
+Epoch Number : 2224
+Error = 0.183417353904
+Epoch Number : 2225
+Error = 0.183387996869
+Epoch Number : 2226
+Error = 0.183358690355
+Epoch Number : 2227
+Error = 0.183329434186
+Epoch Number : 2228
+Error = 0.183300228187
+Epoch Number : 2229
+Error = 0.183271072185
+Epoch Number : 2230
+Error = 0.183241966004
+Epoch Number : 2231
+Error = 0.183212909472
+Epoch Number : 2232
+Error = 0.183183902413
+Epoch Number : 2233
+Error = 0.183154944656
+Epoch Number : 2234
+Error = 0.183126036028
+Epoch Number : 2235
+Error = 0.183097176355
+Epoch Number : 2236
+Error = 0.183068365467
+Epoch Number : 2237
+Error = 0.18303960319
+Epoch Number : 2238
+Error = 0.183010889354
+Epoch Number : 2239
+Error = 0.182982223786
+Epoch Number : 2240
+Error = 0.182953606318
+Epoch Number : 2241
+Error = 0.182925036777
+Epoch Number : 2242
+Error = 0.182896514994
+Epoch Number : 2243
+Error = 0.182868040798
+Epoch Number : 2244
+Error = 0.182839614021
+Epoch Number : 2245
+Error = 0.182811234493
+Epoch Number : 2246
+Error = 0.182782902045
+Epoch Number : 2247
+Error = 0.182754616509
+Epoch Number : 2248
+Error = 0.182726377716
+Epoch Number : 2249
+Error = 0.182698185498
+Epoch Number : 2250
+Error = 0.182670039689
+Epoch Number : 2251
+Error = 0.18264194012
+Epoch Number : 2252
+Error = 0.182613886624
+Epoch Number : 2253
+Error = 0.182585879036
+Epoch Number : 2254
+Error = 0.182557917188
+Epoch Number : 2255
+Error = 0.182530000915
+Epoch Number : 2256
+Error = 0.182502130051
+Epoch Number : 2257
+Error = 0.182474304431
+Epoch Number : 2258
+Error = 0.182446523889
+Epoch Number : 2259
+Error = 0.182418788262
+Epoch Number : 2260
+Error = 0.182391097384
+Epoch Number : 2261
+Error = 0.182363451091
+Epoch Number : 2262
+Error = 0.18233584922
+Epoch Number : 2263
+Error = 0.182308291607
+Epoch Number : 2264
+Error = 0.182280778089
+Epoch Number : 2265
+Error = 0.182253308503
+Epoch Number : 2266
+Error = 0.182225882686
+Epoch Number : 2267
+Error = 0.182198500477
+Epoch Number : 2268
+Error = 0.182171161714
+Epoch Number : 2269
+Error = 0.182143866234
+Epoch Number : 2270
+Error = 0.182116613876
+Epoch Number : 2271
+Error = 0.18208940448
+Epoch Number : 2272
+Error = 0.182062237885
+Epoch Number : 2273
+Error = 0.18203511393
+Epoch Number : 2274
+Error = 0.182008032455
+Epoch Number : 2275
+Error = 0.181980993301
+Epoch Number : 2276
+Error = 0.181953996307
+Epoch Number : 2277
+Error = 0.181927041315
+Epoch Number : 2278
+Error = 0.181900128166
+Epoch Number : 2279
+Error = 0.1818732567
+Epoch Number : 2280
+Error = 0.181846426761
+Epoch Number : 2281
+Error = 0.181819638189
+Epoch Number : 2282
+Error = 0.181792890827
+Epoch Number : 2283
+Error = 0.181766184517
+Epoch Number : 2284
+Error = 0.181739519103
+Epoch Number : 2285
+Error = 0.181712894427
+Epoch Number : 2286
+Error = 0.181686310333
+Epoch Number : 2287
+Error = 0.181659766664
+Epoch Number : 2288
+Error = 0.181633263265
+Epoch Number : 2289
+Error = 0.18160679998
+Epoch Number : 2290
+Error = 0.181580376653
+Epoch Number : 2291
+Error = 0.181553993129
+Epoch Number : 2292
+Error = 0.181527649254
+Epoch Number : 2293
+Error = 0.181501344872
+Epoch Number : 2294
+Error = 0.181475079829
+Epoch Number : 2295
+Error = 0.181448853972
+Epoch Number : 2296
+Error = 0.181422667146
+Epoch Number : 2297
+Error = 0.181396519198
+Epoch Number : 2298
+Error = 0.181370409975
+Epoch Number : 2299
+Error = 0.181344339323
+Epoch Number : 2300
+Error = 0.181318307091
+Epoch Number : 2301
+Error = 0.181292313125
+Epoch Number : 2302
+Error = 0.181266357274
+Epoch Number : 2303
+Error = 0.181240439385
+Epoch Number : 2304
+Error = 0.181214559308
+Epoch Number : 2305
+Error = 0.18118871689
+Epoch Number : 2306
+Error = 0.181162911981
+Epoch Number : 2307
+Error = 0.181137144429
+Epoch Number : 2308
+Error = 0.181111414085
+Epoch Number : 2309
+Error = 0.181085720798
+Epoch Number : 2310
+Error = 0.181060064418
+Epoch Number : 2311
+Error = 0.181034444795
+Epoch Number : 2312
+Error = 0.181008861779
+Epoch Number : 2313
+Error = 0.180983315222
+Epoch Number : 2314
+Error = 0.180957804974
+Epoch Number : 2315
+Error = 0.180932330887
+Epoch Number : 2316
+Error = 0.180906892812
+Epoch Number : 2317
+Error = 0.1808814906
+Epoch Number : 2318
+Error = 0.180856124105
+Epoch Number : 2319
+Error = 0.180830793177
+Epoch Number : 2320
+Error = 0.18080549767
+Epoch Number : 2321
+Error = 0.180780237436
+Epoch Number : 2322
+Error = 0.180755012329
+Epoch Number : 2323
+Error = 0.180729822201
+Epoch Number : 2324
+Error = 0.180704666906
+Epoch Number : 2325
+Error = 0.180679546297
+Epoch Number : 2326
+Error = 0.180654460229
+Epoch Number : 2327
+Error = 0.180629408556
+Epoch Number : 2328
+Error = 0.180604391132
+Epoch Number : 2329
+Error = 0.180579407812
+Epoch Number : 2330
+Error = 0.18055445845
+Epoch Number : 2331
+Error = 0.180529542903
+Epoch Number : 2332
+Error = 0.180504661024
+Epoch Number : 2333
+Error = 0.180479812671
+Epoch Number : 2334
+Error = 0.180454997697
+Epoch Number : 2335
+Error = 0.180430215961
+Epoch Number : 2336
+Error = 0.180405467317
+Epoch Number : 2337
+Error = 0.180380751622
+Epoch Number : 2338
+Error = 0.180356068734
+Epoch Number : 2339
+Error = 0.180331418508
+Epoch Number : 2340
+Error = 0.180306800803
+Epoch Number : 2341
+Error = 0.180282215474
+Epoch Number : 2342
+Error = 0.180257662381
+Epoch Number : 2343
+Error = 0.180233141381
+Epoch Number : 2344
+Error = 0.180208652332
+Epoch Number : 2345
+Error = 0.180184195091
+Epoch Number : 2346
+Error = 0.180159769518
+Epoch Number : 2347
+Error = 0.180135375471
+Epoch Number : 2348
+Error = 0.18011101281
+Epoch Number : 2349
+Error = 0.180086681392
+Epoch Number : 2350
+Error = 0.180062381077
+Epoch Number : 2351
+Error = 0.180038111726
+Epoch Number : 2352
+Error = 0.180013873196
+Epoch Number : 2353
+Error = 0.179989665349
+Epoch Number : 2354
+Error = 0.179965488045
+Epoch Number : 2355
+Error = 0.179941341143
+Epoch Number : 2356
+Error = 0.179917224504
+Epoch Number : 2357
+Error = 0.179893137989
+Epoch Number : 2358
+Error = 0.179869081459
+Epoch Number : 2359
+Error = 0.179845054774
+Epoch Number : 2360
+Error = 0.179821057797
+Epoch Number : 2361
+Error = 0.179797090388
+Epoch Number : 2362
+Error = 0.179773152409
+Epoch Number : 2363
+Error = 0.179749243722
+Epoch Number : 2364
+Error = 0.179725364189
+Epoch Number : 2365
+Error = 0.179701513671
+Epoch Number : 2366
+Error = 0.179677692033
+Epoch Number : 2367
+Error = 0.179653899135
+Epoch Number : 2368
+Error = 0.179630134841
+Epoch Number : 2369
+Error = 0.179606399014
+Epoch Number : 2370
+Error = 0.179582691516
+Epoch Number : 2371
+Error = 0.179559012211
+Epoch Number : 2372
+Error = 0.179535360963
+Epoch Number : 2373
+Error = 0.179511737635
+Epoch Number : 2374
+Error = 0.17948814209
+Epoch Number : 2375
+Error = 0.179464574193
+Epoch Number : 2376
+Error = 0.179441033809
+Epoch Number : 2377
+Error = 0.1794175208
+Epoch Number : 2378
+Error = 0.179394035032
+Epoch Number : 2379
+Error = 0.179370576369
+Epoch Number : 2380
+Error = 0.179347144676
+Epoch Number : 2381
+Error = 0.179323739818
+Epoch Number : 2382
+Error = 0.179300361661
+Epoch Number : 2383
+Error = 0.179277010068
+Epoch Number : 2384
+Error = 0.179253684906
+Epoch Number : 2385
+Error = 0.179230386041
+Epoch Number : 2386
+Error = 0.179207113337
+Epoch Number : 2387
+Error = 0.179183866661
+Epoch Number : 2388
+Error = 0.17916064588
+Epoch Number : 2389
+Error = 0.179137450858
+Epoch Number : 2390
+Error = 0.179114281463
+Epoch Number : 2391
+Error = 0.17909113756
+Epoch Number : 2392
+Error = 0.179068019017
+Epoch Number : 2393
+Error = 0.1790449257
+Epoch Number : 2394
+Error = 0.179021857476
+Epoch Number : 2395
+Error = 0.178998814213
+Epoch Number : 2396
+Error = 0.178975795776
+Epoch Number : 2397
+Error = 0.178952802035
+Epoch Number : 2398
+Error = 0.178929832855
+Epoch Number : 2399
+Error = 0.178906888105
+Epoch Number : 2400
+Error = 0.178883967652
+Epoch Number : 2401
+Error = 0.178861071364
+Epoch Number : 2402
+Error = 0.178838199109
+Epoch Number : 2403
+Error = 0.178815350756
+Epoch Number : 2404
+Error = 0.178792526172
+Epoch Number : 2405
+Error = 0.178769725226
+Epoch Number : 2406
+Error = 0.178746947786
+Epoch Number : 2407
+Error = 0.17872419372
+Epoch Number : 2408
+Error = 0.178701462898
+Epoch Number : 2409
+Error = 0.178678755189
+Epoch Number : 2410
+Error = 0.178656070461
+Epoch Number : 2411
+Error = 0.178633408583
+Epoch Number : 2412
+Error = 0.178610769424
+Epoch Number : 2413
+Error = 0.178588152854
+Epoch Number : 2414
+Error = 0.178565558743
+Epoch Number : 2415
+Error = 0.178542986959
+Epoch Number : 2416
+Error = 0.178520437372
+Epoch Number : 2417
+Error = 0.178497909852
+Epoch Number : 2418
+Error = 0.178475404268
+Epoch Number : 2419
+Error = 0.178452920492
+Epoch Number : 2420
+Error = 0.178430458392
+Epoch Number : 2421
+Error = 0.178408017838
+Epoch Number : 2422
+Error = 0.178385598702
+Epoch Number : 2423
+Error = 0.178363200852
+Epoch Number : 2424
+Error = 0.178340824161
+Epoch Number : 2425
+Error = 0.178318468497
+Epoch Number : 2426
+Error = 0.178296133732
+Epoch Number : 2427
+Error = 0.178273819736
+Epoch Number : 2428
+Error = 0.178251526381
+Epoch Number : 2429
+Error = 0.178229253536
+Epoch Number : 2430
+Error = 0.178207001073
+Epoch Number : 2431
+Error = 0.178184768863
+Epoch Number : 2432
+Error = 0.178162556777
+Epoch Number : 2433
+Error = 0.178140364685
+Epoch Number : 2434
+Error = 0.17811819246
+Epoch Number : 2435
+Error = 0.178096039973
+Epoch Number : 2436
+Error = 0.178073907094
+Epoch Number : 2437
+Error = 0.178051793696
+Epoch Number : 2438
+Error = 0.17802969965
+Epoch Number : 2439
+Error = 0.178007624827
+Epoch Number : 2440
+Error = 0.1779855691
+Epoch Number : 2441
+Error = 0.177963532339
+Epoch Number : 2442
+Error = 0.177941514417
+Epoch Number : 2443
+Error = 0.177919515206
+Epoch Number : 2444
+Error = 0.177897534577
+Epoch Number : 2445
+Error = 0.177875572402
+Epoch Number : 2446
+Error = 0.177853628554
+Epoch Number : 2447
+Error = 0.177831702904
+Epoch Number : 2448
+Error = 0.177809795325
+Epoch Number : 2449
+Error = 0.177787905689
+Epoch Number : 2450
+Error = 0.177766033868
+Epoch Number : 2451
+Error = 0.177744179734
+Epoch Number : 2452
+Error = 0.17772234316
+Epoch Number : 2453
+Error = 0.177700524018
+Epoch Number : 2454
+Error = 0.17767872218
+Epoch Number : 2455
+Error = 0.177656937519
+Epoch Number : 2456
+Error = 0.177635169908
+Epoch Number : 2457
+Error = 0.177613419219
+Epoch Number : 2458
+Error = 0.177591685324
+Epoch Number : 2459
+Error = 0.177569968096
+Epoch Number : 2460
+Error = 0.177548267408
+Epoch Number : 2461
+Error = 0.177526583132
+Epoch Number : 2462
+Error = 0.177504915142
+Epoch Number : 2463
+Error = 0.177483263309
+Epoch Number : 2464
+Error = 0.177461627507
+Epoch Number : 2465
+Error = 0.177440007609
+Epoch Number : 2466
+Error = 0.177418403486
+Epoch Number : 2467
+Error = 0.177396815012
+Epoch Number : 2468
+Error = 0.177375242061
+Epoch Number : 2469
+Error = 0.177353684504
+Epoch Number : 2470
+Error = 0.177332142214
+Epoch Number : 2471
+Error = 0.177310615065
+Epoch Number : 2472
+Error = 0.177289102929
+Epoch Number : 2473
+Error = 0.177267605679
+Epoch Number : 2474
+Error = 0.177246123189
+Epoch Number : 2475
+Error = 0.17722465533
+Epoch Number : 2476
+Error = 0.177203201976
+Epoch Number : 2477
+Error = 0.177181763
+Epoch Number : 2478
+Error = 0.177160338275
+Epoch Number : 2479
+Error = 0.177138927674
+Epoch Number : 2480
+Error = 0.177117531069
+Epoch Number : 2481
+Error = 0.177096148334
+Epoch Number : 2482
+Error = 0.177074779341
+Epoch Number : 2483
+Error = 0.177053423963
+Epoch Number : 2484
+Error = 0.177032082074
+Epoch Number : 2485
+Error = 0.177010753545
+Epoch Number : 2486
+Error = 0.176989438251
+Epoch Number : 2487
+Error = 0.176968136063
+Epoch Number : 2488
+Error = 0.176946846855
+Epoch Number : 2489
+Error = 0.176925570499
+Epoch Number : 2490
+Error = 0.176904306868
+Epoch Number : 2491
+Error = 0.176883055835
+Epoch Number : 2492
+Error = 0.176861817273
+Epoch Number : 2493
+Error = 0.176840591054
+Epoch Number : 2494
+Error = 0.176819377051
+Epoch Number : 2495
+Error = 0.176798175136
+Epoch Number : 2496
+Error = 0.176776985183
+Epoch Number : 2497
+Error = 0.176755807064
+Epoch Number : 2498
+Error = 0.176734640651
+Epoch Number : 2499
+Error = 0.176713485816
+Epoch Number : 2500
+Error = 0.176692342433
+Epoch Number : 2501
+Error = 0.176671210374
+Epoch Number : 2502
+Error = 0.176650089511
+Epoch Number : 2503
+Error = 0.176628979716
+Epoch Number : 2504
+Error = 0.176607880862
+Epoch Number : 2505
+Error = 0.176586792821
+Epoch Number : 2506
+Error = 0.176565715465
+Epoch Number : 2507
+Error = 0.176544648665
+Epoch Number : 2508
+Error = 0.176523592296
+Epoch Number : 2509
+Error = 0.176502546227
+Epoch Number : 2510
+Error = 0.176481510331
+Epoch Number : 2511
+Error = 0.176460484481
+Epoch Number : 2512
+Error = 0.176439468547
+Epoch Number : 2513
+Error = 0.176418462402
+Epoch Number : 2514
+Error = 0.176397465917
+Epoch Number : 2515
+Error = 0.176376478964
+Epoch Number : 2516
+Error = 0.176355501414
+Epoch Number : 2517
+Error = 0.17633453314
+Epoch Number : 2518
+Error = 0.176313574011
+Epoch Number : 2519
+Error = 0.1762926239
+Epoch Number : 2520
+Error = 0.176271682678
+Epoch Number : 2521
+Error = 0.176250750215
+Epoch Number : 2522
+Error = 0.176229826384
+Epoch Number : 2523
+Error = 0.176208911054
+Epoch Number : 2524
+Error = 0.176188004097
+Epoch Number : 2525
+Error = 0.176167105384
+Epoch Number : 2526
+Error = 0.176146214785
+Epoch Number : 2527
+Error = 0.176125332171
+Epoch Number : 2528
+Error = 0.176104457412
+Epoch Number : 2529
+Error = 0.176083590379
+Epoch Number : 2530
+Error = 0.176062730942
+Epoch Number : 2531
+Error = 0.176041878971
+Epoch Number : 2532
+Error = 0.176021034337
+Epoch Number : 2533
+Error = 0.176000196909
+Epoch Number : 2534
+Error = 0.175979366557
+Epoch Number : 2535
+Error = 0.175958543152
+Epoch Number : 2536
+Error = 0.175937726561
+Epoch Number : 2537
+Error = 0.175916916657
+Epoch Number : 2538
+Error = 0.175896113306
+Epoch Number : 2539
+Error = 0.17587531638
+Epoch Number : 2540
+Error = 0.175854525746
+Epoch Number : 2541
+Error = 0.175833741275
+Epoch Number : 2542
+Error = 0.175812962835
+Epoch Number : 2543
+Error = 0.175792190294
+Epoch Number : 2544
+Error = 0.175771423522
+Epoch Number : 2545
+Error = 0.175750662387
+Epoch Number : 2546
+Error = 0.175729906757
+Epoch Number : 2547
+Error = 0.175709156501
+Epoch Number : 2548
+Error = 0.175688411487
+Epoch Number : 2549
+Error = 0.175667671582
+Epoch Number : 2550
+Error = 0.175646936655
+Epoch Number : 2551
+Error = 0.175626206573
+Epoch Number : 2552
+Error = 0.175605481204
+Epoch Number : 2553
+Error = 0.175584760415
+Epoch Number : 2554
+Error = 0.175564044073
+Epoch Number : 2555
+Error = 0.175543332046
+Epoch Number : 2556
+Error = 0.1755226242
+Epoch Number : 2557
+Error = 0.175501920402
+Epoch Number : 2558
+Error = 0.175481220519
+Epoch Number : 2559
+Error = 0.175460524417
+Epoch Number : 2560
+Error = 0.175439831962
+Epoch Number : 2561
+Error = 0.17541914302
+Epoch Number : 2562
+Error = 0.175398457458
+Epoch Number : 2563
+Error = 0.175377775141
+Epoch Number : 2564
+Error = 0.175357095934
+Epoch Number : 2565
+Error = 0.175336419703
+Epoch Number : 2566
+Error = 0.175315746314
+Epoch Number : 2567
+Error = 0.175295075631
+Epoch Number : 2568
+Error = 0.175274407518
+Epoch Number : 2569
+Error = 0.175253741842
+Epoch Number : 2570
+Error = 0.175233078465
+Epoch Number : 2571
+Error = 0.175212417253
+Epoch Number : 2572
+Error = 0.175191758069
+Epoch Number : 2573
+Error = 0.175171100778
+Epoch Number : 2574
+Error = 0.175150445242
+Epoch Number : 2575
+Error = 0.175129791326
+Epoch Number : 2576
+Error = 0.175109138893
+Epoch Number : 2577
+Error = 0.175088487805
+Epoch Number : 2578
+Error = 0.175067837925
+Epoch Number : 2579
+Error = 0.175047189117
+Epoch Number : 2580
+Error = 0.175026541242
+Epoch Number : 2581
+Error = 0.175005894163
+Epoch Number : 2582
+Error = 0.174985247742
+Epoch Number : 2583
+Error = 0.17496460184
+Epoch Number : 2584
+Error = 0.174943956319
+Epoch Number : 2585
+Error = 0.17492331104
+Epoch Number : 2586
+Error = 0.174902665865
+Epoch Number : 2587
+Error = 0.174882020654
+Epoch Number : 2588
+Error = 0.174861375267
+Epoch Number : 2589
+Error = 0.174840729565
+Epoch Number : 2590
+Error = 0.174820083409
+Epoch Number : 2591
+Error = 0.174799436657
+Epoch Number : 2592
+Error = 0.17477878917
+Epoch Number : 2593
+Error = 0.174758140807
+Epoch Number : 2594
+Error = 0.174737491428
+Epoch Number : 2595
+Error = 0.17471684089
+Epoch Number : 2596
+Error = 0.174696189052
+Epoch Number : 2597
+Error = 0.174675535774
+Epoch Number : 2598
+Error = 0.174654880913
+Epoch Number : 2599
+Error = 0.174634224326
+Epoch Number : 2600
+Error = 0.174613565872
+Epoch Number : 2601
+Error = 0.174592905408
+Epoch Number : 2602
+Error = 0.17457224279
+Epoch Number : 2603
+Error = 0.174551577876
+Epoch Number : 2604
+Error = 0.174530910522
+Epoch Number : 2605
+Error = 0.174510240583
+Epoch Number : 2606
+Error = 0.174489567917
+Epoch Number : 2607
+Error = 0.174468892378
+Epoch Number : 2608
+Error = 0.174448213822
+Epoch Number : 2609
+Error = 0.174427532104
+Epoch Number : 2610
+Error = 0.174406847079
+Epoch Number : 2611
+Error = 0.174386158601
+Epoch Number : 2612
+Error = 0.174365466524
+Epoch Number : 2613
+Error = 0.174344770701
+Epoch Number : 2614
+Error = 0.174324070988
+Epoch Number : 2615
+Error = 0.174303367236
+Epoch Number : 2616
+Error = 0.174282659299
+Epoch Number : 2617
+Error = 0.174261947029
+Epoch Number : 2618
+Error = 0.174241230279
+Epoch Number : 2619
+Error = 0.1742205089
+Epoch Number : 2620
+Error = 0.174199782745
+Epoch Number : 2621
+Error = 0.174179051663
+Epoch Number : 2622
+Error = 0.174158315508
+Epoch Number : 2623
+Error = 0.174137574128
+Epoch Number : 2624
+Error = 0.174116827374
+Epoch Number : 2625
+Error = 0.174096075097
+Epoch Number : 2626
+Error = 0.174075317146
+Epoch Number : 2627
+Error = 0.17405455337
+Epoch Number : 2628
+Error = 0.174033783618
+Epoch Number : 2629
+Error = 0.174013007739
+Epoch Number : 2630
+Error = 0.17399222558
+Epoch Number : 2631
+Error = 0.173971436991
+Epoch Number : 2632
+Error = 0.173950641818
+Epoch Number : 2633
+Error = 0.173929839908
+Epoch Number : 2634
+Error = 0.173909031109
+Epoch Number : 2635
+Error = 0.173888215266
+Epoch Number : 2636
+Error = 0.173867392227
+Epoch Number : 2637
+Error = 0.173846561835
+Epoch Number : 2638
+Error = 0.173825723938
+Epoch Number : 2639
+Error = 0.173804878379
+Epoch Number : 2640
+Error = 0.173784025003
+Epoch Number : 2641
+Error = 0.173763163654
+Epoch Number : 2642
+Error = 0.173742294177
+Epoch Number : 2643
+Error = 0.173721416414
+Epoch Number : 2644
+Error = 0.173700530209
+Epoch Number : 2645
+Error = 0.173679635403
+Epoch Number : 2646
+Error = 0.173658731839
+Epoch Number : 2647
+Error = 0.17363781936
+Epoch Number : 2648
+Error = 0.173616897805
+Epoch Number : 2649
+Error = 0.173595967017
+Epoch Number : 2650
+Error = 0.173575026836
+Epoch Number : 2651
+Error = 0.173554077101
+Epoch Number : 2652
+Error = 0.173533117652
+Epoch Number : 2653
+Error = 0.173512148329
+Epoch Number : 2654
+Error = 0.173491168971
+Epoch Number : 2655
+Error = 0.173470179416
+Epoch Number : 2656
+Error = 0.173449179501
+Epoch Number : 2657
+Error = 0.173428169065
+Epoch Number : 2658
+Error = 0.173407147944
+Epoch Number : 2659
+Error = 0.173386115975
+Epoch Number : 2660
+Error = 0.173365072994
+Epoch Number : 2661
+Error = 0.173344018836
+Epoch Number : 2662
+Error = 0.173322953338
+Epoch Number : 2663
+Error = 0.173301876334
+Epoch Number : 2664
+Error = 0.173280787658
+Epoch Number : 2665
+Error = 0.173259687144
+Epoch Number : 2666
+Error = 0.173238574626
+Epoch Number : 2667
+Error = 0.173217449936
+Epoch Number : 2668
+Error = 0.173196312907
+Epoch Number : 2669
+Error = 0.17317516337
+Epoch Number : 2670
+Error = 0.173154001158
+Epoch Number : 2671
+Error = 0.1731328261
+Epoch Number : 2672
+Error = 0.173111638029
+Epoch Number : 2673
+Error = 0.173090436773
+Epoch Number : 2674
+Error = 0.173069222162
+Epoch Number : 2675
+Error = 0.173047994025
+Epoch Number : 2676
+Error = 0.173026752191
+Epoch Number : 2677
+Error = 0.173005496488
+Epoch Number : 2678
+Error = 0.172984226742
+Epoch Number : 2679
+Error = 0.172962942781
+Epoch Number : 2680
+Error = 0.172941644432
+Epoch Number : 2681
+Error = 0.172920331519
+Epoch Number : 2682
+Error = 0.17289900387
+Epoch Number : 2683
+Error = 0.172877661307
+Epoch Number : 2684
+Error = 0.172856303656
+Epoch Number : 2685
+Error = 0.172834930741
+Epoch Number : 2686
+Error = 0.172813542384
+Epoch Number : 2687
+Error = 0.172792138408
+Epoch Number : 2688
+Error = 0.172770718635
+Epoch Number : 2689
+Error = 0.172749282887
+Epoch Number : 2690
+Error = 0.172727830985
+Epoch Number : 2691
+Error = 0.172706362749
+Epoch Number : 2692
+Error = 0.172684877999
+Epoch Number : 2693
+Error = 0.172663376554
+Epoch Number : 2694
+Error = 0.172641858233
+Epoch Number : 2695
+Error = 0.172620322854
+Epoch Number : 2696
+Error = 0.172598770234
+Epoch Number : 2697
+Error = 0.172577200191
+Epoch Number : 2698
+Error = 0.172555612541
+Epoch Number : 2699
+Error = 0.172534007099
+Epoch Number : 2700
+Error = 0.17251238368
+Epoch Number : 2701
+Error = 0.1724907421
+Epoch Number : 2702
+Error = 0.172469082171
+Epoch Number : 2703
+Error = 0.172447403708
+Epoch Number : 2704
+Error = 0.172425706523
+Epoch Number : 2705
+Error = 0.172403990427
+Epoch Number : 2706
+Error = 0.172382255233
+Epoch Number : 2707
+Error = 0.172360500752
+Epoch Number : 2708
+Error = 0.172338726792
+Epoch Number : 2709
+Error = 0.172316933165
+Epoch Number : 2710
+Error = 0.172295119678
+Epoch Number : 2711
+Error = 0.17227328614
+Epoch Number : 2712
+Error = 0.172251432359
+Epoch Number : 2713
+Error = 0.172229558141
+Epoch Number : 2714
+Error = 0.172207663293
+Epoch Number : 2715
+Error = 0.17218574762
+Epoch Number : 2716
+Error = 0.172163810928
+Epoch Number : 2717
+Error = 0.172141853019
+Epoch Number : 2718
+Error = 0.172119873699
+Epoch Number : 2719
+Error = 0.172097872769
+Epoch Number : 2720
+Error = 0.172075850033
+Epoch Number : 2721
+Error = 0.172053805291
+Epoch Number : 2722
+Error = 0.172031738344
+Epoch Number : 2723
+Error = 0.172009648993
+Epoch Number : 2724
+Error = 0.171987537036
+Epoch Number : 2725
+Error = 0.171965402273
+Epoch Number : 2726
+Error = 0.171943244501
+Epoch Number : 2727
+Error = 0.171921063517
+Epoch Number : 2728
+Error = 0.171898859119
+Epoch Number : 2729
+Error = 0.171876631102
+Epoch Number : 2730
+Error = 0.17185437926
+Epoch Number : 2731
+Error = 0.171832103389
+Epoch Number : 2732
+Error = 0.171809803281
+Epoch Number : 2733
+Error = 0.17178747873
+Epoch Number : 2734
+Error = 0.171765129527
+Epoch Number : 2735
+Error = 0.171742755465
+Epoch Number : 2736
+Error = 0.171720356332
+Epoch Number : 2737
+Error = 0.17169793192
+Epoch Number : 2738
+Error = 0.171675482017
+Epoch Number : 2739
+Error = 0.171653006411
+Epoch Number : 2740
+Error = 0.17163050489
+Epoch Number : 2741
+Error = 0.17160797724
+Epoch Number : 2742
+Error = 0.171585423247
+Epoch Number : 2743
+Error = 0.171562842696
+Epoch Number : 2744
+Error = 0.171540235372
+Epoch Number : 2745
+Error = 0.171517601058
+Epoch Number : 2746
+Error = 0.171494939536
+Epoch Number : 2747
+Error = 0.171472250588
+Epoch Number : 2748
+Error = 0.171449533995
+Epoch Number : 2749
+Error = 0.171426789538
+Epoch Number : 2750
+Error = 0.171404016995
+Epoch Number : 2751
+Error = 0.171381216145
+Epoch Number : 2752
+Error = 0.171358386766
+Epoch Number : 2753
+Error = 0.171335528634
+Epoch Number : 2754
+Error = 0.171312641525
+Epoch Number : 2755
+Error = 0.171289725215
+Epoch Number : 2756
+Error = 0.171266779477
+Epoch Number : 2757
+Error = 0.171243804085
+Epoch Number : 2758
+Error = 0.171220798811
+Epoch Number : 2759
+Error = 0.171197763427
+Epoch Number : 2760
+Error = 0.171174697703
+Epoch Number : 2761
+Error = 0.171151601409
+Epoch Number : 2762
+Error = 0.171128474314
+Epoch Number : 2763
+Error = 0.171105316187
+Epoch Number : 2764
+Error = 0.171082126793
+Epoch Number : 2765
+Error = 0.171058905899
+Epoch Number : 2766
+Error = 0.17103565327
+Epoch Number : 2767
+Error = 0.171012368671
+Epoch Number : 2768
+Error = 0.170989051865
+Epoch Number : 2769
+Error = 0.170965702614
+Epoch Number : 2770
+Error = 0.170942320679
+Epoch Number : 2771
+Error = 0.170918905822
+Epoch Number : 2772
+Error = 0.170895457802
+Epoch Number : 2773
+Error = 0.170871976377
+Epoch Number : 2774
+Error = 0.170848461305
+Epoch Number : 2775
+Error = 0.170824912343
+Epoch Number : 2776
+Error = 0.170801329246
+Epoch Number : 2777
+Error = 0.170777711769
+Epoch Number : 2778
+Error = 0.170754059666
+Epoch Number : 2779
+Error = 0.170730372689
+Epoch Number : 2780
+Error = 0.17070665059
+Epoch Number : 2781
+Error = 0.17068289312
+Epoch Number : 2782
+Error = 0.170659100028
+Epoch Number : 2783
+Error = 0.170635271064
+Epoch Number : 2784
+Error = 0.170611405974
+Epoch Number : 2785
+Error = 0.170587504506
+Epoch Number : 2786
+Error = 0.170563566404
+Epoch Number : 2787
+Error = 0.170539591414
+Epoch Number : 2788
+Error = 0.170515579279
+Epoch Number : 2789
+Error = 0.17049152974
+Epoch Number : 2790
+Error = 0.170467442541
+Epoch Number : 2791
+Error = 0.17044331742
+Epoch Number : 2792
+Error = 0.170419154118
+Epoch Number : 2793
+Error = 0.170394952371
+Epoch Number : 2794
+Error = 0.170370711918
+Epoch Number : 2795
+Error = 0.170346432494
+Epoch Number : 2796
+Error = 0.170322113834
+Epoch Number : 2797
+Error = 0.170297755671
+Epoch Number : 2798
+Error = 0.170273357739
+Epoch Number : 2799
+Error = 0.170248919769
+Epoch Number : 2800
+Error = 0.170224441491
+Epoch Number : 2801
+Error = 0.170199922634
+Epoch Number : 2802
+Error = 0.170175362926
+Epoch Number : 2803
+Error = 0.170150762095
+Epoch Number : 2804
+Error = 0.170126119867
+Epoch Number : 2805
+Error = 0.170101435965
+Epoch Number : 2806
+Error = 0.170076710113
+Epoch Number : 2807
+Error = 0.170051942034
+Epoch Number : 2808
+Error = 0.170027131449
+Epoch Number : 2809
+Error = 0.170002278077
+Epoch Number : 2810
+Error = 0.169977381638
+Epoch Number : 2811
+Error = 0.169952441849
+Epoch Number : 2812
+Error = 0.169927458426
+Epoch Number : 2813
+Error = 0.169902431084
+Epoch Number : 2814
+Error = 0.169877359538
+Epoch Number : 2815
+Error = 0.1698522435
+Epoch Number : 2816
+Error = 0.169827082681
+Epoch Number : 2817
+Error = 0.169801876792
+Epoch Number : 2818
+Error = 0.169776625541
+Epoch Number : 2819
+Error = 0.169751328637
+Epoch Number : 2820
+Error = 0.169725985785
+Epoch Number : 2821
+Error = 0.169700596691
+Epoch Number : 2822
+Error = 0.16967516106
+Epoch Number : 2823
+Error = 0.169649678592
+Epoch Number : 2824
+Error = 0.169624148991
+Epoch Number : 2825
+Error = 0.169598571955
+Epoch Number : 2826
+Error = 0.169572947183
+Epoch Number : 2827
+Error = 0.169547274374
+Epoch Number : 2828
+Error = 0.169521553223
+Epoch Number : 2829
+Error = 0.169495783425
+Epoch Number : 2830
+Error = 0.169469964673
+Epoch Number : 2831
+Error = 0.169444096659
+Epoch Number : 2832
+Error = 0.169418179074
+Epoch Number : 2833
+Error = 0.169392211608
+Epoch Number : 2834
+Error = 0.169366193949
+Epoch Number : 2835
+Error = 0.169340125783
+Epoch Number : 2836
+Error = 0.169314006796
+Epoch Number : 2837
+Error = 0.169287836671
+Epoch Number : 2838
+Error = 0.169261615091
+Epoch Number : 2839
+Error = 0.169235341738
+Epoch Number : 2840
+Error = 0.16920901629
+Epoch Number : 2841
+Error = 0.169182638427
+Epoch Number : 2842
+Error = 0.169156207825
+Epoch Number : 2843
+Error = 0.169129724159
+Epoch Number : 2844
+Error = 0.169103187104
+Epoch Number : 2845
+Error = 0.169076596332
+Epoch Number : 2846
+Error = 0.169049951515
+Epoch Number : 2847
+Error = 0.169023252322
+Epoch Number : 2848
+Error = 0.16899649842
+Epoch Number : 2849
+Error = 0.168969689478
+Epoch Number : 2850
+Error = 0.168942825161
+Epoch Number : 2851
+Error = 0.168915905131
+Epoch Number : 2852
+Error = 0.168888929051
+Epoch Number : 2853
+Error = 0.168861896583
+Epoch Number : 2854
+Error = 0.168834807385
+Epoch Number : 2855
+Error = 0.168807661114
+Epoch Number : 2856
+Error = 0.168780457429
+Epoch Number : 2857
+Error = 0.168753195982
+Epoch Number : 2858
+Error = 0.168725876427
+Epoch Number : 2859
+Error = 0.168698498415
+Epoch Number : 2860
+Error = 0.168671061598
+Epoch Number : 2861
+Error = 0.168643565622
+Epoch Number : 2862
+Error = 0.168616010135
+Epoch Number : 2863
+Error = 0.168588394783
+Epoch Number : 2864
+Error = 0.168560719208
+Epoch Number : 2865
+Error = 0.168532983053
+Epoch Number : 2866
+Error = 0.168505185959
+Epoch Number : 2867
+Error = 0.168477327564
+Epoch Number : 2868
+Error = 0.168449407506
+Epoch Number : 2869
+Error = 0.16842142542
+Epoch Number : 2870
+Error = 0.16839338094
+Epoch Number : 2871
+Error = 0.168365273699
+Epoch Number : 2872
+Error = 0.168337103326
+Epoch Number : 2873
+Error = 0.168308869452
+Epoch Number : 2874
+Error = 0.168280571703
+Epoch Number : 2875
+Error = 0.168252209706
+Epoch Number : 2876
+Error = 0.168223783083
+Epoch Number : 2877
+Error = 0.168195291457
+Epoch Number : 2878
+Error = 0.16816673445
+Epoch Number : 2879
+Error = 0.168138111679
+Epoch Number : 2880
+Error = 0.168109422762
+Epoch Number : 2881
+Error = 0.168080667314
+Epoch Number : 2882
+Error = 0.168051844948
+Epoch Number : 2883
+Error = 0.168022955277
+Epoch Number : 2884
+Error = 0.167993997911
+Epoch Number : 2885
+Error = 0.167964972458
+Epoch Number : 2886
+Error = 0.167935878525
+Epoch Number : 2887
+Error = 0.167906715716
+Epoch Number : 2888
+Error = 0.167877483635
+Epoch Number : 2889
+Error = 0.167848181882
+Epoch Number : 2890
+Error = 0.167818810058
+Epoch Number : 2891
+Error = 0.167789367759
+Epoch Number : 2892
+Error = 0.167759854581
+Epoch Number : 2893
+Error = 0.167730270119
+Epoch Number : 2894
+Error = 0.167700613964
+Epoch Number : 2895
+Error = 0.167670885707
+Epoch Number : 2896
+Error = 0.167641084936
+Epoch Number : 2897
+Error = 0.167611211237
+Epoch Number : 2898
+Error = 0.167581264195
+Epoch Number : 2899
+Error = 0.167551243394
+Epoch Number : 2900
+Error = 0.167521148412
+Epoch Number : 2901
+Error = 0.167490978831
+Epoch Number : 2902
+Error = 0.167460734226
+Epoch Number : 2903
+Error = 0.167430414173
+Epoch Number : 2904
+Error = 0.167400018244
+Epoch Number : 2905
+Error = 0.167369546012
+Epoch Number : 2906
+Error = 0.167338997045
+Epoch Number : 2907
+Error = 0.167308370911
+Epoch Number : 2908
+Error = 0.167277667175
+Epoch Number : 2909
+Error = 0.167246885401
+Epoch Number : 2910
+Error = 0.167216025149
+Epoch Number : 2911
+Error = 0.16718508598
+Epoch Number : 2912
+Error = 0.16715406745
+Epoch Number : 2913
+Error = 0.167122969115
+Epoch Number : 2914
+Error = 0.167091790529
+Epoch Number : 2915
+Error = 0.167060531243
+Epoch Number : 2916
+Error = 0.167029190805
+Epoch Number : 2917
+Error = 0.166997768765
+Epoch Number : 2918
+Error = 0.166966264666
+Epoch Number : 2919
+Error = 0.166934678051
+Epoch Number : 2920
+Error = 0.166903008463
+Epoch Number : 2921
+Error = 0.166871255439
+Epoch Number : 2922
+Error = 0.166839418517
+Epoch Number : 2923
+Error = 0.166807497232
+Epoch Number : 2924
+Error = 0.166775491117
+Epoch Number : 2925
+Error = 0.166743399701
+Epoch Number : 2926
+Error = 0.166711222514
+Epoch Number : 2927
+Error = 0.166678959081
+Epoch Number : 2928
+Error = 0.166646608928
+Epoch Number : 2929
+Error = 0.166614171575
+Epoch Number : 2930
+Error = 0.166581646544
+Epoch Number : 2931
+Error = 0.166549033351
+Epoch Number : 2932
+Error = 0.166516331512
+Epoch Number : 2933
+Error = 0.166483540541
+Epoch Number : 2934
+Error = 0.166450659948
+Epoch Number : 2935
+Error = 0.166417689244
+Epoch Number : 2936
+Error = 0.166384627933
+Epoch Number : 2937
+Error = 0.166351475522
+Epoch Number : 2938
+Error = 0.166318231512
+Epoch Number : 2939
+Error = 0.166284895403
+Epoch Number : 2940
+Error = 0.166251466693
+Epoch Number : 2941
+Error = 0.166217944878
+Epoch Number : 2942
+Error = 0.16618432945
+Epoch Number : 2943
+Error = 0.166150619902
+Epoch Number : 2944
+Error = 0.166116815721
+Epoch Number : 2945
+Error = 0.166082916395
+Epoch Number : 2946
+Error = 0.166048921407
+Epoch Number : 2947
+Error = 0.166014830238
+Epoch Number : 2948
+Error = 0.165980642369
+Epoch Number : 2949
+Error = 0.165946357277
+Epoch Number : 2950
+Error = 0.165911974437
+Epoch Number : 2951
+Error = 0.165877493321
+Epoch Number : 2952
+Error = 0.165842913398
+Epoch Number : 2953
+Error = 0.165808234138
+Epoch Number : 2954
+Error = 0.165773455005
+Epoch Number : 2955
+Error = 0.165738575463
+Epoch Number : 2956
+Error = 0.165703594971
+Epoch Number : 2957
+Error = 0.165668512989
+Epoch Number : 2958
+Error = 0.165633328972
+Epoch Number : 2959
+Error = 0.165598042374
+Epoch Number : 2960
+Error = 0.165562652645
+Epoch Number : 2961
+Error = 0.165527159235
+Epoch Number : 2962
+Error = 0.165491561588
+Epoch Number : 2963
+Error = 0.16545585915
+Epoch Number : 2964
+Error = 0.165420051361
+Epoch Number : 2965
+Error = 0.16538413766
+Epoch Number : 2966
+Error = 0.165348117484
+Epoch Number : 2967
+Error = 0.165311990265
+Epoch Number : 2968
+Error = 0.165275755436
+Epoch Number : 2969
+Error = 0.165239412426
+Epoch Number : 2970
+Error = 0.165202960659
+Epoch Number : 2971
+Error = 0.165166399562
+Epoch Number : 2972
+Error = 0.165129728554
+Epoch Number : 2973
+Error = 0.165092947055
+Epoch Number : 2974
+Error = 0.165056054481
+Epoch Number : 2975
+Error = 0.165019050245
+Epoch Number : 2976
+Error = 0.164981933758
+Epoch Number : 2977
+Error = 0.16494470443
+Epoch Number : 2978
+Error = 0.164907361666
+Epoch Number : 2979
+Error = 0.16486990487
+Epoch Number : 2980
+Error = 0.164832333442
+Epoch Number : 2981
+Error = 0.164794646781
+Epoch Number : 2982
+Error = 0.164756844282
+Epoch Number : 2983
+Error = 0.164718925338
+Epoch Number : 2984
+Error = 0.164680889341
+Epoch Number : 2985
+Error = 0.164642735677
+Epoch Number : 2986
+Error = 0.164604463731
+Epoch Number : 2987
+Error = 0.164566072888
+Epoch Number : 2988
+Error = 0.164527562525
+Epoch Number : 2989
+Error = 0.164488932021
+Epoch Number : 2990
+Error = 0.16445018075
+Epoch Number : 2991
+Error = 0.164411308084
+Epoch Number : 2992
+Error = 0.164372313392
+Epoch Number : 2993
+Error = 0.164333196041
+Epoch Number : 2994
+Error = 0.164293955395
+Epoch Number : 2995
+Error = 0.164254590814
+Epoch Number : 2996
+Error = 0.164215101658
+Epoch Number : 2997
+Error = 0.164175487282
+Epoch Number : 2998
+Error = 0.164135747039
+Epoch Number : 2999
+Error = 0.16409588028
+Epoch Number : 3000
+Error = 0.164055886351
+Epoch Number : 3001
+Error = 0.164015764599
+Epoch Number : 3002
+Error = 0.163975514364
+Epoch Number : 3003
+Error = 0.163935134987
+Epoch Number : 3004
+Error = 0.163894625805
+Epoch Number : 3005
+Error = 0.16385398615
+Epoch Number : 3006
+Error = 0.163813215354
+Epoch Number : 3007
+Error = 0.163772312745
+Epoch Number : 3008
+Error = 0.163731277649
+Epoch Number : 3009
+Error = 0.163690109389
+Epoch Number : 3010
+Error = 0.163648807284
+Epoch Number : 3011
+Error = 0.163607370652
+Epoch Number : 3012
+Error = 0.163565798808
+Epoch Number : 3013
+Error = 0.163524091062
+Epoch Number : 3014
+Error = 0.163482246723
+Epoch Number : 3015
+Error = 0.163440265098
+Epoch Number : 3016
+Error = 0.163398145489
+Epoch Number : 3017
+Error = 0.163355887197
+Epoch Number : 3018
+Error = 0.163313489519
+Epoch Number : 3019
+Error = 0.16327095175
+Epoch Number : 3020
+Error = 0.163228273181
+Epoch Number : 3021
+Error = 0.163185453102
+Epoch Number : 3022
+Error = 0.163142490798
+Epoch Number : 3023
+Error = 0.163099385553
+Epoch Number : 3024
+Error = 0.163056136647
+Epoch Number : 3025
+Error = 0.163012743358
+Epoch Number : 3026
+Error = 0.162969204959
+Epoch Number : 3027
+Error = 0.162925520723
+Epoch Number : 3028
+Error = 0.162881689919
+Epoch Number : 3029
+Error = 0.162837711813
+Epoch Number : 3030
+Error = 0.162793585667
+Epoch Number : 3031
+Error = 0.162749310741
+Epoch Number : 3032
+Error = 0.162704886294
+Epoch Number : 3033
+Error = 0.16266031158
+Epoch Number : 3034
+Error = 0.162615585849
+Epoch Number : 3035
+Error = 0.162570708351
+Epoch Number : 3036
+Error = 0.16252567833
+Epoch Number : 3037
+Error = 0.162480495031
+Epoch Number : 3038
+Error = 0.162435157693
+Epoch Number : 3039
+Error = 0.162389665552
+Epoch Number : 3040
+Error = 0.162344017843
+Epoch Number : 3041
+Error = 0.162298213797
+Epoch Number : 3042
+Error = 0.162252252641
+Epoch Number : 3043
+Error = 0.162206133602
+Epoch Number : 3044
+Error = 0.162159855901
+Epoch Number : 3045
+Error = 0.162113418758
+Epoch Number : 3046
+Error = 0.162066821389
+Epoch Number : 3047
+Error = 0.162020063008
+Epoch Number : 3048
+Error = 0.161973142826
+Epoch Number : 3049
+Error = 0.161926060049
+Epoch Number : 3050
+Error = 0.161878813883
+Epoch Number : 3051
+Error = 0.16183140353
+Epoch Number : 3052
+Error = 0.161783828188
+Epoch Number : 3053
+Error = 0.161736087052
+Epoch Number : 3054
+Error = 0.161688179318
+Epoch Number : 3055
+Error = 0.161640104173
+Epoch Number : 3056
+Error = 0.161591860805
+Epoch Number : 3057
+Error = 0.161543448399
+Epoch Number : 3058
+Error = 0.161494866135
+Epoch Number : 3059
+Error = 0.161446113192
+Epoch Number : 3060
+Error = 0.161397188745
+Epoch Number : 3061
+Error = 0.161348091966
+Epoch Number : 3062
+Error = 0.161298822025
+Epoch Number : 3063
+Error = 0.161249378089
+Epoch Number : 3064
+Error = 0.16119975932
+Epoch Number : 3065
+Error = 0.16114996488
+Epoch Number : 3066
+Error = 0.161099993926
+Epoch Number : 3067
+Error = 0.161049845614
+Epoch Number : 3068
+Error = 0.160999519094
+Epoch Number : 3069
+Error = 0.160949013515
+Epoch Number : 3070
+Error = 0.160898328025
+Epoch Number : 3071
+Error = 0.160847461765
+Epoch Number : 3072
+Error = 0.160796413876
+Epoch Number : 3073
+Error = 0.160745183496
+Epoch Number : 3074
+Error = 0.160693769758
+Epoch Number : 3075
+Error = 0.160642171794
+Epoch Number : 3076
+Error = 0.160590388732
+Epoch Number : 3077
+Error = 0.160538419698
+Epoch Number : 3078
+Error = 0.160486263815
+Epoch Number : 3079
+Error = 0.160433920203
+Epoch Number : 3080
+Error = 0.160381387978
+Epoch Number : 3081
+Error = 0.160328666254
+Epoch Number : 3082
+Error = 0.160275754144
+Epoch Number : 3083
+Error = 0.160222650754
+Epoch Number : 3084
+Error = 0.160169355191
+Epoch Number : 3085
+Error = 0.160115866557
+Epoch Number : 3086
+Error = 0.160062183952
+Epoch Number : 3087
+Error = 0.160008306472
+Epoch Number : 3088
+Error = 0.159954233212
+Epoch Number : 3089
+Error = 0.159899963262
+Epoch Number : 3090
+Error = 0.159845495712
+Epoch Number : 3091
+Error = 0.159790829647
+Epoch Number : 3092
+Error = 0.159735964149
+Epoch Number : 3093
+Error = 0.159680898298
+Epoch Number : 3094
+Error = 0.159625631172
+Epoch Number : 3095
+Error = 0.159570161844
+Epoch Number : 3096
+Error = 0.159514489387
+Epoch Number : 3097
+Error = 0.159458612869
+Epoch Number : 3098
+Error = 0.159402531356
+Epoch Number : 3099
+Error = 0.159346243912
+Epoch Number : 3100
+Error = 0.159289749596
+Epoch Number : 3101
+Error = 0.159233047466
+Epoch Number : 3102
+Error = 0.159176136579
+Epoch Number : 3103
+Error = 0.159119015985
+Epoch Number : 3104
+Error = 0.159061684734
+Epoch Number : 3105
+Error = 0.159004141875
+Epoch Number : 3106
+Error = 0.158946386449
+Epoch Number : 3107
+Error = 0.1588884175
+Epoch Number : 3108
+Error = 0.158830234066
+Epoch Number : 3109
+Error = 0.158771835184
+Epoch Number : 3110
+Error = 0.158713219886
+Epoch Number : 3111
+Error = 0.158654387205
+Epoch Number : 3112
+Error = 0.158595336167
+Epoch Number : 3113
+Error = 0.1585360658
+Epoch Number : 3114
+Error = 0.158476575126
+Epoch Number : 3115
+Error = 0.158416863166
+Epoch Number : 3116
+Error = 0.158356928938
+Epoch Number : 3117
+Error = 0.158296771457
+Epoch Number : 3118
+Error = 0.158236389737
+Epoch Number : 3119
+Error = 0.158175782789
+Epoch Number : 3120
+Error = 0.158114949619
+Epoch Number : 3121
+Error = 0.158053889233
+Epoch Number : 3122
+Error = 0.157992600635
+Epoch Number : 3123
+Error = 0.157931082826
+Epoch Number : 3124
+Error = 0.157869334802
+Epoch Number : 3125
+Error = 0.157807355561
+Epoch Number : 3126
+Error = 0.157745144095
+Epoch Number : 3127
+Error = 0.157682699396
+Epoch Number : 3128
+Error = 0.157620020452
+Epoch Number : 3129
+Error = 0.157557106249
+Epoch Number : 3130
+Error = 0.157493955771
+Epoch Number : 3131
+Error = 0.157430568001
+Epoch Number : 3132
+Error = 0.157366941917
+Epoch Number : 3133
+Error = 0.157303076496
+Epoch Number : 3134
+Error = 0.157238970714
+Epoch Number : 3135
+Error = 0.157174623543
+Epoch Number : 3136
+Error = 0.157110033953
+Epoch Number : 3137
+Error = 0.157045200913
+Epoch Number : 3138
+Error = 0.156980123389
+Epoch Number : 3139
+Error = 0.156914800345
+Epoch Number : 3140
+Error = 0.156849230743
+Epoch Number : 3141
+Error = 0.156783413542
+Epoch Number : 3142
+Error = 0.156717347701
+Epoch Number : 3143
+Error = 0.156651032174
+Epoch Number : 3144
+Error = 0.156584465916
+Epoch Number : 3145
+Error = 0.156517647879
+Epoch Number : 3146
+Error = 0.156450577011
+Epoch Number : 3147
+Error = 0.156383252261
+Epoch Number : 3148
+Error = 0.156315672575
+Epoch Number : 3149
+Error = 0.156247836897
+Epoch Number : 3150
+Error = 0.156179744168
+Epoch Number : 3151
+Error = 0.156111393329
+Epoch Number : 3152
+Error = 0.156042783318
+Epoch Number : 3153
+Error = 0.155973913073
+Epoch Number : 3154
+Error = 0.155904781527
+Epoch Number : 3155
+Error = 0.155835387615
+Epoch Number : 3156
+Error = 0.155765730268
+Epoch Number : 3157
+Error = 0.155695808415
+Epoch Number : 3158
+Error = 0.155625620986
+Epoch Number : 3159
+Error = 0.155555166905
+Epoch Number : 3160
+Error = 0.1554844451
+Epoch Number : 3161
+Error = 0.155413454492
+Epoch Number : 3162
+Error = 0.155342194004
+Epoch Number : 3163
+Error = 0.155270662558
+Epoch Number : 3164
+Error = 0.155198859071
+Epoch Number : 3165
+Error = 0.155126782461
+Epoch Number : 3166
+Error = 0.155054431646
+Epoch Number : 3167
+Error = 0.154981805539
+Epoch Number : 3168
+Error = 0.154908903055
+Epoch Number : 3169
+Error = 0.154835723105
+Epoch Number : 3170
+Error = 0.154762264602
+Epoch Number : 3171
+Error = 0.154688526456
+Epoch Number : 3172
+Error = 0.154614507574
+Epoch Number : 3173
+Error = 0.154540206865
+Epoch Number : 3174
+Error = 0.154465623235
+Epoch Number : 3175
+Error = 0.154390755591
+Epoch Number : 3176
+Error = 0.154315602837
+Epoch Number : 3177
+Error = 0.154240163875
+Epoch Number : 3178
+Error = 0.15416443761
+Epoch Number : 3179
+Error = 0.154088422944
+Epoch Number : 3180
+Error = 0.154012118776
+Epoch Number : 3181
+Error = 0.153935524007
+Epoch Number : 3182
+Error = 0.153858637537
+Epoch Number : 3183
+Error = 0.153781458264
+Epoch Number : 3184
+Error = 0.153703985088
+Epoch Number : 3185
+Error = 0.153626216904
+Epoch Number : 3186
+Error = 0.15354815261
+Epoch Number : 3187
+Error = 0.153469791102
+Epoch Number : 3188
+Error = 0.153391131277
+Epoch Number : 3189
+Error = 0.153312172029
+Epoch Number : 3190
+Error = 0.153232912254
+Epoch Number : 3191
+Error = 0.153153350846
+Epoch Number : 3192
+Error = 0.153073486699
+Epoch Number : 3193
+Error = 0.152993318709
+Epoch Number : 3194
+Error = 0.152912845768
+Epoch Number : 3195
+Error = 0.152832066771
+Epoch Number : 3196
+Error = 0.152750980611
+Epoch Number : 3197
+Error = 0.152669586181
+Epoch Number : 3198
+Error = 0.152587882376
+Epoch Number : 3199
+Error = 0.15250586809
+Epoch Number : 3200
+Error = 0.152423542215
+Epoch Number : 3201
+Error = 0.152340903646
+Epoch Number : 3202
+Error = 0.152257951277
+Epoch Number : 3203
+Error = 0.152174684002
+Epoch Number : 3204
+Error = 0.152091100716
+Epoch Number : 3205
+Error = 0.152007200315
+Epoch Number : 3206
+Error = 0.151922981694
+Epoch Number : 3207
+Error = 0.151838443749
+Epoch Number : 3208
+Error = 0.151753585376
+Epoch Number : 3209
+Error = 0.151668405472
+Epoch Number : 3210
+Error = 0.151582902937
+Epoch Number : 3211
+Error = 0.151497076668
+Epoch Number : 3212
+Error = 0.151410925564
+Epoch Number : 3213
+Error = 0.151324448526
+Epoch Number : 3214
+Error = 0.151237644456
+Epoch Number : 3215
+Error = 0.151150512254
+Epoch Number : 3216
+Error = 0.151063050825
+Epoch Number : 3217
+Error = 0.150975259073
+Epoch Number : 3218
+Error = 0.150887135903
+Epoch Number : 3219
+Error = 0.150798680221
+Epoch Number : 3220
+Error = 0.150709890937
+Epoch Number : 3221
+Error = 0.150620766958
+Epoch Number : 3222
+Error = 0.150531307196
+Epoch Number : 3223
+Error = 0.150441510563
+Epoch Number : 3224
+Error = 0.150351375973
+Epoch Number : 3225
+Error = 0.150260902342
+Epoch Number : 3226
+Error = 0.150170088586
+Epoch Number : 3227
+Error = 0.150078933625
+Epoch Number : 3228
+Error = 0.149987436378
+Epoch Number : 3229
+Error = 0.14989559577
+Epoch Number : 3230
+Error = 0.149803410724
+Epoch Number : 3231
+Error = 0.149710880168
+Epoch Number : 3232
+Error = 0.14961800303
+Epoch Number : 3233
+Error = 0.149524778241
+Epoch Number : 3234
+Error = 0.149431204735
+Epoch Number : 3235
+Error = 0.149337281447
+Epoch Number : 3236
+Error = 0.149243007316
+Epoch Number : 3237
+Error = 0.149148381282
+Epoch Number : 3238
+Error = 0.149053402289
+Epoch Number : 3239
+Error = 0.148958069283
+Epoch Number : 3240
+Error = 0.148862381212
+Epoch Number : 3241
+Error = 0.148766337028
+Epoch Number : 3242
+Error = 0.148669935685
+Epoch Number : 3243
+Error = 0.148573176141
+Epoch Number : 3244
+Error = 0.148476057357
+Epoch Number : 3245
+Error = 0.148378578296
+Epoch Number : 3246
+Error = 0.148280737925
+Epoch Number : 3247
+Error = 0.148182535214
+Epoch Number : 3248
+Error = 0.148083969137
+Epoch Number : 3249
+Error = 0.147985038672
+Epoch Number : 3250
+Error = 0.147885742799
+Epoch Number : 3251
+Error = 0.147786080503
+Epoch Number : 3252
+Error = 0.147686050771
+Epoch Number : 3253
+Error = 0.147585652596
+Epoch Number : 3254
+Error = 0.147484884975
+Epoch Number : 3255
+Error = 0.147383746906
+Epoch Number : 3256
+Error = 0.147282237395
+Epoch Number : 3257
+Error = 0.147180355449
+Epoch Number : 3258
+Error = 0.147078100082
+Epoch Number : 3259
+Error = 0.14697547031
+Epoch Number : 3260
+Error = 0.146872465156
+Epoch Number : 3261
+Error = 0.146769083645
+Epoch Number : 3262
+Error = 0.146665324808
+Epoch Number : 3263
+Error = 0.146561187681
+Epoch Number : 3264
+Error = 0.146456671305
+Epoch Number : 3265
+Error = 0.146351774725
+Epoch Number : 3266
+Error = 0.146246496991
+Epoch Number : 3267
+Error = 0.14614083716
+Epoch Number : 3268
+Error = 0.146034794293
+Epoch Number : 3269
+Error = 0.145928367455
+Epoch Number : 3270
+Error = 0.14582155572
+Epoch Number : 3271
+Error = 0.145714358163
+Epoch Number : 3272
+Error = 0.14560677387
+Epoch Number : 3273
+Error = 0.145498801927
+Epoch Number : 3274
+Error = 0.145390441432
+Epoch Number : 3275
+Error = 0.145281691483
+Epoch Number : 3276
+Error = 0.145172551188
+Epoch Number : 3277
+Error = 0.14506301966
+Epoch Number : 3278
+Error = 0.144953096019
+Epoch Number : 3279
+Error = 0.14484277939
+Epoch Number : 3280
+Error = 0.144732068906
+Epoch Number : 3281
+Error = 0.144620963705
+Epoch Number : 3282
+Error = 0.144509462934
+Epoch Number : 3283
+Error = 0.144397565745
+Epoch Number : 3284
+Error = 0.144285271297
+Epoch Number : 3285
+Error = 0.144172578757
+Epoch Number : 3286
+Error = 0.144059487299
+Epoch Number : 3287
+Error = 0.143945996103
+Epoch Number : 3288
+Error = 0.143832104359
+Epoch Number : 3289
+Error = 0.143717811262
+Epoch Number : 3290
+Error = 0.143603116015
+Epoch Number : 3291
+Error = 0.143488017831
+Epoch Number : 3292
+Error = 0.143372515928
+Epoch Number : 3293
+Error = 0.143256609533
+Epoch Number : 3294
+Error = 0.143140297882
+Epoch Number : 3295
+Error = 0.143023580218
+Epoch Number : 3296
+Error = 0.142906455793
+Epoch Number : 3297
+Error = 0.142788923867
+Epoch Number : 3298
+Error = 0.142670983709
+Epoch Number : 3299
+Error = 0.142552634596
+Epoch Number : 3300
+Error = 0.142433875815
+Epoch Number : 3301
+Error = 0.14231470666
+Epoch Number : 3302
+Error = 0.142195126436
+Epoch Number : 3303
+Error = 0.142075134457
+Epoch Number : 3304
+Error = 0.141954730044
+Epoch Number : 3305
+Error = 0.14183391253
+Epoch Number : 3306
+Error = 0.141712681256
+Epoch Number : 3307
+Error = 0.141591035573
+Epoch Number : 3308
+Error = 0.141468974844
+Epoch Number : 3309
+Error = 0.141346498437
+Epoch Number : 3310
+Error = 0.141223605734
+Epoch Number : 3311
+Error = 0.141100296127
+Epoch Number : 3312
+Error = 0.140976569015
+Epoch Number : 3313
+Error = 0.140852423811
+Epoch Number : 3314
+Error = 0.140727859938
+Epoch Number : 3315
+Error = 0.140602876826
+Epoch Number : 3316
+Error = 0.140477473921
+Epoch Number : 3317
+Error = 0.140351650676
+Epoch Number : 3318
+Error = 0.140225406557
+Epoch Number : 3319
+Error = 0.14009874104
+Epoch Number : 3320
+Error = 0.139971653614
+Epoch Number : 3321
+Error = 0.139844143776
+Epoch Number : 3322
+Error = 0.139716211038
+Epoch Number : 3323
+Error = 0.139587854922
+Epoch Number : 3324
+Error = 0.139459074962
+Epoch Number : 3325
+Error = 0.139329870704
+Epoch Number : 3326
+Error = 0.139200241706
+Epoch Number : 3327
+Error = 0.139070187538
+Epoch Number : 3328
+Error = 0.138939707783
+Epoch Number : 3329
+Error = 0.138808802034
+Epoch Number : 3330
+Error = 0.1386774699
+Epoch Number : 3331
+Error = 0.138545711001
+Epoch Number : 3332
+Error = 0.138413524969
+Epoch Number : 3333
+Error = 0.138280911449
+Epoch Number : 3334
+Error = 0.138147870101
+Epoch Number : 3335
+Error = 0.138014400596
+Epoch Number : 3336
+Error = 0.13788050262
+Epoch Number : 3337
+Error = 0.137746175871
+Epoch Number : 3338
+Error = 0.137611420061
+Epoch Number : 3339
+Error = 0.137476234917
+Epoch Number : 3340
+Error = 0.137340620176
+Epoch Number : 3341
+Error = 0.137204575594
+Epoch Number : 3342
+Error = 0.137068100938
+Epoch Number : 3343
+Error = 0.136931195989
+Epoch Number : 3344
+Error = 0.136793860544
+Epoch Number : 3345
+Error = 0.136656094413
+Epoch Number : 3346
+Error = 0.136517897421
+Epoch Number : 3347
+Error = 0.136379269408
+Epoch Number : 3348
+Error = 0.136240210229
+Epoch Number : 3349
+Error = 0.136100719753
+Epoch Number : 3350
+Error = 0.135960797865
+Epoch Number : 3351
+Error = 0.135820444465
+Epoch Number : 3352
+Error = 0.135679659467
+Epoch Number : 3353
+Error = 0.135538442803
+Epoch Number : 3354
+Error = 0.135396794418
+Epoch Number : 3355
+Error = 0.135254714274
+Epoch Number : 3356
+Error = 0.135112202349
+Epoch Number : 3357
+Error = 0.134969258636
+Epoch Number : 3358
+Error = 0.134825883146
+Epoch Number : 3359
+Error = 0.134682075903
+Epoch Number : 3360
+Error = 0.13453783695
+Epoch Number : 3361
+Error = 0.134393166345
+Epoch Number : 3362
+Error = 0.134248064163
+Epoch Number : 3363
+Error = 0.134102530496
+Epoch Number : 3364
+Error = 0.133956565452
+Epoch Number : 3365
+Error = 0.133810169157
+Epoch Number : 3366
+Error = 0.133663341753
+Epoch Number : 3367
+Error = 0.133516083399
+Epoch Number : 3368
+Error = 0.133368394272
+Epoch Number : 3369
+Error = 0.133220274566
+Epoch Number : 3370
+Error = 0.133071724492
+Epoch Number : 3371
+Error = 0.132922744279
+Epoch Number : 3372
+Error = 0.132773334174
+Epoch Number : 3373
+Error = 0.132623494442
+Epoch Number : 3374
+Error = 0.132473225364
+Epoch Number : 3375
+Error = 0.132322527242
+Epoch Number : 3376
+Error = 0.132171400394
+Epoch Number : 3377
+Error = 0.132019845155
+Epoch Number : 3378
+Error = 0.131867861883
+Epoch Number : 3379
+Error = 0.131715450949
+Epoch Number : 3380
+Error = 0.131562612746
+Epoch Number : 3381
+Error = 0.131409347685
+Epoch Number : 3382
+Error = 0.131255656194
+Epoch Number : 3383
+Error = 0.131101538723
+Epoch Number : 3384
+Error = 0.130946995739
+Epoch Number : 3385
+Error = 0.130792027727
+Epoch Number : 3386
+Error = 0.130636635192
+Epoch Number : 3387
+Error = 0.130480818661
+Epoch Number : 3388
+Error = 0.130324578675
+Epoch Number : 3389
+Error = 0.1301679158
+Epoch Number : 3390
+Error = 0.130010830616
+Epoch Number : 3391
+Error = 0.129853323728
+Epoch Number : 3392
+Error = 0.129695395756
+Epoch Number : 3393
+Error = 0.129537047343
+Epoch Number : 3394
+Error = 0.129378279151
+Epoch Number : 3395
+Error = 0.129219091861
+Epoch Number : 3396
+Error = 0.129059486174
+Epoch Number : 3397
+Error = 0.128899462813
+Epoch Number : 3398
+Error = 0.128739022519
+Epoch Number : 3399
+Error = 0.128578166055
+Epoch Number : 3400
+Error = 0.128416894203
+Epoch Number : 3401
+Error = 0.128255207766
+Epoch Number : 3402
+Error = 0.128093107567
+Epoch Number : 3403
+Error = 0.12793059445
+Epoch Number : 3404
+Error = 0.127767669281
+Epoch Number : 3405
+Error = 0.127604332943
+Epoch Number : 3406
+Error = 0.127440586344
+Epoch Number : 3407
+Error = 0.12727643041
+Epoch Number : 3408
+Error = 0.127111866088
+Epoch Number : 3409
+Error = 0.126946894348
+Epoch Number : 3410
+Error = 0.126781516179
+Epoch Number : 3411
+Error = 0.126615732591
+Epoch Number : 3412
+Error = 0.126449544617
+Epoch Number : 3413
+Error = 0.126282953309
+Epoch Number : 3414
+Error = 0.126115959741
+Epoch Number : 3415
+Error = 0.12594856501
+Epoch Number : 3416
+Error = 0.125780770231
+Epoch Number : 3417
+Error = 0.125612576542
+Epoch Number : 3418
+Error = 0.125443985104
+Epoch Number : 3419
+Error = 0.125274997097
+Epoch Number : 3420
+Error = 0.125105613723
+Epoch Number : 3421
+Error = 0.124935836207
+Epoch Number : 3422
+Error = 0.124765665793
+Epoch Number : 3423
+Error = 0.124595103748
+Epoch Number : 3424
+Error = 0.124424151361
+Epoch Number : 3425
+Error = 0.124252809943
+Epoch Number : 3426
+Error = 0.124081080825
+Epoch Number : 3427
+Error = 0.12390896536
+Epoch Number : 3428
+Error = 0.123736464924
+Epoch Number : 3429
+Error = 0.123563580914
+Epoch Number : 3430
+Error = 0.123390314748
+Epoch Number : 3431
+Error = 0.123216667866
+Epoch Number : 3432
+Error = 0.123042641731
+Epoch Number : 3433
+Error = 0.122868237826
+Epoch Number : 3434
+Error = 0.122693457658
+Epoch Number : 3435
+Error = 0.122518302752
+Epoch Number : 3436
+Error = 0.12234277466
+Epoch Number : 3437
+Error = 0.122166874951
+Epoch Number : 3438
+Error = 0.121990605217
+Epoch Number : 3439
+Error = 0.121813967075
+Epoch Number : 3440
+Error = 0.121636962159
+Epoch Number : 3441
+Error = 0.121459592127
+Epoch Number : 3442
+Error = 0.121281858659
+Epoch Number : 3443
+Error = 0.121103763457
+Epoch Number : 3444
+Error = 0.120925308243
+Epoch Number : 3445
+Error = 0.120746494761
+Epoch Number : 3446
+Error = 0.120567324779
+Epoch Number : 3447
+Error = 0.120387800084
+Epoch Number : 3448
+Error = 0.120207922485
+Epoch Number : 3449
+Error = 0.120027693813
+Epoch Number : 3450
+Error = 0.119847115921
+Epoch Number : 3451
+Error = 0.119666190682
+Epoch Number : 3452
+Error = 0.119484919992
+Epoch Number : 3453
+Error = 0.119303305768
+Epoch Number : 3454
+Error = 0.119121349948
+Epoch Number : 3455
+Error = 0.11893905449
+Epoch Number : 3456
+Error = 0.118756421376
+Epoch Number : 3457
+Error = 0.118573452607
+Epoch Number : 3458
+Error = 0.118390150206
+Epoch Number : 3459
+Error = 0.118206516217
+Epoch Number : 3460
+Error = 0.118022552705
+Epoch Number : 3461
+Error = 0.117838261756
+Epoch Number : 3462
+Error = 0.117653645476
+Epoch Number : 3463
+Error = 0.117468705992
+Epoch Number : 3464
+Error = 0.117283445453
+Epoch Number : 3465
+Error = 0.117097866028
+Epoch Number : 3466
+Error = 0.116911969906
+Epoch Number : 3467
+Error = 0.116725759297
+Epoch Number : 3468
+Error = 0.116539236431
+Epoch Number : 3469
+Error = 0.116352403558
+Epoch Number : 3470
+Error = 0.116165262949
+Epoch Number : 3471
+Error = 0.115977816895
+Epoch Number : 3472
+Error = 0.115790067706
+Epoch Number : 3473
+Error = 0.115602017714
+Epoch Number : 3474
+Error = 0.115413669269
+Epoch Number : 3475
+Error = 0.115225024741
+Epoch Number : 3476
+Error = 0.11503608652
+Epoch Number : 3477
+Error = 0.114846857015
+Epoch Number : 3478
+Error = 0.114657338654
+Epoch Number : 3479
+Error = 0.114467533886
+Epoch Number : 3480
+Error = 0.114277445178
+Epoch Number : 3481
+Error = 0.114087075015
+Epoch Number : 3482
+Error = 0.113896425902
+Epoch Number : 3483
+Error = 0.113705500363
+Epoch Number : 3484
+Error = 0.113514300941
+Epoch Number : 3485
+Error = 0.113322830195
+Epoch Number : 3486
+Error = 0.113131090705
+Epoch Number : 3487
+Error = 0.112939085068
+Epoch Number : 3488
+Error = 0.1127468159
+Epoch Number : 3489
+Error = 0.112554285833
+Epoch Number : 3490
+Error = 0.112361497518
+Epoch Number : 3491
+Error = 0.112168453625
+Epoch Number : 3492
+Error = 0.111975156839
+Epoch Number : 3493
+Error = 0.111781609863
+Epoch Number : 3494
+Error = 0.111587815417
+Epoch Number : 3495
+Error = 0.11139377624
+Epoch Number : 3496
+Error = 0.111199495086
+Epoch Number : 3497
+Error = 0.111004974725
+Epoch Number : 3498
+Error = 0.110810217944
+Epoch Number : 3499
+Error = 0.110615227548
+Epoch Number : 3500
+Error = 0.110420006356
+Epoch Number : 3501
+Error = 0.110224557203
+Epoch Number : 3502
+Error = 0.110028882942
+Epoch Number : 3503
+Error = 0.109832986439
+Epoch Number : 3504
+Error = 0.109636870577
+Epoch Number : 3505
+Error = 0.109440538254
+Epoch Number : 3506
+Error = 0.109243992381
+Epoch Number : 3507
+Error = 0.109047235887
+Epoch Number : 3508
+Error = 0.108850271714
+Epoch Number : 3509
+Error = 0.108653102818
+Epoch Number : 3510
+Error = 0.10845573217
+Epoch Number : 3511
+Error = 0.108258162754
+Epoch Number : 3512
+Error = 0.10806039757
+Epoch Number : 3513
+Error = 0.10786243963
+Epoch Number : 3514
+Error = 0.107664291959
+Epoch Number : 3515
+Error = 0.107465957596
+Epoch Number : 3516
+Error = 0.107267439593
+Epoch Number : 3517
+Error = 0.107068741014
+Epoch Number : 3518
+Error = 0.106869864936
+Epoch Number : 3519
+Error = 0.106670814449
+Epoch Number : 3520
+Error = 0.106471592654
+Epoch Number : 3521
+Error = 0.106272202665
+Epoch Number : 3522
+Error = 0.106072647606
+Epoch Number : 3523
+Error = 0.105872930613
+Epoch Number : 3524
+Error = 0.105673054836
+Epoch Number : 3525
+Error = 0.10547302343
+Epoch Number : 3526
+Error = 0.105272839567
+Epoch Number : 3527
+Error = 0.105072506426
+Epoch Number : 3528
+Error = 0.104872027196
+Epoch Number : 3529
+Error = 0.104671405077
+Epoch Number : 3530
+Error = 0.10447064328
+Epoch Number : 3531
+Error = 0.104269745023
+Epoch Number : 3532
+Error = 0.104068713534
+Epoch Number : 3533
+Error = 0.103867552051
+Epoch Number : 3534
+Error = 0.103666263819
+Epoch Number : 3535
+Error = 0.103464852095
+Epoch Number : 3536
+Error = 0.10326332014
+Epoch Number : 3537
+Error = 0.103061671226
+Epoch Number : 3538
+Error = 0.102859908631
+Epoch Number : 3539
+Error = 0.10265803564
+Epoch Number : 3540
+Error = 0.102456055549
+Epoch Number : 3541
+Error = 0.102253971656
+Epoch Number : 3542
+Error = 0.10205178727
+Epoch Number : 3543
+Error = 0.101849505703
+Epoch Number : 3544
+Error = 0.101647130275
+Epoch Number : 3545
+Error = 0.101444664311
+Epoch Number : 3546
+Error = 0.101242111144
+Epoch Number : 3547
+Error = 0.101039474109
+Epoch Number : 3548
+Error = 0.100836756549
+Epoch Number : 3549
+Error = 0.10063396181
+Epoch Number : 3550
+Error = 0.100431093242
+Epoch Number : 3551
+Error = 0.100228154203
+Epoch Number : 3552
+Error = 0.100025148051
+Epoch Number : 3553
+Error = 0.0998220781492
+Epoch Number : 3554
+Error = 0.099618947865
+Epoch Number : 3555
+Error = 0.0994157605684
+Epoch Number : 3556
+Error = 0.0992125196323
+Epoch Number : 3557
+Error = 0.0990092284323
+Epoch Number : 3558
+Error = 0.0988058903467
+Epoch Number : 3559
+Error = 0.0986025087556
+Epoch Number : 3560
+Error = 0.0983990870411
+Epoch Number : 3561
+Error = 0.0981956285869
+Epoch Number : 3562
+Error = 0.097992136778
+Epoch Number : 3563
+Error = 0.0977886150003
+Epoch Number : 3564
+Error = 0.0975850666407
+Epoch Number : 3565
+Error = 0.0973814950863
+Epoch Number : 3566
+Error = 0.0971779037245
+Epoch Number : 3567
+Error = 0.0969742959428
+Epoch Number : 3568
+Error = 0.0967706751281
+Epoch Number : 3569
+Error = 0.0965670446667
+Epoch Number : 3570
+Error = 0.0963634079442
+Epoch Number : 3571
+Error = 0.0961597683449
+Epoch Number : 3572
+Error = 0.0959561292514
+Epoch Number : 3573
+Error = 0.095752494045
+Epoch Number : 3574
+Error = 0.0955488661046
+Epoch Number : 3575
+Error = 0.0953452488072
+Epoch Number : 3576
+Error = 0.0951416455269
+Epoch Number : 3577
+Error = 0.0949380596351
+Epoch Number : 3578
+Error = 0.0947344945001
+Epoch Number : 3579
+Error = 0.0945309534869
+Epoch Number : 3580
+Error = 0.0943274399566
+Epoch Number : 3581
+Error = 0.0941239572667
+Epoch Number : 3582
+Error = 0.0939205087704
+Epoch Number : 3583
+Error = 0.0937170978162
+Epoch Number : 3584
+Error = 0.0935137277482
+Epoch Number : 3585
+Error = 0.0933104019052
+Epoch Number : 3586
+Error = 0.0931071236211
+Epoch Number : 3587
+Error = 0.092903896224
+Epoch Number : 3588
+Error = 0.0927007230362
+Epoch Number : 3589
+Error = 0.092497607374
+Epoch Number : 3590
+Error = 0.0922945525474
+Epoch Number : 3591
+Error = 0.0920915618598
+Epoch Number : 3592
+Error = 0.0918886386078
+Epoch Number : 3593
+Error = 0.0916857860807
+Epoch Number : 3594
+Error = 0.0914830075607
+Epoch Number : 3595
+Error = 0.0912803063221
+Epoch Number : 3596
+Error = 0.0910776856316
+Epoch Number : 3597
+Error = 0.0908751487476
+Epoch Number : 3598
+Error = 0.0906726989202
+Epoch Number : 3599
+Error = 0.0904703393908
+Epoch Number : 3600
+Error = 0.0902680733919
+Epoch Number : 3601
+Error = 0.090065904147
+Epoch Number : 3602
+Error = 0.0898638348702
+Epoch Number : 3603
+Error = 0.0896618687658
+Epoch Number : 3604
+Error = 0.0894600090284
+Epoch Number : 3605
+Error = 0.0892582588425
+Epoch Number : 3606
+Error = 0.0890566213823
+Epoch Number : 3607
+Error = 0.0888550998113
+Epoch Number : 3608
+Error = 0.0886536972822
+Epoch Number : 3609
+Error = 0.0884524169368
+Epoch Number : 3610
+Error = 0.0882512619056
+Epoch Number : 3611
+Error = 0.0880502353073
+Epoch Number : 3612
+Error = 0.0878493402494
+Epoch Number : 3613
+Error = 0.087648579827
+Epoch Number : 3614
+Error = 0.0874479571232
+Epoch Number : 3615
+Error = 0.0872474752087
+Epoch Number : 3616
+Error = 0.0870471371417
+Epoch Number : 3617
+Error = 0.0868469459674
+Epoch Number : 3618
+Error = 0.086646904718
+Epoch Number : 3619
+Error = 0.0864470164124
+Epoch Number : 3620
+Error = 0.0862472840563
+Epoch Number : 3621
+Error = 0.0860477106415
+Epoch Number : 3622
+Error = 0.085848299146
+Epoch Number : 3623
+Error = 0.0856490525337
+Epoch Number : 3624
+Error = 0.0854499737542
+Epoch Number : 3625
+Error = 0.0852510657428
+Epoch Number : 3626
+Error = 0.0850523314201
+Epoch Number : 3627
+Error = 0.0848537736916
+Epoch Number : 3628
+Error = 0.0846553954482
+Epoch Number : 3629
+Error = 0.0844571995652
+Epoch Number : 3630
+Error = 0.0842591889027
+Epoch Number : 3631
+Error = 0.0840613663052
+Epoch Number : 3632
+Error = 0.0838637346013
+Epoch Number : 3633
+Error = 0.0836662966039
+Epoch Number : 3634
+Error = 0.0834690551095
+Epoch Number : 3635
+Error = 0.0832720128987
+Epoch Number : 3636
+Error = 0.0830751727353
+Epoch Number : 3637
+Error = 0.0828785373667
+Epoch Number : 3638
+Error = 0.0826821095234
+Epoch Number : 3639
+Error = 0.0824858919192
+Epoch Number : 3640
+Error = 0.0822898872505
+Epoch Number : 3641
+Error = 0.0820940981967
+Epoch Number : 3642
+Error = 0.0818985274198
+Epoch Number : 3643
+Error = 0.0817031775642
+Epoch Number : 3644
+Error = 0.0815080512566
+Epoch Number : 3645
+Error = 0.081313151106
+Epoch Number : 3646
+Error = 0.0811184797033
+Epoch Number : 3647
+Error = 0.0809240396215
+Epoch Number : 3648
+Error = 0.0807298334152
+Epoch Number : 3649
+Error = 0.0805358636208
+Epoch Number : 3650
+Error = 0.0803421327562
+Epoch Number : 3651
+Error = 0.0801486433205
+Epoch Number : 3652
+Error = 0.0799553977944
+Epoch Number : 3653
+Error = 0.0797623986396
+Epoch Number : 3654
+Error = 0.0795696482988
+Epoch Number : 3655
+Error = 0.0793771491957
+Epoch Number : 3656
+Error = 0.0791849037349
+Epoch Number : 3657
+Error = 0.0789929143017
+Epoch Number : 3658
+Error = 0.0788011832619
+Epoch Number : 3659
+Error = 0.078609712962
+Epoch Number : 3660
+Error = 0.0784185057288
+Epoch Number : 3661
+Error = 0.0782275638695
+Epoch Number : 3662
+Error = 0.0780368896716
+Epoch Number : 3663
+Error = 0.0778464854026
+Epoch Number : 3664
+Error = 0.0776563533102
+Epoch Number : 3665
+Error = 0.0774664956221
+Epoch Number : 3666
+Error = 0.0772769145459
+Epoch Number : 3667
+Error = 0.077087612269
+Epoch Number : 3668
+Error = 0.0768985909585
+Epoch Number : 3669
+Error = 0.0767098527614
+Epoch Number : 3670
+Error = 0.0765213998042
+Epoch Number : 3671
+Error = 0.076333234193
+Epoch Number : 3672
+Error = 0.0761453580134
+Epoch Number : 3673
+Error = 0.0759577733305
+Epoch Number : 3674
+Error = 0.0757704821886
+Epoch Number : 3675
+Error = 0.0755834866117
+Epoch Number : 3676
+Error = 0.0753967886027
+Epoch Number : 3677
+Error = 0.0752103901441
+Epoch Number : 3678
+Error = 0.0750242931974
+Epoch Number : 3679
+Error = 0.0748384997033
+Epoch Number : 3680
+Error = 0.0746530115817
+Epoch Number : 3681
+Error = 0.0744678307315
+Epoch Number : 3682
+Error = 0.0742829590307
+Epoch Number : 3683
+Error = 0.0740983983364
+Epoch Number : 3684
+Error = 0.0739141504847
+Epoch Number : 3685
+Error = 0.0737302172905
+Epoch Number : 3686
+Error = 0.0735466005478
+Epoch Number : 3687
+Error = 0.0733633020297
+Epoch Number : 3688
+Error = 0.073180323488
+Epoch Number : 3689
+Error = 0.0729976666536
+Epoch Number : 3690
+Error = 0.0728153332361
+Epoch Number : 3691
+Error = 0.0726333249241
+Epoch Number : 3692
+Error = 0.0724516433852
+Epoch Number : 3693
+Error = 0.0722702902657
+Epoch Number : 3694
+Error = 0.0720892671911
+Epoch Number : 3695
+Error = 0.0719085757654
+Epoch Number : 3696
+Error = 0.0717282175718
+Epoch Number : 3697
+Error = 0.0715481941724
+Epoch Number : 3698
+Error = 0.0713685071081
+Epoch Number : 3699
+Error = 0.0711891578988
+Epoch Number : 3700
+Error = 0.0710101480433
+Epoch Number : 3701
+Error = 0.0708314790195
+Epoch Number : 3702
+Error = 0.0706531522841
+Epoch Number : 3703
+Error = 0.0704751692731
+Epoch Number : 3704
+Error = 0.0702975314012
+Epoch Number : 3705
+Error = 0.0701202400624
+Epoch Number : 3706
+Error = 0.0699432966298
+Epoch Number : 3707
+Error = 0.0697667024556
+Epoch Number : 3708
+Error = 0.069590458871
+Epoch Number : 3709
+Error = 0.0694145671867
+Epoch Number : 3710
+Error = 0.0692390286923
+Epoch Number : 3711
+Error = 0.069063844657
+Epoch Number : 3712
+Error = 0.0688890163292
+Epoch Number : 3713
+Error = 0.0687145449367
+Epoch Number : 3714
+Error = 0.0685404316865
+Epoch Number : 3715
+Error = 0.0683666777654
+Epoch Number : 3716
+Error = 0.0681932843396
+Epoch Number : 3717
+Error = 0.0680202525548
+Epoch Number : 3718
+Error = 0.0678475835364
+Epoch Number : 3719
+Error = 0.0676752783895
+Epoch Number : 3720
+Error = 0.0675033381988
+Epoch Number : 3721
+Error = 0.067331764029
+Epoch Number : 3722
+Error = 0.0671605569246
+Epoch Number : 3723
+Error = 0.06698971791
+Epoch Number : 3724
+Error = 0.0668192479897
+Epoch Number : 3725
+Error = 0.0666491481481
+Epoch Number : 3726
+Error = 0.06647941935
+Epoch Number : 3727
+Error = 0.0663100625401
+Epoch Number : 3728
+Error = 0.0661410786436
+Epoch Number : 3729
+Error = 0.0659724685661
+Epoch Number : 3730
+Error = 0.0658042331934
+Epoch Number : 3731
+Error = 0.0656363733921
+Epoch Number : 3732
+Error = 0.0654688900093
+Epoch Number : 3733
+Error = 0.0653017838726
+Epoch Number : 3734
+Error = 0.0651350557906
+Epoch Number : 3735
+Error = 0.0649687065527
+Epoch Number : 3736
+Error = 0.0648027369291
+Epoch Number : 3737
+Error = 0.0646371476713
+Epoch Number : 3738
+Error = 0.0644719395116
+Epoch Number : 3739
+Error = 0.0643071131636
+Epoch Number : 3740
+Error = 0.0641426693223
+Epoch Number : 3741
+Error = 0.0639786086641
+Epoch Number : 3742
+Error = 0.0638149318466
+Epoch Number : 3743
+Error = 0.0636516395093
+Epoch Number : 3744
+Error = 0.0634887322733
+Epoch Number : 3745
+Error = 0.0633262107412
+Epoch Number : 3746
+Error = 0.0631640754979
+Epoch Number : 3747
+Error = 0.06300232711
+Epoch Number : 3748
+Error = 0.0628409661262
+Epoch Number : 3749
+Error = 0.0626799930774
+Epoch Number : 3750
+Error = 0.0625194084767
+Epoch Number : 3751
+Error = 0.0623592128198
+Epoch Number : 3752
+Error = 0.0621994065847
+Epoch Number : 3753
+Error = 0.062039990232
+Epoch Number : 3754
+Error = 0.061880964205
+Epoch Number : 3755
+Error = 0.0617223289299
+Epoch Number : 3756
+Error = 0.0615640848157
+Epoch Number : 3757
+Error = 0.0614062322545
+Epoch Number : 3758
+Error = 0.0612487716216
+Epoch Number : 3759
+Error = 0.0610917032753
+Epoch Number : 3760
+Error = 0.0609350275576
+Epoch Number : 3761
+Error = 0.0607787447937
+Epoch Number : 3762
+Error = 0.0606228552925
+Epoch Number : 3763
+Error = 0.0604673593466
+Epoch Number : 3764
+Error = 0.0603122572324
+Epoch Number : 3765
+Error = 0.0601575492101
+Epoch Number : 3766
+Error = 0.0600032355243
+Epoch Number : 3767
+Error = 0.0598493164034
+Epoch Number : 3768
+Error = 0.0596957920603
+Epoch Number : 3769
+Error = 0.0595426626921
+Epoch Number : 3770
+Error = 0.0593899284807
+Epoch Number : 3771
+Error = 0.0592375895923
+Epoch Number : 3772
+Error = 0.0590856461781
+Epoch Number : 3773
+Error = 0.0589340983741
+Epoch Number : 3774
+Error = 0.0587829463013
+Epoch Number : 3775
+Error = 0.0586321900658
+Epoch Number : 3776
+Error = 0.0584818297589
+Epoch Number : 3777
+Error = 0.0583318654573
+Epoch Number : 3778
+Error = 0.0581822972233
+Epoch Number : 3779
+Error = 0.0580331251045
+Epoch Number : 3780
+Error = 0.0578843491345
+Epoch Number : 3781
+Error = 0.0577359693325
+Epoch Number : 3782
+Error = 0.057587985704
+Epoch Number : 3783
+Error = 0.0574403982403
+Epoch Number : 3784
+Error = 0.0572932069189
+Epoch Number : 3785
+Error = 0.0571464117038
+Epoch Number : 3786
+Error = 0.0570000125455
+Epoch Number : 3787
+Error = 0.0568540093807
+Epoch Number : 3788
+Error = 0.0567084021333
+Epoch Number : 3789
+Error = 0.0565631907137
+Epoch Number : 3790
+Error = 0.0564183750193
+Epoch Number : 3791
+Error = 0.0562739549346
+Epoch Number : 3792
+Error = 0.0561299303314
+Epoch Number : 3793
+Error = 0.0559863010687
+Epoch Number : 3794
+Error = 0.0558430669929
+Epoch Number : 3795
+Error = 0.0557002279381
+Epoch Number : 3796
+Error = 0.0555577837259
+Epoch Number : 3797
+Error = 0.0554157341659
+Epoch Number : 3798
+Error = 0.0552740790556
+Epoch Number : 3799
+Error = 0.0551328181804
+Epoch Number : 3800
+Error = 0.0549919513141
+Epoch Number : 3801
+Error = 0.0548514782187
+Epoch Number : 3802
+Error = 0.0547113986445
+Epoch Number : 3803
+Error = 0.0545717123306
+Epoch Number : 3804
+Error = 0.0544324190046
+Epoch Number : 3805
+Error = 0.0542935183828
+Epoch Number : 3806
+Error = 0.0541550101707
+Epoch Number : 3807
+Error = 0.0540168940626
+Epoch Number : 3808
+Error = 0.0538791697421
+Epoch Number : 3809
+Error = 0.0537418368819
+Epoch Number : 3810
+Error = 0.0536048951442
+Epoch Number : 3811
+Error = 0.0534683441807
+Epoch Number : 3812
+Error = 0.0533321836328
+Epoch Number : 3813
+Error = 0.0531964131316
+Epoch Number : 3814
+Error = 0.0530610322981
+Epoch Number : 3815
+Error = 0.0529260407432
+Epoch Number : 3816
+Error = 0.0527914380679
+Epoch Number : 3817
+Error = 0.0526572238637
+Epoch Number : 3818
+Error = 0.0525233977122
+Epoch Number : 3819
+Error = 0.0523899591855
+Epoch Number : 3820
+Error = 0.0522569078463
+Epoch Number : 3821
+Error = 0.0521242432479
+Epoch Number : 3822
+Error = 0.0519919649347
+Epoch Number : 3823
+Error = 0.0518600724418
+Epoch Number : 3824
+Error = 0.0517285652953
+Epoch Number : 3825
+Error = 0.0515974430126
+Epoch Number : 3826
+Error = 0.0514667051024
+Epoch Number : 3827
+Error = 0.0513363510646
+Epoch Number : 3828
+Error = 0.0512063803907
+Epoch Number : 3829
+Error = 0.051076792564
+Epoch Number : 3830
+Error = 0.0509475870592
+Epoch Number : 3831
+Error = 0.050818763343
+Epoch Number : 3832
+Error = 0.0506903208741
+Epoch Number : 3833
+Error = 0.0505622591032
+Epoch Number : 3834
+Error = 0.0504345774731
+Epoch Number : 3835
+Error = 0.050307275419
+Epoch Number : 3836
+Error = 0.0501803523684
+Epoch Number : 3837
+Error = 0.0500538077414
+Epoch Number : 3838
+Error = 0.0499276409506
+Epoch Number : 3839
+Error = 0.0498018514013
+Epoch Number : 3840
+Error = 0.0496764384917
+Epoch Number : 3841
+Error = 0.0495514016129
+Epoch Number : 3842
+Error = 0.049426740149
+Epoch Number : 3843
+Error = 0.0493024534772
+Epoch Number : 3844
+Error = 0.0491785409681
+Epoch Number : 3845
+Error = 0.0490550019854
+Epoch Number : 3846
+Error = 0.0489318358864
+Epoch Number : 3847
+Error = 0.0488090420221
+Epoch Number : 3848
+Error = 0.0486866197367
+Epoch Number : 3849
+Error = 0.0485645683686
+Epoch Number : 3850
+Error = 0.0484428872498
+Epoch Number : 3851
+Error = 0.0483215757063
+Epoch Number : 3852
+Error = 0.0482006330582
+Epoch Number : 3853
+Error = 0.0480800586197
+Epoch Number : 3854
+Error = 0.0479598516992
+Epoch Number : 3855
+Error = 0.0478400115996
+Epoch Number : 3856
+Error = 0.0477205376181
+Epoch Number : 3857
+Error = 0.0476014290465
+Epoch Number : 3858
+Error = 0.0474826851711
+Epoch Number : 3859
+Error = 0.0473643052732
+Epoch Number : 3860
+Error = 0.0472462886285
+Epoch Number : 3861
+Error = 0.047128634508
+Epoch Number : 3862
+Error = 0.0470113421775
+Epoch Number : 3863
+Error = 0.046894410898
+Epoch Number : 3864
+Error = 0.0467778399256
+Epoch Number : 3865
+Error = 0.0466616285117
+Epoch Number : 3866
+Error = 0.0465457759031
+Epoch Number : 3867
+Error = 0.046430281342
+Epoch Number : 3868
+Error = 0.0463151440661
+Epoch Number : 3869
+Error = 0.0462003633089
+Epoch Number : 3870
+Error = 0.0460859382994
+Epoch Number : 3871
+Error = 0.0459718682626
+Epoch Number : 3872
+Error = 0.0458581524193
+Epoch Number : 3873
+Error = 0.0457447899863
+Epoch Number : 3874
+Error = 0.0456317801763
+Epoch Number : 3875
+Error = 0.0455191221984
+Epoch Number : 3876
+Error = 0.0454068152577
+Epoch Number : 3877
+Error = 0.0452948585557
+Epoch Number : 3878
+Error = 0.0451832512903
+Epoch Number : 3879
+Error = 0.0450719926559
+Epoch Number : 3880
+Error = 0.0449610818432
+Epoch Number : 3881
+Error = 0.0448505180399
+Epoch Number : 3882
+Error = 0.0447403004302
+Epoch Number : 3883
+Error = 0.044630428195
+Epoch Number : 3884
+Error = 0.0445209005122
+Epoch Number : 3885
+Error = 0.0444117165566
+Epoch Number : 3886
+Error = 0.0443028754999
+Epoch Number : 3887
+Error = 0.0441943765111
+Epoch Number : 3888
+Error = 0.0440862187561
+Epoch Number : 3889
+Error = 0.0439784013983
+Epoch Number : 3890
+Error = 0.0438709235981
+Epoch Number : 3891
+Error = 0.0437637845137
+Epoch Number : 3892
+Error = 0.0436569833002
+Epoch Number : 3893
+Error = 0.0435505191107
+Epoch Number : 3894
+Error = 0.0434443910956
+Epoch Number : 3895
+Error = 0.0433385984031
+Epoch Number : 3896
+Error = 0.0432331401791
+Epoch Number : 3897
+Error = 0.0431280155672
+Epoch Number : 3898
+Error = 0.043023223709
+Epoch Number : 3899
+Error = 0.0429187637439
+Epoch Number : 3900
+Error = 0.0428146348094
+Epoch Number : 3901
+Error = 0.042710836041
+Epoch Number : 3902
+Error = 0.0426073665723
+Epoch Number : 3903
+Error = 0.0425042255352
+Epoch Number : 3904
+Error = 0.0424014120597
+Epoch Number : 3905
+Error = 0.0422989252742
+Epoch Number : 3906
+Error = 0.0421967643054
+Epoch Number : 3907
+Error = 0.0420949282787
+Epoch Number : 3908
+Error = 0.0419934163175
+Epoch Number : 3909
+Error = 0.0418922275443
+Epoch Number : 3910
+Error = 0.0417913610798
+Epoch Number : 3911
+Error = 0.0416908160436
+Epoch Number : 3912
+Error = 0.0415905915539
+Epoch Number : 3913
+Error = 0.0414906867279
+Epoch Number : 3914
+Error = 0.0413911006813
+Epoch Number : 3915
+Error = 0.0412918325291
+Epoch Number : 3916
+Error = 0.041192881385
+Epoch Number : 3917
+Error = 0.0410942463617
+Epoch Number : 3918
+Error = 0.0409959265711
+Epoch Number : 3919
+Error = 0.0408979211242
+Epoch Number : 3920
+Error = 0.040800229131
+Epoch Number : 3921
+Error = 0.040702849701
+Epoch Number : 3922
+Error = 0.0406057819428
+Epoch Number : 3923
+Error = 0.0405090249642
+Epoch Number : 3924
+Error = 0.0404125778727
+Epoch Number : 3925
+Error = 0.0403164397751
+Epoch Number : 3926
+Error = 0.0402206097775
+Epoch Number : 3927
+Error = 0.0401250869858
+Epoch Number : 3928
+Error = 0.0400298705052
+Epoch Number : 3929
+Error = 0.0399349594408
+Epoch Number : 3930
+Error = 0.0398403528972
+Epoch Number : 3931
+Error = 0.0397460499787
+Epoch Number : 3932
+Error = 0.0396520497894
+Epoch Number : 3933
+Error = 0.0395583514332
+Epoch Number : 3934
+Error = 0.0394649540139
+Epoch Number : 3935
+Error = 0.0393718566351
+Epoch Number : 3936
+Error = 0.0392790584005
+Epoch Number : 3937
+Error = 0.0391865584136
+Epoch Number : 3938
+Error = 0.0390943557779
+Epoch Number : 3939
+Error = 0.0390024495973
+Epoch Number : 3940
+Error = 0.0389108389753
+Epoch Number : 3941
+Error = 0.0388195230159
+Epoch Number : 3942
+Error = 0.0387285008232
+Epoch Number : 3943
+Error = 0.0386377715016
+Epoch Number : 3944
+Error = 0.0385473341555
+Epoch Number : 3945
+Error = 0.03845718789
+Epoch Number : 3946
+Error = 0.0383673318101
+Epoch Number : 3947
+Error = 0.0382777650216
+Epoch Number : 3948
+Error = 0.0381884866304
+Epoch Number : 3949
+Error = 0.038099495743
+Epoch Number : 3950
+Error = 0.0380107914664
+Epoch Number : 3951
+Error = 0.0379223729081
+Epoch Number : 3952
+Error = 0.037834239176
+Epoch Number : 3953
+Error = 0.0377463893789
+Epoch Number : 3954
+Error = 0.037658822626
+Epoch Number : 3955
+Error = 0.0375715380273
+Epoch Number : 3956
+Error = 0.0374845346932
+Epoch Number : 3957
+Error = 0.0373978117352
+Epoch Number : 3958
+Error = 0.0373113682654
+Epoch Number : 3959
+Error = 0.0372252033967
+Epoch Number : 3960
+Error = 0.0371393162427
+Epoch Number : 3961
+Error = 0.0370537059181
+Epoch Number : 3962
+Error = 0.0369683715383
+Epoch Number : 3963
+Error = 0.0368833122195
+Epoch Number : 3964
+Error = 0.0367985270792
+Epoch Number : 3965
+Error = 0.0367140152356
+Epoch Number : 3966
+Error = 0.0366297758078
+Epoch Number : 3967
+Error = 0.0365458079163
+Epoch Number : 3968
+Error = 0.0364621106824
+Epoch Number : 3969
+Error = 0.0363786832284
+Epoch Number : 3970
+Error = 0.0362955246779
+Epoch Number : 3971
+Error = 0.0362126341555
+Epoch Number : 3972
+Error = 0.0361300107871
+Epoch Number : 3973
+Error = 0.0360476536996
+Epoch Number : 3974
+Error = 0.0359655620213
+Epoch Number : 3975
+Error = 0.0358837348815
+Epoch Number : 3976
+Error = 0.035802171411
+Epoch Number : 3977
+Error = 0.0357208707418
+Epoch Number : 3978
+Error = 0.0356398320071
+Epoch Number : 3979
+Error = 0.0355590543415
+Epoch Number : 3980
+Error = 0.035478536881
+Epoch Number : 3981
+Error = 0.0353982787629
+Epoch Number : 3982
+Error = 0.0353182791259
+Epoch Number : 3983
+Error = 0.0352385371102
+Epoch Number : 3984
+Error = 0.0351590518573
+Epoch Number : 3985
+Error = 0.0350798225102
+Epoch Number : 3986
+Error = 0.0350008482135
+Epoch Number : 3987
+Error = 0.0349221281132
+Epoch Number : 3988
+Error = 0.0348436613567
+Epoch Number : 3989
+Error = 0.0347654470932
+Epoch Number : 3990
+Error = 0.0346874844731
+Epoch Number : 3991
+Error = 0.0346097726488
+Epoch Number : 3992
+Error = 0.0345323107739
+Epoch Number : 3993
+Error = 0.0344550980039
+Epoch Number : 3994
+Error = 0.0343781334957
+Epoch Number : 3995
+Error = 0.0343014164079
+Epoch Number : 3996
+Error = 0.034224945901
+Epoch Number : 3997
+Error = 0.0341487211368
+Epoch Number : 3998
+Error = 0.034072741279
+Epoch Number : 3999
+Error = 0.0339970054931
+Epoch Number : 4000
+Error = 0.0339215129461
+Epoch Number : 4001
+Error = 0.0338462628068
+Epoch Number : 4002
+Error = 0.0337712542459
+Epoch Number : 4003
+Error = 0.0336964864357
+Epoch Number : 4004
+Error = 0.0336219585503
+Epoch Number : 4005
+Error = 0.0335476697658
+Epoch Number : 4006
+Error = 0.0334736192598
+Epoch Number : 4007
+Error = 0.033399806212
+Epoch Number : 4008
+Error = 0.0333262298036
+Epoch Number : 4009
+Error = 0.0332528892181
+Epoch Number : 4010
+Error = 0.0331797836405
+Epoch Number : 4011
+Error = 0.0331069122579
+Epoch Number : 4012
+Error = 0.033034274259
+Epoch Number : 4013
+Error = 0.0329618688347
+Epoch Number : 4014
+Error = 0.0328896951776
+Epoch Number : 4015
+Error = 0.0328177524825
+Epoch Number : 4016
+Error = 0.0327460399457
+Epoch Number : 4017
+Error = 0.0326745567658
+Epoch Number : 4018
+Error = 0.0326033021433
+Epoch Number : 4019
+Error = 0.0325322752804
+Epoch Number : 4020
+Error = 0.0324614753816
+Epoch Number : 4021
+Error = 0.0323909016533
+Epoch Number : 4022
+Error = 0.0323205533037
+Epoch Number : 4023
+Error = 0.0322504295431
+Epoch Number : 4024
+Error = 0.032180529584
+Epoch Number : 4025
+Error = 0.0321108526407
+Epoch Number : 4026
+Error = 0.0320413979296
+Epoch Number : 4027
+Error = 0.031972164669
+Epoch Number : 4028
+Error = 0.0319031520795
+Epoch Number : 4029
+Error = 0.0318343593835
+Epoch Number : 4030
+Error = 0.0317657858056
+Epoch Number : 4031
+Error = 0.0316974305725
+Epoch Number : 4032
+Error = 0.0316292929128
+Epoch Number : 4033
+Error = 0.0315613720574
+Epoch Number : 4034
+Error = 0.031493667239
+Epoch Number : 4035
+Error = 0.0314261776926
+Epoch Number : 4036
+Error = 0.0313589026552
+Epoch Number : 4037
+Error = 0.0312918413661
+Epoch Number : 4038
+Error = 0.0312249930664
+Epoch Number : 4039
+Error = 0.0311583569996
+Epoch Number : 4040
+Error = 0.0310919324111
+Epoch Number : 4041
+Error = 0.0310257185485
+Epoch Number : 4042
+Error = 0.0309597146616
+Epoch Number : 4043
+Error = 0.0308939200022
+Epoch Number : 4044
+Error = 0.0308283338243
+Epoch Number : 4045
+Error = 0.0307629553842
+Epoch Number : 4046
+Error = 0.0306977839401
+Epoch Number : 4047
+Error = 0.0306328187524
+Epoch Number : 4048
+Error = 0.0305680590838
+Epoch Number : 4049
+Error = 0.0305035041991
+Epoch Number : 4050
+Error = 0.0304391533651
+Epoch Number : 4051
+Error = 0.0303750058509
+Epoch Number : 4052
+Error = 0.0303110609279
+Epoch Number : 4053
+Error = 0.0302473178694
+Epoch Number : 4054
+Error = 0.0301837759511
+Epoch Number : 4055
+Error = 0.0301204344507
+Epoch Number : 4056
+Error = 0.0300572926482
+Epoch Number : 4057
+Error = 0.0299943498258
+Epoch Number : 4058
+Error = 0.0299316052677
+Epoch Number : 4059
+Error = 0.0298690582606
+Epoch Number : 4060
+Error = 0.029806708093
+Epoch Number : 4061
+Error = 0.029744554056
+Epoch Number : 4062
+Error = 0.0296825954425
+Epoch Number : 4063
+Error = 0.0296208315479
+Epoch Number : 4064
+Error = 0.0295592616696
+Epoch Number : 4065
+Error = 0.0294978851073
+Epoch Number : 4066
+Error = 0.0294367011629
+Epoch Number : 4067
+Error = 0.0293757091405
+Epoch Number : 4068
+Error = 0.0293149083462
+Epoch Number : 4069
+Error = 0.0292542980886
+Epoch Number : 4070
+Error = 0.0291938776782
+Epoch Number : 4071
+Error = 0.0291336464281
+Epoch Number : 4072
+Error = 0.0290736036532
+Epoch Number : 4073
+Error = 0.0290137486708
+Epoch Number : 4074
+Error = 0.0289540808003
+Epoch Number : 4075
+Error = 0.0288945993634
+Epoch Number : 4076
+Error = 0.0288353036841
+Epoch Number : 4077
+Error = 0.0287761930882
+Epoch Number : 4078
+Error = 0.0287172669041
+Epoch Number : 4079
+Error = 0.0286585244623
+Epoch Number : 4080
+Error = 0.0285999650953
+Epoch Number : 4081
+Error = 0.0285415881382
+Epoch Number : 4082
+Error = 0.0284833929278
+Epoch Number : 4083
+Error = 0.0284253788034
+Epoch Number : 4084
+Error = 0.0283675451066
+Epoch Number : 4085
+Error = 0.0283098911808
+Epoch Number : 4086
+Error = 0.028252416372
+Epoch Number : 4087
+Error = 0.0281951200281
+Epoch Number : 4088
+Error = 0.0281380014994
+Epoch Number : 4089
+Error = 0.0280810601382
+Epoch Number : 4090
+Error = 0.0280242952992
+Epoch Number : 4091
+Error = 0.027967706339
+Epoch Number : 4092
+Error = 0.0279112926165
+Epoch Number : 4093
+Error = 0.0278550534931
+Epoch Number : 4094
+Error = 0.0277989883318
+Epoch Number : 4095
+Error = 0.0277430964982
+Epoch Number : 4096
+Error = 0.02768737736
+Epoch Number : 4097
+Error = 0.027631830287
+Epoch Number : 4098
+Error = 0.027576454651
+Epoch Number : 4099
+Error = 0.0275212498264
+Epoch Number : 4100
+Error = 0.0274662151894
+Epoch Number : 4101
+Error = 0.0274113501184
+Epoch Number : 4102
+Error = 0.0273566539942
+Epoch Number : 4103
+Error = 0.0273021261995
+Epoch Number : 4104
+Error = 0.0272477661193
+Epoch Number : 4105
+Error = 0.0271935731406
+Epoch Number : 4106
+Error = 0.0271395466526
+Epoch Number : 4107
+Error = 0.0270856860469
+Epoch Number : 4108
+Error = 0.0270319907168
+Epoch Number : 4109
+Error = 0.0269784600581
+Epoch Number : 4110
+Error = 0.0269250934685
+Epoch Number : 4111
+Error = 0.026871890348
+Epoch Number : 4112
+Error = 0.0268188500987
+Epoch Number : 4113
+Error = 0.0267659721246
+Epoch Number : 4114
+Error = 0.0267132558321
+Epoch Number : 4115
+Error = 0.0266607006296
+Epoch Number : 4116
+Error = 0.0266083059277
+Epoch Number : 4117
+Error = 0.0265560711389
+Epoch Number : 4118
+Error = 0.026503995678
+Epoch Number : 4119
+Error = 0.0264520789619
+Epoch Number : 4120
+Error = 0.0264003204095
+Epoch Number : 4121
+Error = 0.0263487194418
+Epoch Number : 4122
+Error = 0.0262972754819
+Epoch Number : 4123
+Error = 0.0262459879552
+Epoch Number : 4124
+Error = 0.0261948562887
+Epoch Number : 4125
+Error = 0.026143879912
+Epoch Number : 4126
+Error = 0.0260930582564
+Epoch Number : 4127
+Error = 0.0260423907555
+Epoch Number : 4128
+Error = 0.0259918768448
+Epoch Number : 4129
+Error = 0.025941515962
+Epoch Number : 4130
+Error = 0.0258913075468
+Epoch Number : 4131
+Error = 0.0258412510409
+Epoch Number : 4132
+Error = 0.0257913458882
+Epoch Number : 4133
+Error = 0.0257415915343
+Epoch Number : 4134
+Error = 0.0256919874273
+Epoch Number : 4135
+Error = 0.025642533017
+Epoch Number : 4136
+Error = 0.0255932277554
+Epoch Number : 4137
+Error = 0.0255440710963
+Epoch Number : 4138
+Error = 0.0254950624959
+Epoch Number : 4139
+Error = 0.0254462014121
+Epoch Number : 4140
+Error = 0.0253974873048
+Epoch Number : 4141
+Error = 0.0253489196362
+Epoch Number : 4142
+Error = 0.0253004978701
+Epoch Number : 4143
+Error = 0.0252522214727
+Epoch Number : 4144
+Error = 0.0252040899119
+Epoch Number : 4145
+Error = 0.0251561026577
+Epoch Number : 4146
+Error = 0.0251082591821
+Epoch Number : 4147
+Error = 0.0250605589589
+Epoch Number : 4148
+Error = 0.0250130014642
+Epoch Number : 4149
+Error = 0.0249655861757
+Epoch Number : 4150
+Error = 0.0249183125734
+Epoch Number : 4151
+Error = 0.024871180139
+Epoch Number : 4152
+Error = 0.0248241883563
+Epoch Number : 4153
+Error = 0.0247773367108
+Epoch Number : 4154
+Error = 0.0247306246904
+Epoch Number : 4155
+Error = 0.0246840517845
+Epoch Number : 4156
+Error = 0.0246376174846
+Epoch Number : 4157
+Error = 0.0245913212842
+Epoch Number : 4158
+Error = 0.0245451626785
+Epoch Number : 4159
+Error = 0.0244991411649
+Epoch Number : 4160
+Error = 0.0244532562425
+Epoch Number : 4161
+Error = 0.0244075074123
+Epoch Number : 4162
+Error = 0.0243618941773
+Epoch Number : 4163
+Error = 0.0243164160424
+Epoch Number : 4164
+Error = 0.0242710725143
+Epoch Number : 4165
+Error = 0.0242258631016
+Epoch Number : 4166
+Error = 0.0241807873149
+Epoch Number : 4167
+Error = 0.0241358446664
+Epoch Number : 4168
+Error = 0.0240910346705
+Epoch Number : 4169
+Error = 0.0240463568431
+Epoch Number : 4170
+Error = 0.0240018107024
+Epoch Number : 4171
+Error = 0.023957395768
+Epoch Number : 4172
+Error = 0.0239131115616
+Epoch Number : 4173
+Error = 0.0238689576067
+Epoch Number : 4174
+Error = 0.0238249334286
+Epoch Number : 4175
+Error = 0.0237810385545
+Epoch Number : 4176
+Error = 0.0237372725132
+Epoch Number : 4177
+Error = 0.0236936348356
+Epoch Number : 4178
+Error = 0.0236501250542
+Epoch Number : 4179
+Error = 0.0236067427035
+Epoch Number : 4180
+Error = 0.0235634873196
+Epoch Number : 4181
+Error = 0.0235203584406
+Epoch Number : 4182
+Error = 0.0234773556061
+Epoch Number : 4183
+Error = 0.0234344783578
+Epoch Number : 4184
+Error = 0.0233917262389
+Epoch Number : 4185
+Error = 0.0233490987946
+Epoch Number : 4186
+Error = 0.0233065955717
+Epoch Number : 4187
+Error = 0.0232642161189
+Epoch Number : 4188
+Error = 0.0232219599866
+Epoch Number : 4189
+Error = 0.0231798267267
+Epoch Number : 4190
+Error = 0.0231378158933
+Epoch Number : 4191
+Error = 0.023095927042
+Epoch Number : 4192
+Error = 0.02305415973
+Epoch Number : 4193
+Error = 0.0230125135165
+Epoch Number : 4194
+Error = 0.0229709879622
+Epoch Number : 4195
+Error = 0.0229295826296
+Epoch Number : 4196
+Error = 0.0228882970829
+Epoch Number : 4197
+Error = 0.0228471308881
+Epoch Number : 4198
+Error = 0.0228060836127
+Epoch Number : 4199
+Error = 0.022765154826
+Epoch Number : 4200
+Error = 0.0227243440991
+Epoch Number : 4201
+Error = 0.0226836510045
+Epoch Number : 4202
+Error = 0.0226430751167
+Epoch Number : 4203
+Error = 0.0226026160116
+Epoch Number : 4204
+Error = 0.0225622732668
+Epoch Number : 4205
+Error = 0.0225220464619
+Epoch Number : 4206
+Error = 0.0224819351776
+Epoch Number : 4207
+Error = 0.0224419389966
+Epoch Number : 4208
+Error = 0.0224020575033
+Epoch Number : 4209
+Error = 0.0223622902834
+Epoch Number : 4210
+Error = 0.0223226369245
+Epoch Number : 4211
+Error = 0.0222830970159
+Epoch Number : 4212
+Error = 0.0222436701481
+Epoch Number : 4213
+Error = 0.0222043559137
+Epoch Number : 4214
+Error = 0.0221651539067
+Epoch Number : 4215
+Error = 0.0221260637225
+Epoch Number : 4216
+Error = 0.0220870849584
+Epoch Number : 4217
+Error = 0.0220482172131
+Epoch Number : 4218
+Error = 0.0220094600871
+Epoch Number : 4219
+Error = 0.0219708131823
+Epoch Number : 4220
+Error = 0.021932276102
+Epoch Number : 4221
+Error = 0.0218938484516
+Epoch Number : 4222
+Error = 0.0218555298374
+Epoch Number : 4223
+Error = 0.0218173198679
+Epoch Number : 4224
+Error = 0.0217792181526
+Epoch Number : 4225
+Error = 0.021741224303
+Epoch Number : 4226
+Error = 0.0217033379317
+Epoch Number : 4227
+Error = 0.0216655586532
+Epoch Number : 4228
+Error = 0.0216278860833
+Epoch Number : 4229
+Error = 0.0215903198395
+Epoch Number : 4230
+Error = 0.0215528595407
+Epoch Number : 4231
+Error = 0.0215155048072
+Epoch Number : 4232
+Error = 0.0214782552612
+Epoch Number : 4233
+Error = 0.0214411105259
+Epoch Number : 4234
+Error = 0.0214040702263
+Epoch Number : 4235
+Error = 0.0213671339888
+Epoch Number : 4236
+Error = 0.0213303014415
+Epoch Number : 4237
+Error = 0.0212935722135
+Epoch Number : 4238
+Error = 0.0212569459358
+Epoch Number : 4239
+Error = 0.0212204222407
+Epoch Number : 4240
+Error = 0.021184000762
+Epoch Number : 4241
+Error = 0.0211476811349
+Epoch Number : 4242
+Error = 0.0211114629961
+Epoch Number : 4243
+Error = 0.0210753459837
+Epoch Number : 4244
+Error = 0.0210393297374
+Epoch Number : 4245
+Error = 0.0210034138981
+Epoch Number : 4246
+Error = 0.0209675981082
+Epoch Number : 4247
+Error = 0.0209318820116
+Epoch Number : 4248
+Error = 0.0208962652536
+Epoch Number : 4249
+Error = 0.0208607474809
+Epoch Number : 4250
+Error = 0.0208253283415
+Epoch Number : 4251
+Error = 0.020790007485
+Epoch Number : 4252
+Error = 0.0207547845622
+Epoch Number : 4253
+Error = 0.0207196592255
+Epoch Number : 4254
+Error = 0.0206846311284
+Epoch Number : 4255
+Error = 0.0206496999261
+Epoch Number : 4256
+Error = 0.0206148652749
+Epoch Number : 4257
+Error = 0.0205801268327
+Epoch Number : 4258
+Error = 0.0205454842587
+Epoch Number : 4259
+Error = 0.0205109372132
+Epoch Number : 4260
+Error = 0.0204764853582
+Epoch Number : 4261
+Error = 0.020442128357
+Epoch Number : 4262
+Error = 0.020407865874
+Epoch Number : 4263
+Error = 0.0203736975751
+Epoch Number : 4264
+Error = 0.0203396231277
+Epoch Number : 4265
+Error = 0.0203056422002
+Epoch Number : 4266
+Error = 0.0202717544626
+Epoch Number : 4267
+Error = 0.020237959586
+Epoch Number : 4268
+Error = 0.0202042572429
+Epoch Number : 4269
+Error = 0.0201706471072
+Epoch Number : 4270
+Error = 0.0201371288539
+Epoch Number : 4271
+Error = 0.0201037021596
+Epoch Number : 4272
+Error = 0.0200703667018
+Epoch Number : 4273
+Error = 0.0200371221596
+Epoch Number : 4274
+Error = 0.0200039682133
+Epoch Number : 4275
+Error = 0.0199709045444
+w =  [ array([[-1.71830932, -5.61001155, -5.62502471],
+       [-4.01651039, -2.85712996, -2.85855802]])
+ array([[ 2.34509463, -6.50008425,  5.71746298]])]
