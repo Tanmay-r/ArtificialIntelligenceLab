@@ -11,3 +11,27 @@ def buildInput(num):
 			k = k/2
 		inputs.append(np.array(temp))
 	return np.array(inputs)
+
+def buildInput2(num):
+	inputs = []
+	temp = [-1,0,1,1,1,1,1,1];
+	inputs.append(np.array(temp))
+	temp = [-1,0,0,0,1,1,0,0];
+	inputs.append(np.array(temp))
+	temp = [-1,1,0,1,1,0,1,1];
+	inputs.append(np.array(temp))
+	temp = [-1,1,0,1,1,1,1,0];
+	inputs.append(np.array(temp))
+	temp = [-1,1,1,0,1,1,0,0];
+	inputs.append(np.array(temp))
+	temp = [-1,1,1,1,0,1,1,0];
+	inputs.append(np.array(temp))
+	temp = [-1,1,1,1,0,1,1,1];
+	inputs.append(np.array(temp))
+	temp = [-1,0,0,1,1,1,0,0];
+	inputs.append(np.array(temp))
+	temp = [-1,1,1,1,1,1,1,1];
+	inputs.append(np.array(temp))
+	temp = [-1,1,1,1,1,1,1,0];
+	inputs.append(np.array(temp))
+	return np.array(inputs)

@@ -91,7 +91,7 @@ def initializeW(layer, initializationParamter):
 	return np.array(w)
 
 def momentum(eta, M, delta, outputs, x, layer, wprev, w):
-	deltaW = initializeW(layer, 1)
+	deltaW = initializeW(layer, 2)
 	inputV = []
 	for l in range(layer.shape[0] - 1):
 		if l == 0:
@@ -107,18 +107,19 @@ def momentum(eta, M, delta, outputs, x, layer, wprev, w):
 				deltaW[l][j - 1][i] = (1- M)* eta * delta[l][j - 1] * inputV[i] + M*(w[l][j - 1][i] - wprev[l][j - 1][i])
 	return deltaW
 
-def backpropagation(layer, X, Y, w, eta, M):
+def backpropagation(layer, X, Y):
 	#layer[layer.shape[0] - 1] += 1
+	print layer
 
-	#w = initializeW(layer, 1)
+	w = initializeW(layer, 2)
 	wprev = w
 	delta = initializeDelta(layer)
 	outputs = initializeDelta(layer)
 
 	errorThresh = 0.2
-	#eta = 0.9
+	eta = 0.9
 	error = 15
-	#M = 0.8
+	M = 0.9
 	epoch  = 0
 	while error > errorThresh:
 		epoch += 1
@@ -151,6 +152,54 @@ def backpropagation(layer, X, Y, w, eta, M):
 
 			#update error
 			error += computeError(Y[i], outputs[layer.shape[0] - 2])
-		#error = error/X.shape[0]
-		#print "Error =", error
-	print "epoch = ", epoch
+		print epoch, "," , error
+	return w		
+
+inputArray = buildInput.buildInput2(7)
+outputArray = functions.f_SevenSegment(inputArray)
+w = backpropagation(np.array([8, 7, 5]), inputArray, outputArray)
+
+layer = np.array([8, 7, 5])
+'''
+temp = [-1,0,1,1,1,1,1,1];
+temp = [-1,0,0,0,1,1,0,0];
+'''
+
+temp = [-1,1,0,1,1,0,1,1];
+'''
+temp = [-1,1,0,1,1,1,1,0];
+temp = [-1,1,1,0,1,1,0,0];
+temp = [-1,1,1,1,0,1,1,0];
+temp = [-1,1,1,1,0,1,1,1];
+temp = [-1,0,0,1,1,1,0,0];
+temp = [-1,1,1,1,1,1,1,1];
+temp = [-1,1,1,1,1,1,1,0];
+'''
+temp1 = np.array(temp)
+
+Y = feedForward(w, temp1, layer)
+Y = Y[1]
+Y = Y[::-1]
+
+print Y
+et = 0.05
+if(computeError(Y, np.array([0,0,0,0])) < et):
+	print "0"
+if(computeError(Y, np.array([0,0,0,1])) < et):
+	print "1"
+if(computeError(Y, np.array([0,0,1,0])) < et):
+	print "2"
+if(computeError(Y, np.array([0,0,1,1])) < et):
+	print "3"
+if(computeError(Y, np.array([0,1,0,0])) < et):
+	print "4"
+if(computeError(Y, np.array([0,1,0,1])) < et):
+	print "5"
+if(computeError(Y, np.array([0,1,1,0])) < et):
+	print "6"
+if(computeError(Y, np.array([0,1,1,1])) < et):
+	print "7"
+if(computeError(Y, np.array([1,0,0,0])) < et):
+	print "8"
+if(computeError(Y, np.array([1,0,0,1])) < et):
+	print "9"
