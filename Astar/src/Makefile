@@ -2,7 +2,7 @@ CC=gcc
 CXX=g++
 RM=rm -f
 
-SRCS=astar.cpp  main.cpp  state.cpp  state_list.cpp
+SRCS=astar.cpp  main.cpp  state.cpp  state_list.cpp bidirection.cpp
 OBJS=$(subst .cpp,.o,$(SRCS))
 
 all: tool
@@ -20,9 +20,10 @@ depend: .depend
 
 clean:
 	$(RM) $(OBJS)
+	$(RM) -rf objects
+	$(RM) astar
 
 dist-clean: clean
 	$(RM) *~ .dependtool
-	$(RM) objects
 
 include .depend
