@@ -1,0 +1,4 @@
+How to run:
+
+XOR 		= python -m src.xor.main
+palindrome 	= python -m src.palindrome.main
