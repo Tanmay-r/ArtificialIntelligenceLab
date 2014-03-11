@@ -2,3 +2,7 @@ How to run:
 
 XOR 		= python -m src.xor.main
 palindrome 	= python -m src.palindrome.main
+majority	= python -m src.majority.main
+OR			= python -m src.or_function.main
+NAND		= python -m src.nand.main
+
