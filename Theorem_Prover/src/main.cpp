@@ -7,6 +7,8 @@ int main() {
 	
 	parser * myparser = new parser();
 
+	Formula_Object = myparser->parse("(!(p|p))");
+	Formula_Object->print_formula();
 		
 
 }

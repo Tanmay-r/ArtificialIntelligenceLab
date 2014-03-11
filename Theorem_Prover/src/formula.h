@@ -19,6 +19,7 @@ public:
 	formula();
 	~formula();
 	virtual void put_in_global_list(formula * temp_formula);
+	virtual void print_formula();
 
 };
 
@@ -31,6 +32,7 @@ class binary_formula: public formula
 public:
 	binary_formula(formula *temp_lhs , formula *temp_rhs);
 	~binary_formula();
+	void print_formula();
 	void put_in_global_list(formula * temp_formula);
 
 };
@@ -41,6 +43,7 @@ class unary_formula: public formula
 public:
 	unary_formula(string var_name);
 	~unary_formula();
+	void print_formula();
 	void put_in_global_list(formula * temp_formula);
 	string get_variable_name();
 };
