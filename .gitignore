@@ -3,6 +3,7 @@
 *.lo
 *.o
 *.out
+*.pyc
 
 # cfg files
 test_files/*.cfg
