@@ -1,7 +1,5 @@
 import numpy as np
 import math
-import buildInput
-import functions
 
 def computeError(Y, Ypredicted):
 	error = 0
@@ -107,7 +105,7 @@ def momentum(eta, M, delta, outputs, x, layer, wprev, w):
 				deltaW[l][j - 1][i] = (1- M)* eta * delta[l][j - 1] * inputV[i] + M*(w[l][j - 1][i] - wprev[l][j - 1][i])
 	return deltaW
 
-def backpropagation(layer, X, Y, w, eta, M):
+def backpropagation(layer, X, Y, w, eta, M, errorThresh):
 	#layer[layer.shape[0] - 1] += 1
 	print layer
 
@@ -116,7 +114,6 @@ def backpropagation(layer, X, Y, w, eta, M):
 	delta = initializeDelta(layer)
 	outputs = initializeDelta(layer)
 
-	errorThresh = 0.2
 	error = 15
 	epoch  = 0
 	while error > errorThresh:
