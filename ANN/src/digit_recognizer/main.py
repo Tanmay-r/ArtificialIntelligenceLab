@@ -4,7 +4,7 @@ from ..digit_recognizer.digit_recognizer import *
 import numpy as np
 import math
 
-M = 0.8
+M = 0.7
 eta = 0.9
 errorThresh = 0.2
 
@@ -12,7 +12,7 @@ inputArray = buildInput(7)
 outputArray = f_digit_recognizer(inputArray)
 layer = np.array([8, 7, 5])
 
-w = initializeW(layer, 1)
+w = initializeW(layer, 2)
 print "Estimating weights..."
 backpropagation(layer, inputArray, outputArray, w, eta, M, errorThresh)
 print "Weights: "

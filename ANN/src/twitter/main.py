@@ -20,7 +20,7 @@ layer1 = np.array([X[0].shape[0], 2])
 
 w1 = initializeW(layer1, 1)
 print "Estimating weights..."
-#backpropagation(layer1, X, Y, w1, eta, M, errorThresh)
+backpropagation(layer1, X, Y, w1, eta, M, errorThresh)
 
 wordList2 = getWordList("/home/tanmay/Downloads/GitHub/ArtificialIntelligenceLab/ANN/data/twitter/twitter_positive",
 	"/home/tanmay/Downloads/GitHub/ArtificialIntelligenceLab/ANN/data/twitter/twitter_objective",
@@ -32,7 +32,7 @@ wordList2 = getWordList("/home/tanmay/Downloads/GitHub/ArtificialIntelligenceLab
 layer2 = np.array([X[0].shape[0], 2])
 
 w2 = initializeW(layer2, 1)
-#backpropagation(layer2, X, Y, w2, eta, M, errorThresh)
+backpropagation(layer2, X, Y, w2, eta, M, errorThresh)
 
 total = 0
 correct = 0
