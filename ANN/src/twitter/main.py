@@ -9,30 +9,30 @@ M = 0.8
 eta = 0.9
 errorThresh = 10
 
-wordList = getWordList("/home/tanmay/Downloads/GitHub/ArtificialIntelligenceLab/ANN/data/twitter/twitter_positive",
+wordList1 = getWordList("/home/tanmay/Downloads/GitHub/ArtificialIntelligenceLab/ANN/data/twitter/twitter_positive",
 	"/home/tanmay/Downloads/GitHub/ArtificialIntelligenceLab/ANN/data/twitter/twitter_negative",
 	"/home/tanmay/Downloads/GitHub/ArtificialIntelligenceLab/ANN/data/twitter/twitter_objective", 3)
 [X, Y] = generateTrainingData("/home/tanmay/Downloads/GitHub/ArtificialIntelligenceLab/ANN/data/twitter/dataset1/train/twitter_positive",
 	"/home/tanmay/Downloads/GitHub/ArtificialIntelligenceLab/ANN/data/twitter/twitter_objective",
-	"/home/tanmay/Downloads/GitHub/ArtificialIntelligenceLab/ANN/data/twitter/dataset1/train/twitter_negative", 
-	wordList, 3)
-layer = np.array([X[0].shape[0], 2])
+	"/home/tanmay/Downloads/GitHub/ArtificialIntelligenceLab/ANN/data/twitter/dataset1/train/twitter_negative",
+	wordList1, 3)
+layer1 = np.array([X[0].shape[0], 2])
 
-w = initializeW(layer, 1)
+w1 = initializeW(layer1, 1)
 print "Estimating weights..."
-backpropagation(layer, X, Y, w, eta, M, errorThresh)
+#backpropagation(layer1, X, Y, w1, eta, M, errorThresh)
 
-wordList = getWordList("/home/tanmay/Downloads/GitHub/ArtificialIntelligenceLab/ANN/data/twitter/twitter_positive",
+wordList2 = getWordList("/home/tanmay/Downloads/GitHub/ArtificialIntelligenceLab/ANN/data/twitter/twitter_positive",
 	"/home/tanmay/Downloads/GitHub/ArtificialIntelligenceLab/ANN/data/twitter/twitter_objective",
 	"", 2)
 [X, Y] = generateTrainingData("/home/tanmay/Downloads/GitHub/ArtificialIntelligenceLab/ANN/data/twitter/dataset1/train/twitter_positive",
-	"/home/tanmay/Downloads/GitHub/ArtificialIntelligenceLab/ANN/data/twitter/dataset1/train/twitter_negative", 
+	"/home/tanmay/Downloads/GitHub/ArtificialIntelligenceLab/ANN/data/twitter/dataset1/train/twitter_negative",
 	"",
-	wordList, 2)
-layer = np.array([X[0].shape[0], 2])
+	wordList2, 2)
+layer2 = np.array([X[0].shape[0], 2])
 
-wnew = initializeW(layer, 1)
-backpropagation(layer, X, Y, wnew, eta, M, errorThresh)
+w2 = initializeW(layer2, 1)
+#backpropagation(layer2, X, Y, w2, eta, M, errorThresh)
 
 total = 0
 correct = 0
@@ -47,14 +47,14 @@ for line in data.split('\n'):
 	temp = []
 	temp.append(-1)
 	words = getWords(line)
-	for w in wordList:
+	for w in wordList1:
 		if w in words:
 			temp.append(1)
 		else:
 			temp.append(0)
 	X = np.array(temp)
-	outputs = feedForward(w, X, layer)
-	if(outputs[outputs.shape[0] - 1][j] < 0.5):
+	outputs = feedForward(w1, X, layer1)
+	if(outputs[outputs.shape[0] - 1][0] < 0.5):
 		correct = correct + 1
 
 #positive
@@ -64,19 +64,31 @@ f.close()
 
 for line in data.split('\n'):
 	total = total + 1
+
 	temp = []
 	temp.append(-1)
 	words = getWords(line)
-	for w in wordList:
+	for w in wordList1:
 		if w in words:
 			temp.append(1)
 		else:
 			temp.append(0)
-	X = np.array(temp)
-	outputs = feedForward(w, X, layer)
-	if(outputs[outputs.shape[0] - 1][j] > 0.5):
-		outputs = feedForward(wnew, X, layer)
-		if(outputs[outputs.shape[0] - 1][j] > 0.5):
+	X1 = np.array(temp)
+
+	temp = []
+	temp.append(-1)
+	words = getWords(line)
+	for w in wordList2:
+		if w in words:
+			temp.append(1)
+		else:
+			temp.append(0)
+	X2 = np.array(temp)
+
+	outputs = feedForward(w1, X1, layer1)
+	if(outputs[outputs.shape[0] - 1][0] > 0.5):
+		outputs = feedForward(w2, X2, layer2)
+		if(outputs[outputs.shape[0] - 1][0] > 0.5):
 			correct = correct + 1
 
 #objective
@@ -86,19 +98,31 @@ f.close()
 
 for line in data.split('\n'):
 	total = total + 1
+
 	temp = []
 	temp.append(-1)
 	words = getWords(line)
-	for w in wordList:
+	for w in wordList1:
 		if w in words:
 			temp.append(1)
 		else:
 			temp.append(0)
-	X = np.array(temp)
-	outputs = feedForward(w, X, layer)
-	if(outputs[outputs.shape[0] - 1][j] > 0.5):
-		outputs = feedForward(wnew, X, layer)
-		if(outputs[outputs.shape[0] - 1][j] < 0.5):
+	X1 = np.array(temp)
+
+	temp = []
+	temp.append(-1)
+	words = getWords(line)
+	for w in wordList2:
+		if w in words:
+			temp.append(1)
+		else:
+			temp.append(0)
+	X2 = np.array(temp)
+
+	outputs = feedForward(w1, X1, layer1)
+	if(outputs[outputs.shape[0] - 1][0] > 0.5):
+		outputs = feedForward(w2, X2, layer2)
+		if(outputs[outputs.shape[0] - 1][0] < 0.5):
 			correct = correct + 1
 
 print correct, " ", total, correct/(total * 1.0)
