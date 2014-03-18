@@ -7,7 +7,7 @@ import math
 
 M = 0.8
 eta = 0.9
-errorThresh = 10
+errorThresh = 5
 
 wordList1 = getWordList("/home/tanmay/Downloads/GitHub/ArtificialIntelligenceLab/ANN/data/twitter/twitter_positive",
 	"/home/tanmay/Downloads/GitHub/ArtificialIntelligenceLab/ANN/data/twitter/twitter_negative",
