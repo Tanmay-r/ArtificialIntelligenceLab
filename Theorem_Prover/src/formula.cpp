@@ -51,6 +51,11 @@ void binary_formula::print_formula(){
 	cout << " )";
 	cout << "\n";
 }
+formula * binary_formula::get_lhs(){
+
+	return lhs;
+	
+}
 void binary_formula::put_in_global_list(formula * temp_formula){
 	
 	Deduction_list.push_back(temp_formula);

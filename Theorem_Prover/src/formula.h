@@ -31,6 +31,7 @@ class binary_formula: public formula
 
 	formula * lhs;
 	formula * rhs;
+	string name;
 
 public:
 	binary_formula(formula *temp_lhs , formula *temp_rhs);
@@ -38,6 +39,7 @@ public:
 	void print_formula();
 	void set_status(bool status);
 	bool get_status();
+	formula * get_lhs();
 	void put_in_global_list(formula * temp_formula);
 
 };

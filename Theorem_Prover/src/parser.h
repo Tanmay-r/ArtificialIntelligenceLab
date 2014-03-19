@@ -13,7 +13,6 @@ public:
 	~parser();
 
 	formula * parse(string formula_string);
-
 	vector<string> give_lhs_rhs_string(string formula_string);
 };
 
