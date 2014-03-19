@@ -1,5 +1,6 @@
 #include <iostream>
 #include <vector>
+#include <stdlib.h> 
 #include "parser.h"
 
 using namespace std;
@@ -46,6 +47,12 @@ vector<string> parser::give_lhs_rhs_string(string formula_string){
 			balanced_paran++;
 		if(formula_string[i] == ')')
 			balanced_paran--;
+		if(formula_string[0] == '!'){
+			lhs+=formula_string.substr(1);
+			rhs+="F";
+			break;
+		}
+
 		if(formula_string[i] == '>' && balanced_paran == 0){
 
 			rhs+=formula_string.substr(i+1);
@@ -81,6 +88,13 @@ vector<string> parser::give_lhs_rhs_string(string formula_string){
 		lhs+=formula_string[i];
 		i++;
 	}
+
+	if(balanced_paran != 0){
+		cout << "formula is not correct" << endl;
+		exit(0);
+	}
+
+
 	to_return.push_back(lhs);
 	to_return.push_back(rhs);
 
