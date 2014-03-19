@@ -7,4 +7,6 @@ OR					= python -m src.or_function.main
 NAND				= python -m src.nand.main
 parity				= python -m src.parity.main
 digit_recognizer	= python -m src.digit_recognizer.main
-twitter				= python -m src.python.main
+twitter				= python -m src.twitter.main
+iris				= python -m src.iris.main
+monk				= python -m src.monk.main

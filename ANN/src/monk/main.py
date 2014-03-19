@@ -5,7 +5,7 @@ import numpy as np
 import math
 
 M = 0.5
-eta = 0.1
+eta = 0.08
 errorThresh = 10
 
 [inputArray, outputArray] = generateTrainingData("/home/tanmay/Downloads/GitHub/ArtificialIntelligenceLab/ANN/data/monk/dataset2/train/monks.train")
