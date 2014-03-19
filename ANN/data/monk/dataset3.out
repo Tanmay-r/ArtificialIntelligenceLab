@@ -1,0 +1,728 @@
+Estimating weights...
+[7 7 2]
+1 , 31.1155658951
+2 , 31.0010134201
+3 , 30.9027842691
+4 , 30.8118656902
+5 , 30.7265704001
+6 , 30.645707015
+7 , 30.5682313783
+8 , 30.4932128287
+9 , 30.419815663
+10 , 30.3472838796
+11 , 30.2749282142
+12 , 30.2021153887
+13 , 30.1282594346
+14 , 30.0528148878
+15 , 29.9752716057
+16 , 29.8951509198
+17 , 29.8120028257
+18 , 29.7254039257
+19 , 29.6349558871
+20 , 29.5402842589
+21 , 29.4410375894
+22 , 29.3368868933
+23 , 29.2275255924
+24 , 29.1126700842
+25 , 28.9920610603
+26 , 28.8654656051
+27 , 28.7326799828
+28 , 28.5935328957
+29 , 28.4478889083
+30 , 28.2956516907
+31 , 28.136766762
+32 , 27.9712234838
+33 , 27.7990561554
+34 , 27.6203441746
+35 , 27.4352113212
+36 , 27.2438242955
+37 , 27.046390683
+38 , 26.8431565298
+39 , 26.6344037008
+40 , 26.4204471661
+41 , 26.2016323257
+42 , 25.9783324481
+43 , 25.7509462631
+44 , 25.5198957215
+45 , 25.2856239055
+46 , 25.0485930512
+47 , 24.8092826229
+48 , 24.5681873617
+49 , 24.3258152162
+50 , 24.0826850548
+51 , 23.8393240639
+52 , 23.5962647414
+53 , 23.3540414211
+54 , 23.1131862939
+55 , 22.8742249335
+56 , 22.637671383
+57 , 22.4040229077
+58 , 22.1737545696
+59 , 21.9473138137
+60 , 21.725115286
+61 , 21.5075361073
+62 , 21.2949118175
+63 , 21.0875331761
+64 , 20.8856439561
+65 , 20.6894398144
+66 , 20.4990682617
+67 , 20.314629689
+68 , 20.1361793612
+69 , 19.9637302385
+70 , 19.7972564602
+71 , 19.6366973107
+72 , 19.4819614814
+73 , 19.3329314584
+74 , 19.1894678793
+75 , 19.051413733
+76 , 18.918598299
+77 , 18.7908407576
+78 , 18.6679534229
+79 , 18.5497445796
+80 , 18.4360209204
+81 , 18.326589598
+82 , 18.2212599161
+83 , 18.1198446907
+84 , 18.0221613178
+85 , 17.928032584
+86 , 17.8372872572
+87 , 17.7497604903
+88 , 17.6652940715
+89 , 17.583736548
+90 , 17.5049432488
+91 , 17.4287762276
+92 , 17.3551041443
+93 , 17.2838020995
+94 , 17.2147514361
+95 , 17.1478395159
+96 , 17.0829594819
+97 , 17.0200100105
+98 , 16.9588950605
+99 , 16.8995236219
+100 , 16.8418094669
+101 , 16.7856709071
+102 , 16.7310305561
+103 , 16.6778151007
+104 , 16.6259550802
+105 , 16.5753846734
+106 , 16.526041496
+107 , 16.477866405
+108 , 16.4308033128
+109 , 16.3847990085
+110 , 16.3398029881
+111 , 16.2957672909
+112 , 16.2526463436
+113 , 16.2103968106
+114 , 16.1689774506
+115 , 16.1283489788
+116 , 16.0884739338
+117 , 16.0493165499
+118 , 16.0108426341
+119 , 15.9730194456
+120 , 15.9358155808
+121 , 15.8992008608
+122 , 15.8631462209
+123 , 15.8276236048
+124 , 15.7926058586
+125 , 15.7580666281
+126 , 15.7239802573
+127 , 15.6903216867
+128 , 15.6570663529
+129 , 15.6241900875
+130 , 15.5916690148
+131 , 15.5594794484
+132 , 15.527597784
+133 , 15.4960003899
+134 , 15.4646634914
+135 , 15.4335630504
+136 , 15.4026746363
+137 , 15.3719732891
+138 , 15.3414333699
+139 , 15.3110283998
+140 , 15.2807308816
+141 , 15.2505121058
+142 , 15.220341931
+143 , 15.1901885462
+144 , 15.1600181951
+145 , 15.1297948803
+146 , 15.0994800134
+147 , 15.0690320443
+148 , 15.0384060143
+149 , 15.0075530927
+150 , 14.9764200059
+151 , 14.9449484682
+152 , 14.9130744554
+153 , 14.8807275318
+154 , 14.8478299403
+155 , 14.8142958673
+156 , 14.7800303354
+157 , 14.7449285396
+158 , 14.7088745715
+159 , 14.6717411561
+160 , 14.6333883193
+161 , 14.5936642545
+162 , 14.5524041692
+163 , 14.509433758
+164 , 14.4645685416
+165 , 14.4176226809
+166 , 14.3684087304
+167 , 14.3167563261
+168 , 14.2625101539
+169 , 14.2055650027
+170 , 14.1458532551
+171 , 14.0834044435
+172 , 14.0182996593
+173 , 13.9507674145
+174 , 13.8810627177
+175 , 13.8096270615
+176 , 13.7368357899
+177 , 13.6632922448
+178 , 13.5893864348
+179 , 13.5158614138
+180 , 13.4431272049
+181 , 13.3723701309
+182 , 13.3045676162
+183 , 13.2430349008
+184 , 13.1918766788
+185 , 13.1647702082
+186 , 13.1777075313
+187 , 13.2954063456
+188 , 13.5455874469
+189 , 14.2139914059
+190 , 14.9444271878
+191 , 16.6898543735
+192 , 16.647697445
+193 , 18.3446060972
+194 , 16.4213506423
+195 , 17.4738430835
+196 , 15.6340957699
+197 , 16.3956692125
+198 , 15.0505311557
+199 , 15.7054001897
+200 , 14.6693826623
+201 , 15.2788949409
+202 , 14.4044744299
+203 , 14.9805794235
+204 , 14.1906034232
+205 , 14.7305152444
+206 , 13.9930640301
+207 , 14.4927862486
+208 , 13.7989734239
+209 , 14.2571181341
+210 , 13.6066150167
+211 , 14.0243283001
+212 , 13.4180338762
+213 , 13.7979385599
+214 , 13.2354696634
+215 , 13.580764344
+216 , 13.060274753
+217 , 13.3742081831
+218 , 12.8929261114
+219 , 13.1785554709
+220 , 12.7333291872
+221 , 12.9934372458
+222 , 12.5810966297
+223 , 12.8181828688
+224 , 12.435729058
+225 , 12.6520293117
+226 , 12.2967118936
+227 , 12.4942256758
+228 , 12.1635588404
+229 , 12.3440762069
+230 , 12.0358266593
+231 , 12.2009521698
+232 , 11.9131165769
+233 , 12.0642901319
+234 , 11.7950705485
+235 , 11.9335855386
+236 , 11.6813662489
+237 , 11.8083855165
+238 , 11.5717123445
+239 , 11.6882823531
+240 , 11.465844505
+241 , 11.5729079896
+242 , 11.3635221589
+243 , 11.4619294497
+244 , 11.264525857
+245 , 11.3550450159
+246 , 11.1686550966
+247 , 11.2519809794
+248 , 11.0757264836
+249 , 11.1524888292
+250 , 10.9855721478
+251 , 11.056342786
+252 , 10.8980383531
+253 , 10.9633376195
+254 , 10.8129842649
+255 , 10.8732867048
+256 , 10.7302808479
+257 , 10.7860202856
+258 , 10.649809877
+259 , 10.7013839218
+260 , 10.5714630478
+261 , 10.6192370996
+262 , 10.4951411745
+263 , 10.5394519888
+264 , 10.4207534685
+265 , 10.4619123311
+266 , 10.3482168869
+267 , 10.3865124467
+268 , 10.2774555471
+269 , 10.313156347
+270 , 10.2084001984
+271 , 10.2417569431
+272 , 10.1409877476
+273 , 10.1722353388
+274 , 10.075160831
+275 , 10.1045202019
+276 , 10.0108674302
+277 , 10.0385472029
+278 , 9.94806052496
+Weights: 
+[ [[-0.04040629 -0.84945547  0.63102886 -0.6939028   0.57828303  0.35736487
+   0.0134062 ]
+ [ 0.46104785  1.40448084  1.57686935 -1.078047   -1.90055554  1.65392935
+  -1.40328423]
+ [ 2.03747702 -0.35402244  1.99405883 -1.00121938 -0.32713876  1.6301988
+  -1.49677172]
+ [ 0.48208372 -0.01751977 -0.41144319 -0.91731415  0.55877841  0.34634053
+  -0.50690553]
+ [-0.8659256   0.16981732 -2.02688044 -0.17867474  0.17402959  2.03781925
+   0.46401151]
+ [ 1.03232103 -1.11105212 -1.66952704 -0.24805841 -0.24091927  1.66381437
+   0.51557168]]
+ [[-2.67743173 -0.8153753  -2.73103583 -3.19251887 -0.17720593  3.27884233
+  -1.84724907]]]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [0]  actualY =  [1]
+outputs =  [0]  actualY =  [1]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [0]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [0]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [0]  actualY =  [0]
+outputs =  [1]  actualY =  [0]
+outputs =  [0]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [0]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [0]  actualY =  [1]
+outputs =  [0]  actualY =  [1]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [0]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [0]  actualY =  [1]
+outputs =  [0]  actualY =  [1]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [0]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [0]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [0]  actualY =  [1]
+outputs =  [0]  actualY =  [1]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [0]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [1]
+outputs =  [0]  actualY =  [1]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [1]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [1]
+outputs =  [0]  actualY =  [1]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [1]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [1]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [1]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [1]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [0]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [0]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [0]  actualY =  [0]
+outputs =  [1]  actualY =  [0]
+outputs =  [0]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [0]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [0]  actualY =  [1]
+outputs =  [0]  actualY =  [1]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [0]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [0]  actualY =  [1]
+outputs =  [0]  actualY =  [1]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [0]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [0]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [0]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [1]
+outputs =  [0]  actualY =  [1]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [1]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [1]
+outputs =  [0]  actualY =  [1]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [1]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [1]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [1]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [0]  actualY =  [0]
+outputs =  [1]  actualY =  [0]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [0]  actualY =  [0]
+outputs =  [1]  actualY =  [0]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [0]  actualY =  [0]
+outputs =  [1]  actualY =  [0]
+outputs =  [0]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [0]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [0]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [0]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [0]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [1]  actualY =  [1]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [1]
+outputs =  [0]  actualY =  [1]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [1]
+outputs =  [0]  actualY =  [1]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [1]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [1]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+outputs =  [0]  actualY =  [0]
+371   432   0.858796296296
