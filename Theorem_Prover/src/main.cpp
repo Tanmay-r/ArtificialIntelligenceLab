@@ -1,14 +1,16 @@
 #include <iostream>
-
-#include "parser.h"
+#include "prover.h"
 using namespace std;
 
 int main() {
 	
-	parser * myparser = new parser();
 
-	Formula_Object = myparser->parse("(p >(p|p))");
-	Formula_Object->print_formula();
+
+	string Theorem;
+	cout << "Enter the theorem " << endl;
+	cin>> Theorem ;
+	prover * my_prover = new prover(Theorem);
+	my_prover->next_step();
 		
 
 }

@@ -13,8 +13,12 @@ formula * parser::parse(string formula_string){
 
 	string new_str="";
 	int i = 0;
-	if(formula_string.size() == 1)
-		return new unary_formula(formula_string);
+	if(formula_string.size() == 1){
+		string name ="(";
+		name += formula_string ;
+		name += ")";
+		return new unary_formula(name);
+	}
 	else{
 		while(i<formula_string.size())
 		{
@@ -26,9 +30,16 @@ formula * parser::parse(string formula_string){
 			}
 			
 		}
-
+		
 		vector <string> lhs_rhs = give_lhs_rhs_string (new_str.substr(1,new_str.size()-2));
-		return new binary_formula(parse(lhs_rhs[0]),parse(lhs_rhs[1])) ;
+		string name = "(" ;
+		name  += lhs_rhs[0] ;
+		name +=">" ;
+		name += lhs_rhs[1];
+		name += ")" ;
+		//cout << lhs_rhs[1] << endl;
+		return new binary_formula(parse(lhs_rhs[0]),parse(lhs_rhs[1]),name) ;
+		//return parse(lhs_rhs[1]);
 	}
 }
 
@@ -42,6 +53,8 @@ vector<string> parser::give_lhs_rhs_string(string formula_string){
 	int balanced_paran = 0;
 	string lhs = "" ;
 	string rhs = "";
+	//cout << "size :" << size <<endl;
+	//cout << "in break : " <<formula_string <<endl;
 	while(i < size){			
 		if(formula_string[i] == '(')
 			balanced_paran++;
@@ -57,6 +70,7 @@ vector<string> parser::give_lhs_rhs_string(string formula_string){
 
 			rhs+=formula_string.substr(i+1);
 
+			//cout << "in break rhs : " <<rhs <<endl;
 			break;
 		}
 		if(formula_string[i] == '|' && balanced_paran == 0){
