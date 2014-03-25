@@ -10,7 +10,10 @@ int main() {
 	cout << "Enter the theorem " << endl;
 	cin>> Theorem ;
 	prover * my_prover = new prover(Theorem);
+	my_prover->print_component_list();
+
 	my_prover->next_step();
+
 		
 
 }

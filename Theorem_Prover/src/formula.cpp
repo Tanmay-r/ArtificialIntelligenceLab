@@ -24,12 +24,12 @@ void formula::merge_list(){
 }
 
 formula* formula::get_lhs(){
-	cout<<"Should not rech this merge" << endl;
+	cout<<"Should not have lhs" << endl;
 	exit(0);
 	return NULL;
 }
 formula* formula::get_rhs(){
-	cout<<"Should not rech this merge" << endl;
+	cout<<"Should not have lhs" << endl;
 	exit(0);
 	return NULL;
 }
