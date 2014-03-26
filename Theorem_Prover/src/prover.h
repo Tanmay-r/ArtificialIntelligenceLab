@@ -9,14 +9,15 @@ class prover {
 	axiom set_up_axiom;
 	parser my_parser;
 	formula * theorem;
-	formula * current_guess_formula;
+	formula * current_guess_formula ;
+	int cur_guess_index;
 public:
 	prover(string Formula);
 	~prover();
 	void next_step();
 	void print_component_list();
 	void use_MP(int Li , int Lj);
-	void apply_axiom();
+	bool apply_axiom();
 	void guess_start_hypothesis();
 	int* axiom_to_use(formula * cur_hyp);
 	bool is_applicable_for_mp();

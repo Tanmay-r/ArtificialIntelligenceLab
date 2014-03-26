@@ -29,7 +29,7 @@ formula* formula::get_lhs(){
 	return NULL;
 }
 formula* formula::get_rhs(){
-	cout<<"Should not have lhs" << endl;
+	cout<<"Should not have rhs" << endl;
 	exit(0);
 	return NULL;
 }

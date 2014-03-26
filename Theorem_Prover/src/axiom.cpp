@@ -108,7 +108,7 @@ formula * axiom::axiom_A3(formula * A){
 
 formula * axiom::axiom_A11(string A , string B){
 
-	string name_lhs = A;
+	string name_lhs = A ;
 	string name_rhs ="(";
 	name_rhs+=B;
 	name_rhs+=">";
@@ -182,13 +182,13 @@ formula * axiom::axiom_A31(string A){
 	name_lhs_a = "(" ;
 	name_lhs_a += A;
 	name_lhs_a+= ">" ;
-	name_lhs_a += "(F)";
+	name_lhs_a += "F";
 	name_lhs_a += ")";
 
 	name_lhs = "(" ;
 	name_lhs += name_lhs_a ;
 	name_lhs += ">" ;
-	name_lhs +="(F))";
+	name_lhs +="F)";
 
 
 	name  = "(" ;

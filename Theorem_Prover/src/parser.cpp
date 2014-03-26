@@ -32,13 +32,21 @@ formula * parser::parse(string formula_string){
 		}
 		
 		vector <string> lhs_rhs = give_lhs_rhs_string (new_str.substr(1,new_str.size()-2));
-		string name = "(" ;
-		name  += lhs_rhs[0] ;
-		name +=">" ;
-		name += lhs_rhs[1];
-		name += ")" ;
+		string name = "(";
 		//cout << lhs_rhs[1] << endl;
-		return new binary_formula(parse(lhs_rhs[0]),parse(lhs_rhs[1]),name) ;
+		formula * lhs = parse(lhs_rhs[0]) ;
+		formula * rhs = parse(lhs_rhs[1]) ;
+		if(lhs->get_type() == 0)
+			name+= lhs->get_formula_name().substr(1,1);
+		else
+			name+= lhs->get_formula_name() ;
+		name+=">";
+		if(rhs->get_type() == 0)
+			name+= rhs->get_formula_name().substr(1,1);
+		else
+			name+= rhs->get_formula_name() ;	
+		name+=")" ;	
+		return new binary_formula(lhs,rhs,name) ;
 		//return parse(lhs_rhs[1]);
 	}
 }
