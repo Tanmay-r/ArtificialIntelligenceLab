@@ -81,6 +81,15 @@ int * prover::axiom_to_use(formula * cur_hyp){
 			}
 		}
 	}
+	if(list_of_guesses[cur_guess_index]->get_type() == 1){
+		formula * rhs =  list_of_guesses[cur_guess_index]->get_rhs() ;
+		formula * lhs = list_of_guesses[cur_guess_index]->get_lhs() ;
+		if(rhs->get_formula_name().compare("F") == 0 && lhs->get_type() == 1){
+			if(lhs->get_rhs()->get_formula_name().compare("(F)") == 0);
+				arr[2] = 1 ;
+		}
+	}
+
 	return arr ;
 }
 
@@ -178,7 +187,7 @@ void prover::hint(){
 			cin>>Li;
 			cout << "Choose second hypothesis by its index" << endl ;
 			cin>>Lj;
-			use_MP(Li,Lj);	
+
 		}
 	else {
 			cout << "Do you want to apply axiom ? (Y/N) " << endl;
