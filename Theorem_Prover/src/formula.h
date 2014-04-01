@@ -21,6 +21,7 @@ class formula{
 protected:
 	bool formula_status;
 	int type;
+	bool can_be_guess;
 public:
 	formula();
 	~formula();
@@ -29,6 +30,7 @@ public:
 	virtual list<formula *>  & get_list() = 0;
 	virtual void make_list() = 0;
 	virtual int get_type() = 0;
+	virtual bool check_guess() = 0;
 	virtual void print_formula() = 0;
 	virtual string get_formula_name() = 0;
 	virtual void print_rhs_lhs();
@@ -56,6 +58,7 @@ public:
 	formula * get_rhs();
 	void make_list();
 	int get_type();
+	bool check_guess() ;
 	string get_formula_name();
 	void print_rhs_lhs();
 	void merge_list();
@@ -75,6 +78,7 @@ public:
 	list<formula *> & get_list();
 	void make_list();
 	int get_type();
+	bool check_guess() ;
 	string get_formula_name();
 	void merge_list() ;
 };

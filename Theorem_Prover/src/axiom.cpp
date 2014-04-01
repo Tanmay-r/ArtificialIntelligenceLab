@@ -100,7 +100,7 @@ formula * axiom::axiom_A3(formula * A){
 
 	binary_formula *lhs = new binary_formula(new binary_formula (A , new unary_formula("F") ,name_lhs_a) , new unary_formula("F") , name_lhs);
 	binary_formula * to_return = new binary_formula(lhs, A , name);
-	to_return->set_status(true); 
+	//to_return->set_status(true); 
 	return to_return ;
 
 }
@@ -120,7 +120,7 @@ formula * axiom::axiom_A11(string A , string B){
 	name += name_rhs ;
 	name +=")";
 	formula * to_return = axiom_parser.parse(name);
-	to_return->set_status(true); 
+	//to_return->set_status(true); 
 	return to_return ;
 
 }
@@ -171,7 +171,7 @@ formula * axiom::axiom_A21(string A, string B, string C){
 	name += ")";
 	
 	formula * to_return = axiom_parser.parse(name);
-	to_return->set_status(true); 
+	//to_return->set_status(true); 
 	return to_return ;
 	
 }
@@ -197,7 +197,7 @@ formula * axiom::axiom_A31(string A){
 	name += A;
 	name += ")" ;
 	formula * to_return = axiom_parser.parse(name);
-	to_return->set_status(true); 
+	//to_return->set_status(true); 
 	return to_return ;
 
 }

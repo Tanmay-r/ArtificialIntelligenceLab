@@ -38,8 +38,9 @@ binary_formula::binary_formula(formula *temp_lhs , formula * temp_rhs , string n
 	
 	lhs = temp_lhs;
 	rhs = temp_rhs;
-	formula_status = false ;
+	formula_status = true ;
 	type = 1;
+	can_be_guess = 1;
 	formula_name = name;
 }
 
@@ -102,6 +103,11 @@ int binary_formula::get_type(){
 	return type;
 }
 
+bool binary_formula::check_guess(){
+
+	return can_be_guess;
+}
+
 string binary_formula::get_formula_name(){
 
 	return formula_name ;
@@ -110,8 +116,9 @@ string binary_formula::get_formula_name(){
 /********************************************************************************/
 unary_formula::unary_formula(string var_name){
 	name = var_name;
-	formula_status = false ;
+	formula_status = true ;
 	type = 0;
+	can_be_guess = 1;
 
 
 }
@@ -152,6 +159,10 @@ int unary_formula::get_type(){
 	return type;
 }
 
+bool unary_formula::check_guess(){
+
+	return can_be_guess;
+}
 void unary_formula::print_formula(){
 	cout << " " << name << " ";
 }

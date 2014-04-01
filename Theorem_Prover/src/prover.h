@@ -11,17 +11,20 @@ class prover {
 	formula * theorem;
 	formula * current_guess_formula ;
 	int cur_guess_index;
+	bool hint_flag ;
+	vector <formula *> list_of_guesses ;
 public:
 	prover(string Formula);
 	~prover();
 	void next_step();
 	void print_component_list();
-	void use_MP(int Li , int Lj);
+	void put_in_guess_list(formula * f);
 	bool apply_axiom();
-	void guess_start_hypothesis();
+	void guess_start_hypothesis(int level);
 	int* axiom_to_use(formula * cur_hyp);
-	bool is_applicable_for_mp();
-	bool is_in_Deduction_list();
+	bool is_in_Deduction_list(formula * f);
+	void hint();
+	bool apply_mp() ;
  };
 
 #endif
