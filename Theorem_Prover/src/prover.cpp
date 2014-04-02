@@ -11,7 +11,7 @@ prover::prover(string Formula){
 	theorem->make_list();
 	for (list<formula * >::iterator it=theorem->get_list().begin(); it != theorem->get_list().end(); ++it){
 		(*it)->set_status(true);
-		Deduction_list.push_back((*it));
+		Deduction_list.push_back(*it);
 		put_in_guess_list((*it));
 	}
 	proved  = false ;
@@ -81,12 +81,13 @@ int * prover::axiom_to_use(formula * cur_hyp){
 			}
 		}
 	}
-	if(list_of_guesses[cur_guess_index]->get_type() == 1){
-		formula * rhs =  list_of_guesses[cur_guess_index]->get_rhs() ;
-		formula * lhs = list_of_guesses[cur_guess_index]->get_lhs() ;
-		if(rhs->get_formula_name().compare("F") == 0 && lhs->get_type() == 1){
-			if(lhs->get_rhs()->get_formula_name().compare("(F)") == 0);
+	if(Deduction_list[cur_guess_index]->get_type() == 1){
+		formula * rhs =  Deduction_list[cur_guess_index]->get_rhs() ;
+		formula * lhs = Deduction_list[cur_guess_index]->get_lhs() ;
+		if(rhs->get_formula_name().compare("(F)") == 0 && lhs->get_type() == 1){
+			if(lhs->get_rhs()->get_formula_name().compare("(F)") == 0){
 				arr[2] = 1 ;
+			}
 		}
 	}
 
@@ -151,12 +152,38 @@ bool prover::apply_axiom(){
 		}
 	}
 	else{
-		Deduction_list[cur_guess_index]->set_status(false);
+		if(arr[2]== 1){
+			present = false ;
+			string  A = current_guess_formula->get_lhs()->get_formula_name() ;
+			if(current_guess_formula->get_lhs()->get_type() == 0 )
+				A = current_guess_formula->get_lhs()->get_formula_name().substr(1,1);
+			formula* ax3 = set_up_axiom.axiom_A31(A) ;
+			for(int i = 0; i < Deduction_list.size(); i++){
+				if( Deduction_list[i]->get_formula_name().compare(ax3->get_formula_name()) == 0){
+					present = true ;
+				}
+			}
+			if(present){
+				Deduction_list[cur_guess_index]->set_status(false);
+			}
+			else{
+				cout << "Applying axiom 3" << endl ;
+				cout <<" " << A << endl ;
+				Deduction_list.push_back(ax3) ;
+				return true ;
+			}
+		}
+		else
+			Deduction_list[cur_guess_index]->set_status(false);
 	}
 	return false ;
 }
 
+void prover::start_proof(){
+	cout << "Proof Start..." << endl;
+	next_step();
 
+}
 
 bool prover::is_in_Deduction_list(formula * f ){
 	bool is_present = false ;
@@ -225,6 +252,50 @@ void prover::hint(){
 						break;			
 				}
 			}
+			else{
+				string thm ;
+				cout << "Do you want to another theorem ? (Y/N)" << endl;
+				cin >> flag ;
+				if(flag == 'Y' || flag == 'y'){
+					
+					cout << "Enter the Formula" << endl ;
+					cin >> thm ;
+					formula * new_thm = my_parser.parse(thm);
+					cout << "Do you want to prove it " << endl;
+					cin>> flag ;
+					if(flag == 'Y' || flag == 'y'){
+						//TODO
+						vector<formula *> temp ;
+
+						for(int i =0 ; i < Deduction_list.size(); i++){
+							temp.push_back(Deduction_list[i]);
+						}
+						Deduction_list.clear() ;
+						list_of_guesses.clear();
+						temp.push_back(new_thm);
+
+
+
+						new_thm->make_list() ;
+						for (list<formula * >::iterator it=new_thm->get_list().begin(); it != new_thm->get_list().end(); ++it){
+							(*it)->set_status(true);
+							Deduction_list.push_back(*it);
+							put_in_guess_list((*it));
+						}
+						next_step() ;
+
+						for(int i =0 ; i < temp.size(); i++){
+							Deduction_list.push_back(temp[i]);
+							put_in_guess_list(temp[i]) ;
+						}
+
+					}
+					else{
+						Deduction_list.push_back(new_thm);
+						put_in_guess_list(new_thm) ;
+					}
+				}
+			}
 		}
 
 }
@@ -254,7 +325,7 @@ bool prover::apply_mp(){
 	return mp_app ;
 }
 void prover::next_step(){
-	cout << "Proof Start..." << endl;
+
 	int alpha = 0;
 	while(!proved && alpha < 50){
 		cout << "Current Proof Status " << endl;

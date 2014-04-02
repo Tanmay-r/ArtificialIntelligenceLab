@@ -24,6 +24,7 @@ public:
 	int* axiom_to_use(formula * cur_hyp);
 	bool is_in_Deduction_list(formula * f);
 	void hint();
+	void start_proof() ;
 	bool apply_mp() ;
  };
 

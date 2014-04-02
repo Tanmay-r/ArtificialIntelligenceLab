@@ -12,7 +12,7 @@ int main() {
 	prover * my_prover = new prover(Theorem);
 	my_prover->print_component_list();
 
-	my_prover->next_step();
+	my_prover->start_proof();
 
 		
 
