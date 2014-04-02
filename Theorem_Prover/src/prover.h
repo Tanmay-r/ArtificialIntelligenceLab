@@ -26,6 +26,8 @@ public:
 	void hint();
 	void start_proof() ;
 	bool apply_mp() ;
+	bool apply_axiom_guess() ;
+
  };
 
 #endif

@@ -94,6 +94,71 @@ int * prover::axiom_to_use(formula * cur_hyp){
 	return arr ;
 }
 
+bool prover::apply_axiom_guess(){
+	bool flag = false ;
+	formula * f = Deduction_list[cur_guess_index] ;
+	if(f->get_rhs()->get_formula_name().compare("(F)") == 0){
+		string A = f->get_formula_name() ;
+		for (set<string>::iterator it=Component_list.begin(); it!=Component_list.end(); ++it){
+			string B = (*it) ;
+			if(B.size() == 3 && (B.compare("(F)") != 0)){
+				B = B.substr(1,1);
+				formula * ax1 = set_up_axiom.axiom_A11(A,B) ;
+				if(!is_in_Deduction_list(ax1)){
+					cout << "Applying Axiom 1" << endl;
+					cout <<" " << A << endl ;
+					cout <<" " << B << endl ;
+					Deduction_list.push_back(ax1);
+					put_in_guess_list(ax1);
+					flag  = true ;
+				}
+				else{
+					delete(ax1);
+				}
+			}
+			/*if(B.size() == 5){
+				formula * ax1 = set_up_axiom.axiom_A11(A,B) ;
+				if(!is_in_Deduction_list(ax1)){
+					Deduction_list.push_back(ax1);
+					put_in_guess_list(ax1);
+					present  = true ;
+				}
+				else{
+					delete(ax1);
+				}
+			}*/
+		}
+	}
+	//formula * rhs = current_guess_formula->get_rhs() ;
+	if(f->get_type() == 1 && f->get_rhs()->get_type() == 1){
+		formula * rhs = f->get_rhs() ;
+		formula * lhs = f->get_lhs() ;
+		string A = lhs->get_formula_name() ;
+		string B = rhs->get_lhs()->get_formula_name() ;
+		if(A.size() == 3)
+			A = A.substr(1,1) ;
+		if(B.size() == 3)
+			B = B.substr(1,1) ;	
+		formula * ax3 = set_up_axiom.axiom_A21(A,B,"F") ;
+		if(!is_in_Deduction_list(ax3)){
+			cout << "Applying axiom 2" << endl ;
+			cout <<" "<<A << endl; 
+			cout <<" "<<B<< endl; 
+			cout <<" "<<"F" << endl; 
+
+			Deduction_list.push_back(ax3);
+			put_in_guess_list(ax3);
+			flag  = true ;
+		}
+		else{
+			delete(ax3);
+		}
+
+	}
+	return flag ;
+}
+
+
 bool prover::apply_axiom(){
 
 	int* arr  = axiom_to_use(current_guess_formula) ;
@@ -206,97 +271,90 @@ void prover::hint(){
 	hint_flag = false ;
 	int axiom_no;
 	int Li , Lj ;
-	cout << "Do you want to apply manually MP ? (Y/N) " << endl;
-	cin >> flag ;
-	
-	if(flag == 'Y' || flag == 'y'){
-			cout << "Choose first hypothesis by its index" << endl ;
-			cin>>Li;
-			cout << "Choose second hypothesis by its index" << endl ;
-			cin>>Lj;
 
+	cout << "Do you want to apply axiom ? (Y/N) " << endl;
+	cin >> flag ;
+	if(flag == 'Y' || flag == 'y'){
+		cout << "Choose an axiom number (1, 2, 3)" << endl;
+		cin>>axiom_no;
+		string A , B ,C;
+		formula * f;
+		switch (axiom_no){
+			case 1 :
+				cout << "Enter the first formula" << endl;
+				cin>>A;
+				cout << "Enter the second formula" << endl;
+				cin>>B;
+				Deduction_list.push_back(set_up_axiom.axiom_A11(A,B));
+				break;
+			case 2 :
+				cout << "Enter the first formula" << endl;
+				cin>>A;
+				cout << "Enter the second formula" << endl;
+				cin>>B;
+				cout << "Enter the third formula" << endl;
+				cin>>C;	
+				Deduction_list.push_back(set_up_axiom.axiom_A21(A, B, C));				
+				break;
+			case 3 :
+				cout << "Enter the formula" << endl;
+				cin>>A;
+				f = set_up_axiom.axiom_A31(A);	
+				Deduction_list.push_back(f);
+				break;	
+			default:
+				cout<< "PC has only three axioms" << endl ;	
+				break;			
 		}
-	else {
-			cout << "Do you want to apply axiom ? (Y/N) " << endl;
-			cin >> flag ;
+	}
+	else{
+		string thm ;
+		cout << "Do you want to another theorem ? (Y/N)" << endl;
+		cin >> flag ;
+		if(flag == 'Y' || flag == 'y'){
+			
+			cout << "Enter the Formula" << endl ;
+			cin >> thm ;
+			formula * new_thm = my_parser.parse(thm);
+			cout << "Do you want to prove it " << endl;
+			cin>> flag ;
 			if(flag == 'Y' || flag == 'y'){
-				cout << "Choose an axiom number (1, 2, 3)" << endl;
-				cin>>axiom_no;
-				string A , B ,C;
-				formula * f;
-				switch (axiom_no){
-					case 1 :
-						cout << "Enter the first formula" << endl;
-						cin>>A;
-						cout << "Enter the second formula" << endl;
-						cin>>B;
-						Deduction_list.push_back(set_up_axiom.axiom_A11(A,B));
-						break;
-					case 2 :
-						cout << "Enter the first formula" << endl;
-						cin>>A;
-						cout << "Enter the second formula" << endl;
-						cin>>B;
-						cout << "Enter the third formula" << endl;
-						cin>>C;	
-						Deduction_list.push_back(set_up_axiom.axiom_A21(A, B, C));				
-						break;
-					case 3 :
-						cout << "Enter the formula" << endl;
-						cin>>A;
-						f = set_up_axiom.axiom_A31(A);	
-						Deduction_list.push_back(f);
-						break;	
-					default:
-						cout<< "PC has only three axioms" << endl ;	
-						break;			
+				//TODO
+				vector<formula *> temp ;
+
+				for(int i =0 ; i < Deduction_list.size(); i++){
+					temp.push_back(Deduction_list[i]);
 				}
+				Deduction_list.clear() ;
+				list_of_guesses.clear();
+				temp.push_back(new_thm);
+
+
+
+				new_thm->make_list() ;
+				for (list<formula * >::iterator it=new_thm->get_list().begin(); it != new_thm->get_list().end(); ++it){
+					(*it)->set_status(true);
+					Deduction_list.push_back(*it);
+					put_in_guess_list((*it));
+				}
+				next_step() ;
+				proved = false ;
+				Deduction_list.clear() ;
+				list_of_guesses.clear() ;
+				for(int i =0 ; i < temp.size(); i++){
+					Deduction_list.push_back(temp[i]);
+					put_in_guess_list(temp[i]) ;
+				}
+				next_step() ;
+
 			}
 			else{
-				string thm ;
-				cout << "Do you want to another theorem ? (Y/N)" << endl;
-				cin >> flag ;
-				if(flag == 'Y' || flag == 'y'){
-					
-					cout << "Enter the Formula" << endl ;
-					cin >> thm ;
-					formula * new_thm = my_parser.parse(thm);
-					cout << "Do you want to prove it " << endl;
-					cin>> flag ;
-					if(flag == 'Y' || flag == 'y'){
-						//TODO
-						vector<formula *> temp ;
-
-						for(int i =0 ; i < Deduction_list.size(); i++){
-							temp.push_back(Deduction_list[i]);
-						}
-						Deduction_list.clear() ;
-						list_of_guesses.clear();
-						temp.push_back(new_thm);
-
-
-
-						new_thm->make_list() ;
-						for (list<formula * >::iterator it=new_thm->get_list().begin(); it != new_thm->get_list().end(); ++it){
-							(*it)->set_status(true);
-							Deduction_list.push_back(*it);
-							put_in_guess_list((*it));
-						}
-						next_step() ;
-
-						for(int i =0 ; i < temp.size(); i++){
-							Deduction_list.push_back(temp[i]);
-							put_in_guess_list(temp[i]) ;
-						}
-
-					}
-					else{
-						Deduction_list.push_back(new_thm);
-						put_in_guess_list(new_thm) ;
-					}
-				}
+				Deduction_list.push_back(new_thm);
+				put_in_guess_list(new_thm) ;
 			}
 		}
+	}
+		
 
 }
 bool prover::apply_mp(){
@@ -327,7 +385,7 @@ bool prover::apply_mp(){
 void prover::next_step(){
 
 	int alpha = 0;
-	while(!proved && alpha < 50){
+	while(!proved && alpha < 30){
 		cout << "Current Proof Status " << endl;
  		for(int i = 0 ; i < Deduction_list.size() ; i ++){
 			cout<< i <<" :: " << Deduction_list[i]->get_formula_name() << endl ;
@@ -355,7 +413,10 @@ void prover::next_step(){
 				if(is_applying_axiom){
 					break ;
 				}
-				else{
+				else if(apply_axiom_guess()){
+						break ;
+					}
+				else {
 					guess_start_hypothesis(1);
 				}
 				t++ ;
@@ -365,6 +426,17 @@ void prover::next_step(){
 			}
 		}
 		alpha++ ;
+		if(alpha == 30 ){
+			char flag ;
+			cout << "Its seem theorem is not tautology" << endl ;
+			cout << "Do you want to give hint (Y/N)" << endl;
+			if(flag == 'Y' || flag == 'y'){
+				proved = false ;
+				alpha = 10 ;
+				hint() ;
+			}
+		}
 
 	}
+
 }
