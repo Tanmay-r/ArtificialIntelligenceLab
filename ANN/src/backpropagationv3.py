@@ -85,7 +85,7 @@ def initializeW(layer, initializationParamter):
 		for j in range(1, layer[l + 1]):
 			temp = []
 			for i in range(layer[l]):
-				temp.append(np.random.uniform(-initializationParamter, initializationParamter))
+				temp.append(7+np.random.uniform(-initializationParamter, initializationParamter))
 			layerW.append(np.array(temp))
 		w.append(np.array(layerW))
 	return np.array(w)
