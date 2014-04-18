@@ -1,0 +1,130 @@
+Sample1
+
+    signal(X1),
+    signal(X2),
+    connected(A1,1,A,X1),
+    connected(A1,2,B,X2),
+    connected1(A1,out,Z1),
+    type(A1,xorgate, A,B,Z1),
+    out(Z1).
+    
+    
+Majority    
+   signal(A),
+   signal(B),
+   signal(C),
+   signal(D),
+   signal(E),
+   connected(G1,1,A1,C),
+   connected(G1,2,A2,D),
+   connected1(G1,out,Z1),
+   type(G1,orgate,A1,A2,Z1),
+   connected(G2,1,A3,A),
+   connected(G2,2,A4,E),
+   connected1(G2,out,Z2),
+   type(G2,orgate,A3,A4,Z2),
+   connected(G3,1,A5,B),
+   connected(G3,2,A6,Z1),
+   connected1(G3,out,Z3),
+   type(G3,andgate,A5,A6,Z3),
+   connected(G4,1,A7,Z3),
+   connected(G4,2,A8,Z2),
+   connected1(G4,out,Z4),
+   type(G4,andgate,A7,A8,Z4),
+   
+   connected(G5,1,A9,D),
+   connected(G5,2,A10,B),
+   connected1(G5,out,Z5),
+   type(G5,andgate,A9,A10,Z5),
+   
+   connected(G6,1,A11,E),
+   connected(G6,2,A12,D),
+   connected1(G6,out,Z6),
+   type(G6,andgate,A11,A12,Z6),
+
+   connected(G7,1,A13,A),
+   connected(G7,2,A14,D),
+   connected1(G7,out,Z7),
+   type(G7,andgate,A13,A14,Z7),
+   
+   connected(G8,1,A15,A),
+   connected(G8,2,A16,E),
+   connected1(G8,out,Z8),
+   type(G8,andgate,A15,A16,Z8),      
+   
+   connected(G14,1,A27,Z5),
+   connected(G14,2,A28,Z6),
+   connected1(G14,out,Z14),
+   type(G14,orgate,A27,A28,Z14),      
+   
+   connected(G15,1,A29,Z7),
+   connected(G15,2,A30,Z8),
+   connected1(G15,out,Z15),
+   type(G15,orgate,A29,A30,Z15),      
+   
+   connected(G16,1,A31,Z14),
+   connected(G16,2,A32,Z15),
+   connected1(G16,out,Z16),
+   type(G16,orgate,A31,A32,Z16),      
+   
+   connected(G17,1,A33,C),
+   connected(G17,2,A34,Z16),
+   connected1(G17,out,Z17),
+   type(G17,andgate,A33,A34,Z17),      
+   
+   connected(G9,1,A17,A),
+   connected(G9,2,A18,E),
+   connected1(G9,out,Z9),
+   type(G9,andgate,A17,A18,Z9),
+   connected(G10,1,A19,B),
+   connected(G10,2,A20,D),
+   connected1(G10,out,Z10),
+   type(G10,orgate,A19,A20,Z10),
+   connected(G11,1,A21,Z9),
+   connected(G11,2,A22,Z10),
+   connected1(G11,out,Z11),
+   type(G11,andgate,A21,A22,Z11),
+   
+   connected(G12,1,A23,Z4),
+   connected(G12,2,A24,Z17),
+   connected1(G12,out,Z12),
+   type(G12,orgate,A23,A24,Z12),
+   
+   connected(G13,1,A25,Z11),
+   connected(G13,2,A26,Z12),
+   connected1(G13,out,Z13),
+   type(G13,orgate,A25,A26,Z13),
+   
+   out(Z13).
+   
+   
+Palindrome
+
+   signal(A),
+   signal(B),
+   signal(C),
+   signal(D),
+   signal(E),
+   connected(G1,1,A1,A),
+   connected(G1,2,A2,E),
+   connected1(G1,out,Z1),
+   type(G1,xnorgate,A1,A2,Z1),
+   connected(G2,1,A3,B),
+   connected(G2,2,A4,D),
+   connected1(G2,out,Z2),
+   type(G2,xnorgate,A3,A4,Z2),
+   connected(G3,1,A5,Z1),
+   connected(G3,2,A6,Z2),
+   connected1(G3,out,Z3),
+   type(G3,andgate,A5,A6,Z3),
+   out(Z3).
+   
+
+   
+   
+   
+   
+   
+   
+   
+   

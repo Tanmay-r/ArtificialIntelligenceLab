@@ -12,7 +12,7 @@ inputArray = buildInput(5)
 outputArray = f_Parity(inputArray)
 layer = np.array([6, 32, 2])
 
-w = initializeW(layer, 1)
+w = initializeW(layer, 0)
 print "Estimating weights..."
 backpropagation(layer, inputArray, outputArray, w, eta, M, errorThresh)
 print "Weights: "
