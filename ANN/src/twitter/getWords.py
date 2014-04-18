@@ -1,4 +1,5 @@
 import re
+from stemming.porter2 import stem
 
 def removeUseless(tweet):
 	tweet = ' '.join(re.sub("(@[A-Za-z0-9]+)|([^0-9A-Za-z \t])|(\w+:\/\/\S+)"," ",tweet).split())
@@ -12,5 +13,6 @@ def getWords(tweet):
 	for w in wordsv0:
 		w = w.lower()
 		if w not in uselessWords:
+			w = stem(w)
 			wordsv1.append(w)
 	return wordsv1

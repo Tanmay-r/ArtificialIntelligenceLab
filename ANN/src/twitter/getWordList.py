@@ -20,12 +20,17 @@ def getWordList(file1, file2, file3, param):
 	data = f.read()
 	f.close()
 
+	word_count = {}
+
 	for line in data.split('\n'):
 		words = getWords(line)
 		for w in words:
 			if isValid(w):
 				if w not in wordList:
 					wordList.append(w.lower())
+					word_count[w.lower()] = 1
+				else:
+					word_count[w.lower()] = word_count[w.lower()] + 1
 
 	f = open(file2, 'r')
 	data = f.read()
@@ -37,6 +42,9 @@ def getWordList(file1, file2, file3, param):
 			if isValid(w):
 				if w not in wordList:
 					wordList.append(w.lower())
+					word_count[w.lower()] = 1
+				else:
+					word_count[w.lower()] = word_count[w.lower()] + 1
 
 	if(param == 3):
 		f = open(file3, 'r')
@@ -49,5 +57,15 @@ def getWordList(file1, file2, file3, param):
 				if isValid(w):
 					if w not in wordList:
 						wordList.append(w.lower())
+						word_count[w.lower()] = 1
+					else:
+						word_count[w.lower()] = word_count[w.lower()] + 1
 
-	return np.array(wordList)
+
+	newWordList = []
+	for w in wordList:
+		if(word_count[w] > 1):
+			newWordList.append(w)
+
+	np.random.shuffle(newWordList)
+	return np.array(newWordList)
